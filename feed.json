@@ -1,8 +1,8 @@
 {
  "app": "dangjian-study-feed",
  "ver": 1,
- "updated": "2026-10-11T08:08:14.621Z",
- "checked": "2026-10-11T08:08:14.621Z",
+ "updated": "2026-10-11T16:20:46.697Z",
+ "checked": "2026-10-11T16:20:46.697Z",
  "sources": [
   {
    "id": "qstheory",
@@ -91,6 +91,18 @@
   {
    "t": "在机制化对话中管控分歧 中欧经贸形成多项成果共识",
    "u": "https://www.qstheory.cn/20261011/6e7bfccc4d164bf2b33e288de6e5cfa9/c.html",
+   "d": "2026-10-11",
+   "s": "qstheory"
+  },
+  {
+   "t": "如何促进高质量充分就业",
+   "u": "https://www.qstheory.cn/20261011/0b5c0d26db7d4883a1e953ac13d12c37/c.html",
+   "d": "2026-10-11",
+   "s": "qstheory"
+  },
+  {
+   "t": "客观看待我国利用外资规模变化情况",
+   "u": "https://www.qstheory.cn/20261011/6ddc474d5bbb41c5a4d369609c4cb032/c.html",
    "d": "2026-10-11",
    "s": "qstheory"
   },
@@ -271,18 +283,6 @@
   {
    "t": "《求是》杂志编辑部：夯实中国式现代化的民生根基",
    "u": "https://www.qstheory.cn/20260930/10800ed32a334a6c95d6592ea6fe3e93/c.html",
-   "d": "2026-09-30",
-   "s": "qstheory"
-  },
-  {
-   "t": "办好关系民生连着民心的好事实事",
-   "u": "https://www.qstheory.cn/20260930/f7715e0190d04ac3880589862cfb9f92/c.html",
-   "d": "2026-09-30",
-   "s": "qstheory"
-  },
-  {
-   "t": "努力解决好就业这个最基本的民生问题",
-   "u": "https://www.qstheory.cn/20260930/b20a7f68bec74567bb5ff4a0cd513ae7/c.html",
    "d": "2026-09-30",
    "s": "qstheory"
   },
