@@ -1,15 +1,15 @@
 {
  "app": "dangjian-study-feed",
  "ver": 1,
- "updated": "2026-10-11T01:02:52.078Z",
- "checked": "2026-10-11T01:02:52.078Z",
+ "updated": "2026-10-11T08:08:14.621Z",
+ "checked": "2026-10-11T08:08:14.621Z",
  "sources": [
   {
    "id": "qstheory",
    "name": "求是网",
    "home": "https://www.qstheory.cn/",
    "ok": true,
-   "got": 79,
+   "got": 81,
    "count": 40
   },
   {
@@ -25,8 +25,8 @@
    "name": "人民网·理论",
    "home": "http://theory.people.com.cn/",
    "ok": true,
-   "got": 36,
-   "count": 30
+   "got": 37,
+   "count": 32
   },
   {
    "id": "dangjian",
@@ -41,11 +41,59 @@
    "name": "人民网·观点",
    "home": "http://opinion.people.com.cn/",
    "ok": true,
-   "got": 41,
+   "got": 40,
    "count": 40
   }
  ],
  "items": [
+  {
+   "t": "习近平总书记同卫生健康工作者的故事",
+   "u": "https://www.qstheory.cn/20261011/02e5fb259acc4804ace90aa2ec1650ed/c.html",
+   "d": "2026-10-11",
+   "s": "qstheory"
+  },
+  {
+   "t": "“必须把因地制宜发展新质生产力摆在更加突出的战略位置”",
+   "u": "https://www.qstheory.cn/20261011/4c70e9cd8ceb4a6a835c3e8bfc487807/c.html",
+   "d": "2026-10-11",
+   "s": "qstheory"
+  },
+  {
+   "t": "实施就业优先战略 织密社会保障网络",
+   "u": "https://www.qstheory.cn/20261011/e69c9902ae4044438c8023a2e6445fdc/c.html",
+   "d": "2026-10-11",
+   "s": "qstheory"
+  },
+  {
+   "t": "食品安全法修订草案公开征求意见",
+   "u": "https://www.qstheory.cn/20261011/17df7da5d1d847f58f4be26be04e8706/c.html",
+   "d": "2026-10-11",
+   "s": "qstheory"
+  },
+  {
+   "t": "三季度高频数据折射我国经济向好态势",
+   "u": "https://www.qstheory.cn/20261011/085fde518f8140359621f0b748baabec/c.html",
+   "d": "2026-10-11",
+   "s": "qstheory"
+  },
+  {
+   "t": "进一步加强汽车产品创新设计等管理 四部门征求意见",
+   "u": "https://www.qstheory.cn/20261011/3c68c3f37913498bbc745a64c79b2344/c.html",
+   "d": "2026-10-11",
+   "s": "qstheory"
+  },
+  {
+   "t": "国防部新闻发言人就近期涉军问题发布消息并答记者问",
+   "u": "https://www.qstheory.cn/20261011/d55acea3220743d5a30a223a2a55d819/c.html",
+   "d": "2026-10-11",
+   "s": "qstheory"
+  },
+  {
+   "t": "在机制化对话中管控分歧 中欧经贸形成多项成果共识",
+   "u": "https://www.qstheory.cn/20261011/6e7bfccc4d164bf2b33e288de6e5cfa9/c.html",
+   "d": "2026-10-11",
+   "s": "qstheory"
+  },
   {
    "t": "习近平经济思想引领中国加快发展新质生产力",
    "u": "https://www.qstheory.cn/20261010/d026989520f84b3eaba10923d7cd967c/c.html",
@@ -209,7 +257,7 @@
    "s": "qstheory"
   },
   {
-   "t": "深度调研 | 先进制造业调查：锻造大国核心竞争力的战略引擎",
+   "t": "深度调研│先进制造业调查：锻造大国核心竞争力的战略引擎",
    "u": "https://www.qstheory.cn/20260930/ec444b39407849f59ffa14552765870f/c.html",
    "d": "2026-09-30",
    "s": "qstheory"
@@ -235,54 +283,6 @@
   {
    "t": "努力解决好就业这个最基本的民生问题",
    "u": "https://www.qstheory.cn/20260930/b20a7f68bec74567bb5ff4a0cd513ae7/c.html",
-   "d": "2026-09-30",
-   "s": "qstheory"
-  },
-  {
-   "t": "精准有效实施更加积极的财政政策",
-   "u": "https://www.qstheory.cn/20260930/be1ab8083fee48ed9f0491021d2d50b0/c.html",
-   "d": "2026-09-30",
-   "s": "qstheory"
-  },
-  {
-   "t": "庆祝中华人民共和国成立77周年招待会在京举行 习近平发表重要讲话",
-   "u": "https://www.qstheory.cn/20260930/fafed3d8445b47d691ce500e1e08c23d/c.html",
-   "d": "2026-09-30",
-   "s": "qstheory"
-  },
-  {
-   "t": "习近平：在庆祝中华人民共和国成立77周年招待会上的讲话",
-   "u": "https://www.qstheory.cn/20260930/7393c466528c46c1becf2387bfeb806d/c.html",
-   "d": "2026-09-30",
-   "s": "qstheory"
-  },
-  {
-   "t": "习近平同文莱苏丹哈桑纳尔就中文建交35周年互致贺电",
-   "u": "https://www.qstheory.cn/20260930/fee4dd94631b49309d5ca2bc291e5ee0/c.html",
-   "d": "2026-09-30",
-   "s": "qstheory"
-  },
-  {
-   "t": "烈士纪念日向人民英雄敬献花篮仪式在京隆重举行 习近平等党和国家领导人出席",
-   "u": "https://www.qstheory.cn/20260930/b0af71b3f7cb4eb4850f21f4e1288d67/c.html",
-   "d": "2026-09-30",
-   "s": "qstheory"
-  },
-  {
-   "t": "激活向海经济新引擎",
-   "u": "https://www.qstheory.cn/20260930/1be96011593743109c3c11a3c558514c/c.html",
-   "d": "2026-09-30",
-   "s": "qstheory"
-  },
-  {
-   "t": "以首个五年规划引领香港高质量发展",
-   "u": "https://www.qstheory.cn/20260930/4e4b1b6523f14d63b5952e8434e2d6bc/c.html",
-   "d": "2026-09-30",
-   "s": "qstheory"
-  },
-  {
-   "t": "推进中华民族共同体建设的内蒙古实践",
-   "u": "https://www.qstheory.cn/20260930/431cbb10120c49e0980caef02cbe2950/c.html",
    "d": "2026-09-30",
    "s": "qstheory"
   },
@@ -339,6 +339,18 @@
    "u": "https://www.12371.cn/2026/08/13/ARTI1786589243505958.shtml",
    "d": "2026-08-13",
    "s": "12371"
+  },
+  {
+   "t": "习近平法治思想——创新发展马克思主义法治理论",
+   "u": "http://theory.people.com.cn/n1/2026/1011/c40531-40812316.html",
+   "d": "2026-10-11",
+   "s": "theory"
+  },
+  {
+   "t": "深刻理解全过程人民民主重大理念",
+   "u": "http://theory.people.com.cn/n1/2026/1011/c40531-40812313.html",
+   "d": "2026-10-11",
+   "s": "theory"
   },
   {
    "t": "习近平经济思想——我国经济高质量发展的科学指南",
@@ -695,6 +707,12 @@
    "s": "dangjian"
   },
   {
+   "t": "壹时评：给算法立规，为劳动者撑腰",
+   "u": "http://opinion.people.com.cn/n1/2026/1011/c223228-40812369.html",
+   "d": "2026-10-11",
+   "s": "opinion"
+  },
+  {
    "t": "人民锐评：文旅发展要谨防“四个失守”",
    "u": "http://opinion.people.com.cn/n1/2026/1010/c436867-40811927.html",
    "d": "2026-10-10",
@@ -926,12 +944,6 @@
    "t": "将科学家精神融入城市肌理（现场评论）",
    "u": "http://opinion.people.com.cn/n1/2026/0923/c461529-40803819.html",
    "d": "2026-09-23",
-   "s": "opinion"
-  },
-  {
-   "t": "解锁种子的时间“魔法”（现场评论）",
-   "u": "http://opinion.people.com.cn/n1/2026/0922/c461529-40803033.html",
-   "d": "2026-09-22",
    "s": "opinion"
   }
  ]
