@@ -1,15 +1,15 @@
 {
  "app": "dangjian-study-feed",
  "ver": 1,
- "updated": "2026-10-11T16:20:46.697Z",
- "checked": "2026-10-11T16:20:46.697Z",
+ "updated": "2026-10-12T01:22:33.455Z",
+ "checked": "2026-10-12T01:22:33.455Z",
  "sources": [
   {
    "id": "qstheory",
    "name": "求是网",
    "home": "https://www.qstheory.cn/",
    "ok": true,
-   "got": 81,
+   "got": 82,
    "count": 40
   },
   {
@@ -26,15 +26,15 @@
    "home": "http://theory.people.com.cn/",
    "ok": true,
    "got": 37,
-   "count": 32
+   "count": 40
   },
   {
    "id": "dangjian",
    "name": "人民网·党建",
    "home": "http://dangjian.people.com.cn/",
    "ok": true,
-   "got": 42,
-   "count": 29
+   "got": 44,
+   "count": 35
   },
   {
    "id": "opinion",
@@ -46,6 +46,42 @@
   }
  ],
  "items": [
+  {
+   "t": "循着习近平总书记指引的前进方向，健康中国建设步履愈发稳健扎实，14亿多中国人民的健康福祉不断提质增效",
+   "u": "https://www.qstheory.cn/20261012/4dcbb8ead39942c4b815c7331fb09e96/c.html",
+   "d": "2026-10-12",
+   "s": "qstheory"
+  },
+  {
+   "t": "大道致远，笃行不怠——记中国元首外交金秋繁忙季",
+   "u": "https://www.qstheory.cn/20261012/e30720edf63b480a8e1aff0eedd75f34/c.html",
+   "d": "2026-10-12",
+   "s": "qstheory"
+  },
+  {
+   "t": "从三星堆感悟中华民族的创造力",
+   "u": "https://www.qstheory.cn/20261012/fdafafb9a33e472e897c932e240f074f/c.html",
+   "d": "2026-10-12",
+   "s": "qstheory"
+  },
+  {
+   "t": "以高质量党建引领和保障高水平保护",
+   "u": "https://www.qstheory.cn/20261012/5903ee1b9cc14b75b6fdbdbc77758730/c.html",
+   "d": "2026-10-12",
+   "s": "qstheory"
+  },
+  {
+   "t": "着力加强党对宣传思想文化工作的领导",
+   "u": "https://www.qstheory.cn/20261012/d8bc696c941a4b889502b7b6be55c2fd/c.html",
+   "d": "2026-10-12",
+   "s": "qstheory"
+  },
+  {
+   "t": "如何增强社会保障长期韧性",
+   "u": "https://www.qstheory.cn/20261012/d503545cf575466eaaceb34c32b67812/c.html",
+   "d": "2026-10-12",
+   "s": "qstheory"
+  },
   {
    "t": "习近平总书记同卫生健康工作者的故事",
    "u": "https://www.qstheory.cn/20261011/02e5fb259acc4804ace90aa2ec1650ed/c.html",
@@ -251,42 +287,6 @@
    "s": "qstheory"
   },
   {
-   "t": "中国式现代化，何以民生为大",
-   "u": "https://www.qstheory.cn/20261005/5c73cd3e1b114891979470b9181723f2/c.html",
-   "d": "2026-10-05",
-   "s": "qstheory"
-  },
-  {
-   "t": "奋力谱写强国建设、民族复兴新篇章",
-   "u": "https://www.qstheory.cn/20261001/74fd9da50b3b428fa5f83ae9de6db6c9/c.html",
-   "d": "2026-10-01",
-   "s": "qstheory"
-  },
-  {
-   "t": "【新闻联播】《求是》杂志发表习近平总书记重要文章《加强普惠性、基础性、兜底性民生建设》",
-   "u": "https://www.qstheory.cn/20261001/4bf0716d155443abb094cefac9df1f57/c.html",
-   "d": "2026-10-01",
-   "s": "qstheory"
-  },
-  {
-   "t": "深度调研│先进制造业调查：锻造大国核心竞争力的战略引擎",
-   "u": "https://www.qstheory.cn/20260930/ec444b39407849f59ffa14552765870f/c.html",
-   "d": "2026-09-30",
-   "s": "qstheory"
-  },
-  {
-   "t": "习近平：加强普惠性、基础性、兜底性民生建设",
-   "u": "https://www.qstheory.cn/20260930/14152a8b895444b6a4da99555aec7d17/c.html",
-   "d": "2026-09-30",
-   "s": "qstheory"
-  },
-  {
-   "t": "《求是》杂志编辑部：夯实中国式现代化的民生根基",
-   "u": "https://www.qstheory.cn/20260930/10800ed32a334a6c95d6592ea6fe3e93/c.html",
-   "d": "2026-09-30",
-   "s": "qstheory"
-  },
-  {
    "t": "习近平经济思想引领中国加快发展新质生产力",
    "u": "https://www.12371.cn/2026/10/10/ARTI1791593493110703.shtml",
    "d": "2026-10-10",
@@ -341,6 +341,84 @@
    "s": "12371"
   },
   {
+   "t": "着力加强党对宣传思想文化工作的领导（深入学习贯彻习近平新时代中国特色社会主义思想）",
+   "u": "http://theory.people.com.cn/n1/2026/1012/c40531-40812725.html",
+   "d": "2026-10-12",
+   "s": "theory"
+  },
+  {
+   "t": "更好将中国减贫经验转化为国际公共产品（有的放矢）",
+   "u": "http://theory.people.com.cn/n1/2026/1012/c40531-40812724.html",
+   "d": "2026-10-12",
+   "s": "theory"
+  },
+  {
+   "t": "习近平法治思想——引领更高水平社会主义法治国家…",
+   "u": "http://theory.people.com.cn/n1/2026/1012/c40531-40812700.html",
+   "d": "2026-10-12",
+   "s": "theory"
+  },
+  {
+   "t": "以故事化表达提升党的创新理论传播效能",
+   "u": "http://theory.people.com.cn/n1/2026/1012/c40531-40812719.html",
+   "d": "2026-10-12",
+   "s": "theory"
+  },
+  {
+   "t": "以高质量党建引领和保障高水平保护",
+   "u": "http://theory.people.com.cn/n1/2026/1012/c40531-40812621.html",
+   "d": "2026-10-12",
+   "s": "theory"
+  },
+  {
+   "t": "【光明论坛】着力增强治理之“效”",
+   "u": "http://theory.people.com.cn/n1/2026/1012/c40531-40812610.html",
+   "d": "2026-10-12",
+   "s": "theory"
+  },
+  {
+   "t": "指导高质量发展的新的生产力理论",
+   "u": "http://theory.people.com.cn/n1/2026/1012/c40531-40812721.html",
+   "d": "2026-10-12",
+   "s": "theory"
+  },
+  {
+   "t": "用好保障人民健康的“大处方”",
+   "u": "http://theory.people.com.cn/n1/2026/1012/c40531-40812625.html",
+   "d": "2026-10-12",
+   "s": "theory"
+  },
+  {
+   "t": "拓展生态产品价值实现渠道必须做到因地制宜",
+   "u": "http://theory.people.com.cn/n1/2026/1012/c40531-40812622.html",
+   "d": "2026-10-12",
+   "s": "theory"
+  },
+  {
+   "t": "【光明时评】科技创新应向利民惠民倾斜",
+   "u": "http://theory.people.com.cn/n1/2026/1012/c40531-40812618.html",
+   "d": "2026-10-12",
+   "s": "theory"
+  },
+  {
+   "t": "从世界视野看中国式现代化",
+   "u": "http://theory.people.com.cn/n1/2026/1012/c40531-40812720.html",
+   "d": "2026-10-12",
+   "s": "theory"
+  },
+  {
+   "t": "以标识性概念表征自主知识体系的价值基础",
+   "u": "http://theory.people.com.cn/n1/2026/1012/c40531-40812623.html",
+   "d": "2026-10-12",
+   "s": "theory"
+  },
+  {
+   "t": "【光明论坛】营商环境优化须久久为功",
+   "u": "http://theory.people.com.cn/n1/2026/1012/c40531-40812615.html",
+   "d": "2026-10-12",
+   "s": "theory"
+  },
+  {
    "t": "习近平法治思想——创新发展马克思主义法治理论",
    "u": "http://theory.people.com.cn/n1/2026/1011/c40531-40812316.html",
    "d": "2026-10-11",
@@ -349,6 +427,12 @@
   {
    "t": "深刻理解全过程人民民主重大理念",
    "u": "http://theory.people.com.cn/n1/2026/1011/c40531-40812313.html",
+   "d": "2026-10-11",
+   "s": "theory"
+  },
+  {
+   "t": "人民论坛每日推荐（5篇）",
+   "u": "http://theory.people.com.cn/n1/2026/1011/c40531-40812358.html",
    "d": "2026-10-11",
    "s": "theory"
   },
@@ -389,7 +473,7 @@
    "s": "theory"
   },
   {
-   "t": "算电协同的内涵特征与战略价值（专题深思）",
+   "t": "| 算电协同的内涵特征与战略价值",
    "u": "http://theory.people.com.cn/n1/2026/1009/c40531-40811248.html",
    "d": "2026-10-09",
    "s": "theory"
@@ -497,40 +581,40 @@
    "s": "theory"
   },
   {
-   "t": "加快建设新时代高水平工程科学技术思想…",
-   "u": "http://theory.people.com.cn/n1/2026/0929/c40531-40807305.html",
-   "d": "2026-09-29",
-   "s": "theory"
+   "t": "以高质量党建引领和保障高水平保护",
+   "u": "http://dangjian.people.com.cn/n1/2026/1012/c117092-40812706.html",
+   "d": "2026-10-12",
+   "s": "dangjian"
   },
   {
-   "t": "构筑中华民族共有精神家园",
-   "u": "http://theory.people.com.cn/n1/2026/0929/c40531-40807240.html",
-   "d": "2026-09-29",
-   "s": "theory"
+   "t": "在岗在场，更在状态",
+   "u": "http://dangjian.people.com.cn/n1/2026/1012/c117092-40812728.html",
+   "d": "2026-10-12",
+   "s": "dangjian"
   },
   {
-   "t": "以金砖创新合作支撑全球南方产供链安全与稳定",
-   "u": "http://theory.people.com.cn/n1/2026/0929/c40531-40807236.html",
-   "d": "2026-09-29",
-   "s": "theory"
+   "t": "学深悟透 躬身践行",
+   "u": "http://dangjian.people.com.cn/n1/2026/1012/c117092-40812716.html",
+   "d": "2026-10-12",
+   "s": "dangjian"
   },
   {
-   "t": "金砖国家“勇做时代先锋”的理论内涵与世界意义（人民要论）",
-   "u": "http://theory.people.com.cn/n1/2026/0928/c40531-40806596.html",
-   "d": "2026-09-28",
-   "s": "theory"
+   "t": "坚持党性党风党纪一起抓",
+   "u": "http://dangjian.people.com.cn/n1/2026/1012/c117092-40812713.html",
+   "d": "2026-10-12",
+   "s": "dangjian"
   },
   {
-   "t": "第三届中欧关系高层次学术研讨会举行",
-   "u": "http://theory.people.com.cn/n1/2026/0928/c40531-40806743.html",
-   "d": "2026-09-28",
-   "s": "theory"
+   "t": "着力增强治理之“效”",
+   "u": "http://dangjian.people.com.cn/n1/2026/1012/c117092-40812704.html",
+   "d": "2026-10-12",
+   "s": "dangjian"
   },
   {
-   "t": "新时代全国史学期刊论坛在京召开",
-   "u": "http://theory.people.com.cn/n1/2026/0923/c40531-40804140.html",
-   "d": "2026-09-23",
-   "s": "theory"
+   "t": "火箭装上“红色引擎”",
+   "u": "http://dangjian.people.com.cn/n1/2026/1012/c117092-40812718.html",
+   "d": "2026-10-12",
+   "s": "dangjian"
   },
   {
    "t": "坚持制度治党依规治党",
