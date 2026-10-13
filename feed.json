@@ -1,8 +1,8 @@
 {
  "app": "dangjian-study-feed",
  "ver": 1,
- "updated": "2026-10-13T03:04:18.808Z",
- "checked": "2026-10-13T03:04:18.808Z",
+ "updated": "2026-10-13T11:52:09.140Z",
+ "checked": "2026-10-13T11:52:09.140Z",
  "sources": [
   {
    "id": "qstheory",
@@ -18,7 +18,7 @@
    "home": "https://www.12371.cn/",
    "ok": true,
    "got": 13,
-   "count": 11
+   "count": 12
   },
   {
    "id": "theory",
@@ -41,7 +41,7 @@
    "name": "人民网·观点",
    "home": "http://opinion.people.com.cn/",
    "ok": true,
-   "got": 43,
+   "got": 44,
    "count": 40
   }
  ],
@@ -103,6 +103,30 @@
   {
    "t": "人工智能时代，搞科研的“远虑”与“近忧”",
    "u": "https://www.qstheory.cn/20261013/ab77496a59134de58d4cd5cafbbd4d54/c.html",
+   "d": "2026-10-13",
+   "s": "qstheory"
+  },
+  {
+   "t": "习近平：坚定不移走中国特色卫生与健康发展道路 确保“十五五”时期健康中国建设取得决定性进展",
+   "u": "https://www.qstheory.cn/20261013/ca2f6aa5d61a451b9e7efc8612866abb/c.html",
+   "d": "2026-10-13",
+   "s": "qstheory"
+  },
+  {
+   "t": "深刻把握中华文明突出的统一性②",
+   "u": "https://www.qstheory.cn/20261013/ceb851da5b9e4c2ba38b9d8e7f8d7cd2/c.html",
+   "d": "2026-10-13",
+   "s": "qstheory"
+  },
+  {
+   "t": "我国先进制造业发展面临哪些时代课题",
+   "u": "https://www.qstheory.cn/20261013/36e6b63840334aefb1c4709633737530/c.html",
+   "d": "2026-10-13",
+   "s": "qstheory"
+  },
+  {
+   "t": "地方政府吸引外资要在拼“内功”上下功夫",
+   "u": "https://www.qstheory.cn/20261013/c02021f27a964bba910b64dad5ab99a4/c.html",
    "d": "2026-10-13",
    "s": "qstheory"
   },
@@ -203,6 +227,12 @@
    "s": "qstheory"
   },
   {
+   "t": "《青春的长征》第五集：身陷困境，你的力量从哪里来？",
+   "u": "https://www.qstheory.cn/20261012/f66150e36c3741a0be7a00dcc1311849/c.html",
+   "d": "2026-10-12",
+   "s": "qstheory"
+  },
+  {
    "t": "习近平总书记同卫生健康工作者的故事",
    "u": "https://www.qstheory.cn/20261011/02e5fb259acc4804ace90aa2ec1650ed/c.html",
    "d": "2026-10-11",
@@ -257,34 +287,10 @@
    "s": "qstheory"
   },
   {
-   "t": "客观看待我国利用外资规模变化情况",
-   "u": "https://www.qstheory.cn/20261011/6ddc474d5bbb41c5a4d369609c4cb032/c.html",
-   "d": "2026-10-11",
-   "s": "qstheory"
-  },
-  {
-   "t": "《青春的长征》第四集：大局面前，你将怎样抉择？",
-   "u": "https://www.qstheory.cn/20261011/71372bddae2b4b4f874c12ebfae639b1/c.html74c12ebfae639b1_20261011ee1c47a82407477ea6b21e78eebae232.png",
-   "d": "2026-10-11",
-   "s": "qstheory"
-  },
-  {
-   "t": "习近平经济思想引领中国加快发展新质生产力",
-   "u": "https://www.qstheory.cn/20261010/d026989520f84b3eaba10923d7cd967c/c.html",
-   "d": "2026-10-10",
-   "s": "qstheory"
-  },
-  {
-   "t": "基础研究亟待“开渠引水”",
-   "u": "https://www.qstheory.cn/20261010/221515eab86e489aa876fa671197aa67/c.html",
-   "d": "2026-10-10",
-   "s": "qstheory"
-  },
-  {
-   "t": "怎么办好关系民生连着民心的好事实事",
-   "u": "https://www.qstheory.cn/20261010/fe29bfafa50a4d6fa1f276dff5631529/c.html",
-   "d": "2026-10-10",
-   "s": "qstheory"
+   "t": "习近平出席全国卫生与健康大会并发表重要讲话",
+   "u": "https://www.12371.cn/2026/10/13/ARTI1791872042951355.shtml",
+   "d": "2026-10-13",
+   "s": "12371"
   },
   {
    "t": "习近平总书记引领健康中国建设",
@@ -635,6 +641,24 @@
    "s": "dangjian"
   },
   {
+   "t": "潮声为证，海霞正红",
+   "u": "http://dangjian.people.com.cn/n1/2026/1013/c117092-40813790.html",
+   "d": "2026-10-13",
+   "s": "dangjian"
+  },
+  {
+   "t": "“三评五联”让服务更规范",
+   "u": "http://dangjian.people.com.cn/n1/2026/1013/c117092-40813789.html",
+   "d": "2026-10-13",
+   "s": "dangjian"
+  },
+  {
+   "t": "唤醒沉睡资源 深耕共富产业",
+   "u": "http://dangjian.people.com.cn/n1/2026/1013/c117092-40813788.html",
+   "d": "2026-10-13",
+   "s": "dangjian"
+  },
+  {
    "t": "以高质量党建引领和保障高水平保护",
    "u": "http://dangjian.people.com.cn/n1/2026/1012/c117092-40812706.html",
    "d": "2026-10-12",
@@ -815,24 +839,6 @@
    "s": "dangjian"
   },
   {
-   "t": "追光的你丨英雄老兵王於昌的传奇人生",
-   "u": "http://dangjian.people.com.cn/n1/2026/0929/c117092-40807323.html",
-   "d": "2026-09-29",
-   "s": "dangjian"
-  },
-  {
-   "t": "一声“玛牟” 一生守护",
-   "u": "http://dangjian.people.com.cn/n1/2026/0929/c117092-40807536.html",
-   "d": "2026-09-29",
-   "s": "dangjian"
-  },
-  {
-   "t": "中央纪委国家监委公开通报六起违反中央八项规定精神…",
-   "u": "http://dangjian.people.com.cn/n1/2026/0924/c117092-40805014.html",
-   "d": "2026-09-24",
-   "s": "dangjian"
-  },
-  {
    "t": "在升级中扩容，在转型中提质（人民时评）",
    "u": "http://opinion.people.com.cn/n1/2026/1013/c461529-40813227.html",
    "d": "2026-10-13",
@@ -889,6 +895,12 @@
   {
    "t": "身边小事莫小视（评论员观察）",
    "u": "http://opinion.people.com.cn/n1/2026/1013/c461529-40813226.html",
+   "d": "2026-10-13",
+   "s": "opinion"
+  },
+  {
+   "t": "环球时报社评：爱丽舍宫雄心很大，心眼很小",
+   "u": "http://opinion.people.com.cn/n1/2026/1013/c462004-40813737.html",
    "d": "2026-10-13",
    "s": "opinion"
   },
@@ -1063,12 +1075,6 @@
   {
    "t": "青春华章｜壹时评：实干为笔，书写端稳中国饭碗的青春答卷",
    "u": "http://opinion.people.com.cn/n1/2026/1008/c223228-40810765.html",
-   "d": "2026-10-08",
-   "s": "opinion"
-  },
-  {
-   "t": "可敬的中国 灿烂的明天（人民时评）",
-   "u": "http://opinion.people.com.cn/n1/2026/1008/c461529-40810281.html",
    "d": "2026-10-08",
    "s": "opinion"
   }
