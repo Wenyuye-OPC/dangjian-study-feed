@@ -1,8 +1,8 @@
 {
  "app": "dangjian-study-feed",
  "ver": 1,
- "updated": "2026-10-15T15:05:37.004Z",
- "checked": "2026-10-15T15:05:37.004Z",
+ "updated": "2026-10-16T00:27:03.528Z",
+ "checked": "2026-10-16T00:27:03.528Z",
  "sources": [
   {
    "id": "qstheory",
@@ -133,6 +133,12 @@
   {
    "t": "我国推动“十五五”期间基本实现地市科技馆全覆盖",
    "u": "https://www.qstheory.cn/20261015/0fed9e2eee524689b71c9d19c64185ad/c.html",
+   "d": "2026-10-15",
+   "s": "qstheory"
+  },
+  {
+   "t": "《求是》杂志评论员：以政策协同破解供强需弱矛盾",
+   "u": "https://www.qstheory.cn/20261015/9d952f955fd34b64bcc90ed192e0f523/c.html",
    "d": "2026-10-15",
    "s": "qstheory"
   },
@@ -277,12 +283,6 @@
   {
    "t": "习近平出席全国卫生与健康大会并发表重要讲话",
    "u": "https://www.qstheory.cn/20261013/ca2f6aa5d61a451b9e7efc8612866abb/c.html",
-   "d": "2026-10-13",
-   "s": "qstheory"
-  },
-  {
-   "t": "深刻把握中华文明突出的统一性②",
-   "u": "https://www.qstheory.cn/20261013/ceb851da5b9e4c2ba38b9d8e7f8d7cd2/c.html",
    "d": "2026-10-13",
    "s": "qstheory"
   },
