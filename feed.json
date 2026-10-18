@@ -1,15 +1,15 @@
 {
  "app": "dangjian-study-feed",
  "ver": 1,
- "updated": "2026-10-17T08:37:07.325Z",
- "checked": "2026-10-17T08:37:07.325Z",
+ "updated": "2026-10-18T08:53:30.120Z",
+ "checked": "2026-10-18T08:53:30.120Z",
  "sources": [
   {
    "id": "qstheory",
    "name": "求是网",
    "home": "https://www.qstheory.cn/",
    "ok": true,
-   "got": 77,
+   "got": 78,
    "count": 40
   },
   {
@@ -25,7 +25,7 @@
    "name": "人民网·理论",
    "home": "http://theory.people.com.cn/",
    "ok": true,
-   "got": 36,
+   "got": 38,
    "count": 40
   },
   {
@@ -46,6 +46,84 @@
   }
  ],
  "items": [
+  {
+   "t": "总书记指引“十五五”帮扶工作迈向常态化新阶段",
+   "u": "https://www.qstheory.cn/20261018/ce62331e085f4772916fb7cfc20e79b5/c.html",
+   "d": "2026-10-18",
+   "s": "qstheory"
+  },
+  {
+   "t": "习近平总书记在内蒙古乌兰察布考察纪实",
+   "u": "https://www.qstheory.cn/20261018/9254f1a6ca9b4dc899078fb5246f366f/c.html",
+   "d": "2026-10-18",
+   "s": "qstheory"
+  },
+  {
+   "t": "习近平主席引领推动亚太合作迈上新台阶",
+   "u": "https://www.qstheory.cn/20261018/1df37f0470c44202afe9d0ca0cdae9a6/c.html",
+   "d": "2026-10-18",
+   "s": "qstheory"
+  },
+  {
+   "t": "减贫之路，众行方能致远",
+   "u": "https://www.qstheory.cn/20261018/86fe5d1354634a8d8426e855b50459ba/c.html",
+   "d": "2026-10-18",
+   "s": "qstheory"
+  },
+  {
+   "t": "提升城市人才黏性 集聚更多优秀人才",
+   "u": "https://www.qstheory.cn/20261018/370c9fb230c94c92a244486c471a1bc1/c.html",
+   "d": "2026-10-18",
+   "s": "qstheory"
+  },
+  {
+   "t": "第四届“良渚论坛”开幕",
+   "u": "https://www.qstheory.cn/20261018/f50b6931954d4ccab2842b6719cde2b4/c.html",
+   "d": "2026-10-18",
+   "s": "qstheory"
+  },
+  {
+   "t": "中国体育代表团亮相亚残运会欢迎仪式",
+   "u": "https://www.qstheory.cn/20261018/f786250363b64aca861d63fbbbaf06e4/c.html",
+   "d": "2026-10-18",
+   "s": "qstheory"
+  },
+  {
+   "t": "《中国非物质文化遗产传播蓝皮书2026》发布",
+   "u": "https://www.qstheory.cn/20261018/db3ad64f7fb44eb6aba7af697e3fb8ef/c.html",
+   "d": "2026-10-18",
+   "s": "qstheory"
+  },
+  {
+   "t": "国羽提前锁定丹麦羽毛球公开赛混双冠军",
+   "u": "https://www.qstheory.cn/20261018/56e03567d74647c19c875ca13b563e5b/c.html",
+   "d": "2026-10-18",
+   "s": "qstheory"
+  },
+  {
+   "t": "从2026世界航海装备大会看海洋科技前沿",
+   "u": "https://www.qstheory.cn/20261018/805f0633ce53473ebc9cb202c74a4615/c.html",
+   "d": "2026-10-18",
+   "s": "qstheory"
+  },
+  {
+   "t": "中国驻日使馆：日当政者参拜靖国神社亵渎历史正义",
+   "u": "https://www.qstheory.cn/20261018/15f02afe2b2346df94e08c7fce01e925/c.html",
+   "d": "2026-10-18",
+   "s": "qstheory"
+  },
+  {
+   "t": "“三本账”理不清，欧盟处境有点难",
+   "u": "https://www.qstheory.cn/20261018/30e872266ba54459bb7e934df43c3582/c.html",
+   "d": "2026-10-18",
+   "s": "qstheory"
+  },
+  {
+   "t": "也门胡塞武装：沙特空袭塔伊兹省造成至少9人死亡",
+   "u": "https://www.qstheory.cn/20261018/9e708a082a5a4a07ab4bb55280494a03/c.html",
+   "d": "2026-10-18",
+   "s": "qstheory"
+  },
   {
    "t": "总书记考察绿色算力产业 指引因地制宜发展新质生产力",
    "u": "https://www.qstheory.cn/20261017/b3f0f0a3eb6c43c18d838b39e86502bf/c.html",
@@ -203,87 +281,9 @@
    "s": "qstheory"
   },
   {
-   "t": "求是网评论员：让民营企业敢投、愿投、能投",
+   "t": "让民营企业敢投、愿投、能投",
    "u": "https://www.qstheory.cn/20261016/26f13107086748b580c5eacec81512e8/c.html",
    "d": "2026-10-16",
-   "s": "qstheory"
-  },
-  {
-   "t": "【新闻联播】《求是》杂志发表习近平总书记重要文章《以更高标准、更实举措推进全面从严治党》",
-   "u": "https://www.qstheory.cn/20261016/c6e59b7a64344066bd8aa48d636cca3e/c.html",
-   "d": "2026-10-16",
-   "s": "qstheory"
-  },
-  {
-   "t": "《求是》杂志发表习近平总书记重要文章《以更高标准、更实举措推进全面从严治党》",
-   "u": "https://www.qstheory.cn/20261015/a6ed86729ae947d99a83bb431867b7d3/c.html",
-   "d": "2026-10-15",
-   "s": "qstheory"
-  },
-  {
-   "t": "《求是》杂志编辑部：把习近平党建思想贯彻到从严管党治党实践中",
-   "u": "https://www.qstheory.cn/20261015/30db66f9f3fe4fb78d1f5d481dc980e8/c.html",
-   "d": "2026-10-15",
-   "s": "qstheory"
-  },
-  {
-   "t": "2026年第20期《求是》杂志发表习近平总书记重要文章",
-   "u": "https://www.qstheory.cn/20261015/7ad9960ffae243b1bbe32469204f1375/c.html",
-   "d": "2026-10-15",
-   "s": "qstheory"
-  },
-  {
-   "t": "习近平主席向广交会致贺信传递高水平开放强音",
-   "u": "https://www.qstheory.cn/20261015/4cb587deb1494fc1825e9ececca3607d/c.html",
-   "d": "2026-10-15",
-   "s": "qstheory"
-  },
-  {
-   "t": "习近平总书记重要讲话为做好新时代新征程卫生与健康工作指明方向",
-   "u": "https://www.qstheory.cn/20261015/e42265c835e646d2a1968df7a0b47e50/c.html",
-   "d": "2026-10-15",
-   "s": "qstheory"
-  },
-  {
-   "t": "深刻理解和把握习近平党建思想的哲学深蕴",
-   "u": "https://www.qstheory.cn/20261015/3b91486112084075ae4c4cf354955d50/c.html",
-   "d": "2026-10-15",
-   "s": "qstheory"
-  },
-  {
-   "t": "以国际传播格局重构提升中华文明传播力影响力",
-   "u": "https://www.qstheory.cn/20261015/40fd106c2d6249b38ef84e60233889ab/c.html",
-   "d": "2026-10-15",
-   "s": "qstheory"
-  },
-  {
-   "t": "《求是》杂志评论员：夯实中国式现代化的健康根基",
-   "u": "https://www.qstheory.cn/20261015/0051c0554f624c2f98db08159281281c/c.html",
-   "d": "2026-10-15",
-   "s": "qstheory"
-  },
-  {
-   "t": "量质齐升 动能积聚",
-   "u": "https://www.qstheory.cn/20261015/5ed91cf2d83e46d1b687d6445b97e26e/c.html",
-   "d": "2026-10-15",
-   "s": "qstheory"
-  },
-  {
-   "t": "9月CPI温和回升PPI涨幅扩大，能读出哪些信息",
-   "u": "https://www.qstheory.cn/20261015/c69cd586d19641f8bda93bc852c5f137/c.html",
-   "d": "2026-10-15",
-   "s": "qstheory"
-  },
-  {
-   "t": "第十七届中国食品安全论坛即将在京举办",
-   "u": "https://www.qstheory.cn/20261015/68a6a9f8aec9436385a3d2c4a6a285ed/c.html",
-   "d": "2026-10-15",
-   "s": "qstheory"
-  },
-  {
-   "t": "中朝新鸭绿江大桥将开通 中方：将进一步促进两国经贸交流和人员往来",
-   "u": "https://www.qstheory.cn/20261015/260b3e3d286a41239b42b7a9b75ae3c3/c.html",
-   "d": "2026-10-15",
    "s": "qstheory"
   },
   {
@@ -389,6 +389,30 @@
    "s": "12371"
   },
   {
+   "t": "习近平强军思想——指引新时代人民军队开启全面建成世界一流军队新征程",
+   "u": "http://theory.people.com.cn/n1/2026/1018/c40531-40816707.html",
+   "d": "2026-10-18",
+   "s": "theory"
+  },
+  {
+   "t": "提升城市人才黏性 集聚更多优秀人才",
+   "u": "http://theory.people.com.cn/n1/2026/1018/c40531-40816687.html",
+   "d": "2026-10-18",
+   "s": "theory"
+  },
+  {
+   "t": "区域联动助力中部地区加快崛起",
+   "u": "http://theory.people.com.cn/n1/2026/1018/c40531-40816692.html",
+   "d": "2026-10-18",
+   "s": "theory"
+  },
+  {
+   "t": "人民论坛每日推荐（5篇）",
+   "u": "http://theory.people.com.cn/n1/2026/1018/c40531-40816703.html",
+   "d": "2026-10-18",
+   "s": "theory"
+  },
+  {
    "t": "习近平强军思想——马克思主义军事理论中国化时代…",
    "u": "http://theory.people.com.cn/n1/2026/1017/c40531-40816486.html",
    "d": "2026-10-17",
@@ -413,7 +437,7 @@
    "s": "theory"
   },
   {
-   "t": "习近平生态文明思想——新时代生态文明建设的思想旗帜",
+   "t": "习近平生态文明思想——新时代生态文明建设的思想…",
    "u": "http://theory.people.com.cn/n1/2026/1016/c40531-40815929.html",
    "d": "2026-10-16",
    "s": "theory"
@@ -602,30 +626,6 @@
    "t": "【光明论坛】传承长征精神，凝聚复兴伟力",
    "u": "http://theory.people.com.cn/n1/2026/1014/c40531-40814210.html",
    "d": "2026-10-14",
-   "s": "theory"
-  },
-  {
-   "t": "人民论坛每日推荐（5篇）",
-   "u": "http://theory.people.com.cn/n1/2026/1014/c40531-40814385.html",
-   "d": "2026-10-14",
-   "s": "theory"
-  },
-  {
-   "t": "在创造性转化、创新性发展中赓续中华文…",
-   "u": "http://theory.people.com.cn/n1/2026/1013/c40531-40813622.html",
-   "d": "2026-10-13",
-   "s": "theory"
-  },
-  {
-   "t": "习近平外交思想的文化底蕴与理论超越（论点撷萃）",
-   "u": "http://theory.people.com.cn/n1/2026/1013/c40531-40813621.html",
-   "d": "2026-10-13",
-   "s": "theory"
-  },
-  {
-   "t": "培育非遗传承体验新场景（专题深思）",
-   "u": "http://theory.people.com.cn/n1/2026/1013/c40531-40813619.html",
-   "d": "2026-10-13",
    "s": "theory"
   },
   {
