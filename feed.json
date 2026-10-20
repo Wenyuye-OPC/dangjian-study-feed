@@ -1,15 +1,15 @@
 {
  "app": "dangjian-study-feed",
  "ver": 1,
- "updated": "2026-10-20T01:06:46.214Z",
- "checked": "2026-10-20T01:06:46.214Z",
+ "updated": "2026-10-20T09:28:38.636Z",
+ "checked": "2026-10-20T09:28:38.636Z",
  "sources": [
   {
    "id": "qstheory",
    "name": "求是网",
    "home": "https://www.qstheory.cn/",
    "ok": true,
-   "got": 78,
+   "got": 79,
    "count": 40
   },
   {
@@ -18,7 +18,7 @@
    "home": "https://www.12371.cn/",
    "ok": true,
    "got": 13,
-   "count": 19
+   "count": 21
   },
   {
    "id": "theory",
@@ -33,7 +33,7 @@
    "name": "人民网·党建",
    "home": "http://dangjian.people.com.cn/",
    "ok": true,
-   "got": 43,
+   "got": 41,
    "count": 40
   },
   {
@@ -41,7 +41,7 @@
    "name": "人民网·观点",
    "home": "http://opinion.people.com.cn/",
    "ok": true,
-   "got": 46,
+   "got": 47,
    "count": 40
   }
  ],
@@ -103,6 +103,30 @@
   {
    "t": "外交部：严厉谴责日方涉靖国神社消极动向",
    "u": "https://www.qstheory.cn/20261020/9442549c2529476d93699e657ddd50f0/c.html",
+   "d": "2026-10-20",
+   "s": "qstheory"
+  },
+  {
+   "t": "习近平：持续加强政治培训广泛凝聚政治共识 更好服务党和国家工作大局",
+   "u": "https://www.qstheory.cn/20261020/04c77c0945d64a5996b0307214cd3cc8/c.html",
+   "d": "2026-10-20",
+   "s": "qstheory"
+  },
+  {
+   "t": "中央社会主义学院建院70周年发展建设综述",
+   "u": "https://www.qstheory.cn/20261020/5f42b3eceafb484bb8d62d592b04c5cc/c.html",
+   "d": "2026-10-20",
+   "s": "qstheory"
+  },
+  {
+   "t": "习近平致中央社会主义学院建院70周年的贺信",
+   "u": "https://www.qstheory.cn/20261020/aafc7aac89104e87b26be60b52d34da0/c.html",
+   "d": "2026-10-20",
+   "s": "qstheory"
+  },
+  {
+   "t": "充分认识习近平党建思想重大而深远的指导意义",
+   "u": "https://www.qstheory.cn/20261020/f8e0db7b75fa4a17994014c699802ccf/c.html",
    "d": "2026-10-20",
    "s": "qstheory"
   },
@@ -263,28 +287,16 @@
    "s": "qstheory"
   },
   {
-   "t": "习近平主席心系全球减贫事业",
-   "u": "https://www.qstheory.cn/20261017/7ec09dae8f8d4cde8546f01d36f95dfb/c.html",
-   "d": "2026-10-17",
-   "s": "qstheory"
+   "t": "弘扬伟大长征精神 走好今天的长征路——写在中国工农红军长征胜利九十周年之际",
+   "u": "https://www.12371.cn/2026/10/20/ARTI1792458660902730.shtml",
+   "d": "2026-10-20",
+   "s": "12371"
   },
   {
-   "t": "习近平总书记致湖南大学建校100周年的贺信激励广大青年学生和教育工作者不懈奋斗",
-   "u": "https://www.qstheory.cn/20261017/7ecc549a9f9842b4a09124cfefb12121/c.html",
-   "d": "2026-10-17",
-   "s": "qstheory"
-  },
-  {
-   "t": "让中美友谊在青春相遇中扎根生长",
-   "u": "https://www.qstheory.cn/20261017/d4656763e72142e6ae45ff3c9b6c9f73/c.html",
-   "d": "2026-10-17",
-   "s": "qstheory"
-  },
-  {
-   "t": "三部门发文首次明确普惠养老收费政策",
-   "u": "https://www.qstheory.cn/20261017/a586f6bdcd434e8b9d7290d4f3633b8e/c.html",
-   "d": "2026-10-17",
-   "s": "qstheory"
+   "t": "无物业小区有了能扛事的“主心骨”",
+   "u": "https://www.12371.cn/2026/10/20/ARTI1792458908369769.shtml",
+   "d": "2026-10-20",
+   "s": "12371"
   },
   {
    "t": "总书记的人民情怀 | “广大人民群众是长征胜利的力量源泉”",
@@ -457,6 +469,12 @@
   {
    "t": "充分释放文化遗产蕴藏的磅礴力量",
    "u": "http://theory.people.com.cn/n1/2026/1020/c40531-40817948.html",
+   "d": "2026-10-20",
+   "s": "theory"
+  },
+  {
+   "t": "习近平外交思想——新时代我国对外工作的根本遵循…",
+   "u": "http://theory.people.com.cn/n1/2026/1020/c40531-40818078.html",
    "d": "2026-10-20",
    "s": "theory"
   },
@@ -635,12 +653,6 @@
    "s": "theory"
   },
   {
-   "t": "| 办实事要有科学思维和方法",
-   "u": "http://theory.people.com.cn/n1/2026/1015/c40531-40815170.html",
-   "d": "2026-10-15",
-   "s": "theory"
-  },
-  {
    "t": "以政治忠诚坚决扛起管党治党责任",
    "u": "http://dangjian.people.com.cn/n1/2026/1020/c117092-40817946.html",
    "d": "2026-10-20",
@@ -661,6 +673,42 @@
   {
    "t": "织密监督的“天网” 扎紧制度的篱笆",
    "u": "http://dangjian.people.com.cn/n1/2026/1020/c117092-40817996.html",
+   "d": "2026-10-20",
+   "s": "dangjian"
+  },
+  {
+   "t": "统筹基层工作的“跳进去”与“领出来”（思想纵横）",
+   "u": "http://dangjian.people.com.cn/n1/2026/1020/c117092-40818032.html",
+   "d": "2026-10-20",
+   "s": "dangjian"
+  },
+  {
+   "t": "把管党治党政治责任落实好（金台潮声）",
+   "u": "http://dangjian.people.com.cn/n1/2026/1020/c117092-40818035.html",
+   "d": "2026-10-20",
+   "s": "dangjian"
+  },
+  {
+   "t": "江西全南县：无物业小区有了能扛事的“主心骨”",
+   "u": "http://dangjian.people.com.cn/n1/2026/1020/c117092-40818037.html",
+   "d": "2026-10-20",
+   "s": "dangjian"
+  },
+  {
+   "t": "南京建邺区探索新路径 把群众身边小事一件件办实",
+   "u": "http://dangjian.people.com.cn/n1/2026/1020/c117092-40818025.html",
+   "d": "2026-10-20",
+   "s": "dangjian"
+  },
+  {
+   "t": "围着群众转 带着群众干",
+   "u": "http://dangjian.people.com.cn/n1/2026/1020/c117092-40818235.html",
+   "d": "2026-10-20",
+   "s": "dangjian"
+  },
+  {
+   "t": "“红色热土”变“振兴沃土”",
+   "u": "http://dangjian.people.com.cn/n1/2026/1020/c117092-40818234.html",
    "d": "2026-10-20",
    "s": "dangjian"
   },
@@ -703,6 +751,18 @@
   {
    "t": "灯火可亲 幸福加码",
    "u": "http://dangjian.people.com.cn/n1/2026/1019/c117092-40817502.html",
+   "d": "2026-10-19",
+   "s": "dangjian"
+  },
+  {
+   "t": "甘肃兰州：乡镇街道书记登台亮真功",
+   "u": "http://dangjian.people.com.cn/n1/2026/1019/c117092-40817501.html",
+   "d": "2026-10-19",
+   "s": "dangjian"
+  },
+  {
+   "t": "山东威海健全党员作用发挥机制 争当精致城市建设排头兵",
+   "u": "http://dangjian.people.com.cn/n1/2026/1019/c117092-40817500.html",
    "d": "2026-10-19",
    "s": "dangjian"
   },
@@ -833,56 +893,14 @@
    "s": "dangjian"
   },
   {
-   "t": "党纪问答丨党员烧香拜佛、算命看风水，算是迷信吗？",
-   "u": "http://dangjian.people.com.cn/n1/2026/1014/c117092-40814415.html",
-   "d": "2026-10-14",
-   "s": "dangjian"
-  },
-  {
-   "t": "全方位扎紧制度的笼子（金台潮声）",
-   "u": "http://dangjian.people.com.cn/n1/2026/1013/c117092-40813519.html",
-   "d": "2026-10-13",
-   "s": "dangjian"
-  },
-  {
-   "t": "身边小事莫小视（评论员观察）",
-   "u": "http://dangjian.people.com.cn/n1/2026/1013/c117092-40813512.html",
-   "d": "2026-10-13",
-   "s": "dangjian"
-  },
-  {
-   "t": "多听群众说说心里话",
-   "u": "http://dangjian.people.com.cn/n1/2026/1013/c117092-40813502.html",
-   "d": "2026-10-13",
-   "s": "dangjian"
-  },
-  {
-   "t": "把家风建设作为领导干部作风建设重要内容",
-   "u": "http://dangjian.people.com.cn/n1/2026/1013/c117092-40813500.html",
-   "d": "2026-10-13",
-   "s": "dangjian"
-  },
-  {
-   "t": "常清思想垃圾 常掏灵魂旮旯",
-   "u": "http://dangjian.people.com.cn/n1/2026/1013/c117092-40813488.html",
-   "d": "2026-10-13",
-   "s": "dangjian"
-  },
-  {
-   "t": "角色进入快，干事出招实（党旗在基层…",
-   "u": "http://dangjian.people.com.cn/n1/2026/1013/c117092-40813521.html",
-   "d": "2026-10-13",
-   "s": "dangjian"
-  },
-  {
-   "t": "“这是最好的传承”",
-   "u": "http://dangjian.people.com.cn/n1/2026/1013/c117092-40813494.html",
-   "d": "2026-10-13",
-   "s": "dangjian"
-  },
-  {
    "t": "人民锐评：公共场所不等于“同意直播场所”",
    "u": "http://opinion.people.com.cn/n1/2026/1020/c436867-40817915.html",
+   "d": "2026-10-20",
+   "s": "opinion"
+  },
+  {
+   "t": "人民锐评：对“精日”言行零容忍",
+   "u": "http://opinion.people.com.cn/n1/2026/1020/c436867-40818085.html",
    "d": "2026-10-20",
    "s": "opinion"
   },
@@ -1111,12 +1129,6 @@
   {
    "t": "人民锐评：“高铁免提”与“古建引体”，文明养成需守住“公私之界”",
    "u": "http://opinion.people.com.cn/n1/2026/1015/c436867-40815366.html",
-   "d": "2026-10-15",
-   "s": "opinion"
-  },
-  {
-   "t": "环球时报社评：印式“赢学”在中印边境只会踢到铁板",
-   "u": "http://opinion.people.com.cn/n1/2026/1015/c462004-40815340.html",
    "d": "2026-10-15",
    "s": "opinion"
   }
