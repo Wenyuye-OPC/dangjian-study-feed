@@ -1,15 +1,15 @@
 {
  "app": "dangjian-study-feed",
  "ver": 1,
- "updated": "2026-10-23T00:42:41.742Z",
- "checked": "2026-10-23T00:42:41.742Z",
+ "updated": "2026-10-23T09:23:35.200Z",
+ "checked": "2026-10-23T09:23:35.200Z",
  "sources": [
   {
    "id": "qstheory",
    "name": "求是网",
    "home": "https://www.qstheory.cn/",
    "ok": true,
-   "got": 81,
+   "got": 77,
    "count": 40
   },
   {
@@ -17,15 +17,15 @@
    "name": "共产党员网",
    "home": "https://www.12371.cn/",
    "ok": true,
-   "got": 15,
-   "count": 27
+   "got": 13,
+   "count": 29
   },
   {
    "id": "theory",
    "name": "人民网·理论",
    "home": "http://theory.people.com.cn/",
    "ok": true,
-   "got": 34,
+   "got": 36,
    "count": 40
   },
   {
@@ -33,7 +33,7 @@
    "name": "人民网·党建",
    "home": "http://dangjian.people.com.cn/",
    "ok": true,
-   "got": 44,
+   "got": 46,
    "count": 40
   },
   {
@@ -41,11 +41,119 @@
    "name": "人民网·观点",
    "home": "http://opinion.people.com.cn/",
    "ok": true,
-   "got": 47,
+   "got": 50,
    "count": 40
   }
  ],
  "items": [
+  {
+   "t": "中共中央政治局召开会议 审议《关于二十届中央第七轮巡视情况的综合报告》 中共中央总书记习近平主持会议",
+   "u": "https://www.qstheory.cn/20261023/e97af03428d347e79f89ba9a18ab0112/c.html",
+   "d": "2026-10-23",
+   "s": "qstheory"
+  },
+  {
+   "t": "习近平对西藏那曲市巴青县7.0级地震作出重要指示",
+   "u": "https://www.qstheory.cn/20261023/f25e534b13404af7963424ebc9db7089/c.html",
+   "d": "2026-10-23",
+   "s": "qstheory"
+  },
+  {
+   "t": "总书记重要讲话激励全党全军全国各族人民勇毅前行",
+   "u": "https://www.qstheory.cn/20261023/b8331563078546db8d1a63e7feaddbcd/c.html",
+   "d": "2026-10-23",
+   "s": "qstheory"
+  },
+  {
+   "t": "深刻把握习近平党建思想“十四个坚持”的科学体系与内在逻辑",
+   "u": "https://www.qstheory.cn/20261023/0309ede7bd6b49ffa490478f86267a77/c.html",
+   "d": "2026-10-23",
+   "s": "qstheory"
+  },
+  {
+   "t": "以习近平党建思想引领中共党史党建学自主知识体系构建",
+   "u": "https://www.qstheory.cn/20261023/50515a085b124985aa8497d0ec52ffea/c.html",
+   "d": "2026-10-23",
+   "s": "qstheory"
+  },
+  {
+   "t": "聚力奋发 推动高质量发展行稳致远",
+   "u": "https://www.qstheory.cn/20261023/2e5f703adc614131890888551c26ba1c/c.html",
+   "d": "2026-10-23",
+   "s": "qstheory"
+  },
+  {
+   "t": "法国总统马克龙称未来数日将禁止非法抗议活动",
+   "u": "https://www.qstheory.cn/20261023/d9537b2925394f2bac92f7f2ee1b650d/c.html",
+   "d": "2026-10-23",
+   "s": "qstheory"
+  },
+  {
+   "t": "外媒：美国或于明年开始扩建格陵兰岛军事设施",
+   "u": "https://www.qstheory.cn/20261023/c7865269ea364a2e882fe7a82149da5f/c.html",
+   "d": "2026-10-23",
+   "s": "qstheory"
+  },
+  {
+   "t": "“十四五”时期我国吸收外商直接投资超7500亿美元",
+   "u": "https://www.qstheory.cn/20261023/bc345ce3b3ec4a5a9909c53eea1c62bd/c.html",
+   "d": "2026-10-23",
+   "s": "qstheory"
+  },
+  {
+   "t": "普京：重启俄美乌三方会谈不是仅为短暂停火",
+   "u": "https://www.qstheory.cn/20261023/a38c8518c10f49b395fd3be33f6a9ad7/c.html",
+   "d": "2026-10-23",
+   "s": "qstheory"
+  },
+  {
+   "t": "数字人民币“基座”全面升级将带来哪些改变",
+   "u": "https://www.qstheory.cn/20261023/0489dda61c9f41ebae96c4911c283b14/c.html",
+   "d": "2026-10-23",
+   "s": "qstheory"
+  },
+  {
+   "t": "算力成底座、AI进实验室",
+   "u": "https://www.qstheory.cn/20261023/fac2905e140f456484bbb94a03398429/c.html",
+   "d": "2026-10-23",
+   "s": "qstheory"
+  },
+  {
+   "t": "《对外投资管理办法》发布 自12月1日起施行",
+   "u": "https://www.qstheory.cn/20261023/72ebc5613b79412a93d5c415e60388a7/c.html",
+   "d": "2026-10-23",
+   "s": "qstheory"
+  },
+  {
+   "t": "培育消费新动能 拓展开放新空间",
+   "u": "https://www.qstheory.cn/20261023/2431fa84dbac4cb1a8c6eb0fe001aa3a/c.html",
+   "d": "2026-10-23",
+   "s": "qstheory"
+  },
+  {
+   "t": "如何完善党中央重大决策部署落实机制",
+   "u": "https://www.qstheory.cn/20261023/161ce4b5b3c24e329cf4cf7559f9d7f2/c.html",
+   "d": "2026-10-23",
+   "s": "qstheory"
+  },
+  {
+   "t": "制度规定不少，为何有时还是管不住权力",
+   "u": "https://www.qstheory.cn/20261023/155d4f1b24684b5092ba0107a0d3b488/c.html",
+   "d": "2026-10-23",
+   "s": "qstheory"
+  },
+  {
+   "t": "记者再走长征路 | 革命星火照前路，花繁叶茂归新途",
+   "u": "https://www.qstheory.cn/20261023/73adb03cbfac431f9608d8898fba7213/c.html",
+   "d": "2026-10-23",
+   "s": "qstheory"
+  },
+  {
+   "t": "权力为什么必须关进笼子？",
+   "u": "https://www.qstheory.cn/20261023/4ea85294d30f46ae8901b4362aafbf52/c.html",
+   "d": "2026-10-23",
+   "s": "qstheory"
+  },
   {
    "t": "把习近平党建思想贯彻到党的建设全过程各方面",
    "u": "https://www.qstheory.cn/20261022/85aaa4e7dcd44ffdb1eb66e3a7604d10/c.html",
@@ -179,112 +287,16 @@
    "s": "qstheory"
   },
   {
-   "t": "习近平总书记心中的伟大远征",
-   "u": "https://www.qstheory.cn/20261021/60579a47b0fa48d4a2b090071f120289/c.html",
-   "d": "2026-10-21",
-   "s": "qstheory"
+   "t": "中共中央政治局召开会议 审议《关于二十届中央第七轮巡视情况的综合报告》 中共中央总书记习近平主持会议",
+   "u": "https://www.12371.cn/2026/10/23/ARTI1792733164948172.shtml",
+   "d": "2026-10-23",
+   "s": "12371"
   },
   {
-   "t": "深刻认识中国经济运行的三个突出特点",
-   "u": "https://www.qstheory.cn/20261021/f15f100d80cf4e75b3517d624f570917/c.html",
-   "d": "2026-10-21",
-   "s": "qstheory"
-  },
-  {
-   "t": "照金精神、长征精神和延安精神的内在逻辑与时代赓续",
-   "u": "https://www.qstheory.cn/20261021/5916e925e8374284b7d4c91d3a6cad4f/c.html",
-   "d": "2026-10-21",
-   "s": "qstheory"
-  },
-  {
-   "t": "在思想上精神上文化上筑牢党的执政基础和群众基础",
-   "u": "https://www.qstheory.cn/20261021/5bf218f6a8154024908e7a9cb8cf089d/c.html",
-   "d": "2026-10-21",
-   "s": "qstheory"
-  },
-  {
-   "t": "国家数据集团成立",
-   "u": "https://www.qstheory.cn/20261021/69440ba8593b4ebdb8a40464a37109b0/c.html",
-   "d": "2026-10-21",
-   "s": "qstheory"
-  },
-  {
-   "t": "我国发布《历史文化名城（镇、村）与历史建筑保护传承“十五五”规划》",
-   "u": "https://www.qstheory.cn/20261021/15ec40d2e67140e3a7cd877c5bee7df8/c.html",
-   "d": "2026-10-21",
-   "s": "qstheory"
-  },
-  {
-   "t": "推动系统性保护 构建大保护格局",
-   "u": "https://www.qstheory.cn/20261021/d6faa321ea97476aa310e08750bb5f52/c.html",
-   "d": "2026-10-21",
-   "s": "qstheory"
-  },
-  {
-   "t": "广告产业“十五五”规划发布 明确六个发展目标",
-   "u": "https://www.qstheory.cn/20261021/3aded8c77a894ffdbc65712c4ef48c75/c.html",
-   "d": "2026-10-21",
-   "s": "qstheory"
-  },
-  {
-   "t": "工业和信息化部将强化汽车产品全链条监管",
-   "u": "https://www.qstheory.cn/20261021/f3f289fa2bdf49a7aae333a6f8dc9003/c.html",
-   "d": "2026-10-21",
-   "s": "qstheory"
-  },
-  {
-   "t": "商务部：坚决反对美污名化中国企业并实施制裁",
-   "u": "https://www.qstheory.cn/20261021/cbec1dc4c6d54a4a892c0acac0e96b67/c.html",
-   "d": "2026-10-21",
-   "s": "qstheory"
-  },
-  {
-   "t": "法国将部署军队反恐力量应对下一轮示威活动",
-   "u": "https://www.qstheory.cn/20261021/2fe5e1ed09ec44a0bd51a294cc52b123/c.html",
-   "d": "2026-10-21",
-   "s": "qstheory"
-  },
-  {
-   "t": "习近平总书记关切事·长征丨革命老区奋进新程",
-   "u": "https://www.qstheory.cn/20261020/dd8591e020ca4f46899050c921ebc26d/c.html",
-   "d": "2026-10-20",
-   "s": "qstheory"
-  },
-  {
-   "t": "深入学习贯彻习近平文化思想，筑牢强国建设、民族复兴的文化根基",
-   "u": "https://www.qstheory.cn/20261020/ff1ac7071dcc4b6a9c04a163c81836a4/c.html",
-   "d": "2026-10-20",
-   "s": "qstheory"
-  },
-  {
-   "t": "从万里长征走向伟大复兴",
-   "u": "https://www.qstheory.cn/20261020/5320d4029c434a8aaa8103bcef907610/c.html",
-   "d": "2026-10-20",
-   "s": "qstheory"
-  },
-  {
-   "t": "解辛平：长征永远在路上",
-   "u": "https://www.qstheory.cn/20261020/0636f71781874cf2a79c211537f037c7/c.html",
-   "d": "2026-10-20",
-   "s": "qstheory"
-  },
-  {
-   "t": "推动经济平稳运行、高质量发展积极因素累积增多",
-   "u": "https://www.qstheory.cn/20261020/529ef79670854c78adc9fe95c1f9694f/c.html",
-   "d": "2026-10-20",
-   "s": "qstheory"
-  },
-  {
-   "t": "推动技术与市场高效对接——多部门详解科技兴商",
-   "u": "https://www.qstheory.cn/20261020/ac66dc4ba2464d609d410eb94fb80c00/c.html",
-   "d": "2026-10-20",
-   "s": "qstheory"
-  },
-  {
-   "t": "2026金融街论坛年会哪些重要政策信号值得关注",
-   "u": "https://www.qstheory.cn/20261020/46df2e0409f24cc48a37c3dfd470c6f3/c.html",
-   "d": "2026-10-20",
-   "s": "qstheory"
+   "t": "深刻把握习近平党建思想“十四个坚持”的科学体系与内在逻辑",
+   "u": "https://www.12371.cn/2026/10/23/ARTI1792714785758791.shtml",
+   "d": "2026-10-23",
+   "s": "12371"
   },
   {
    "t": "习近平出席纪念中国工农红军长征胜利90周年大会并发表重要讲话",
@@ -461,6 +473,30 @@
    "s": "theory"
   },
   {
+   "t": "深刻把握习近平党建思想“十四个坚持”的科学体系与内在逻辑（深入学习贯彻习近平新时代中国特色社会主义思想）",
+   "u": "http://theory.people.com.cn/n1/2026/1023/c40531-40820154.html",
+   "d": "2026-10-23",
+   "s": "theory"
+  },
+  {
+   "t": "人民日报整版聚焦习近平党建思想",
+   "u": "http://theory.people.com.cn/n1/2026/1023/c40531-40820158.html",
+   "d": "2026-10-23",
+   "s": "theory"
+  },
+  {
+   "t": "习近平党建思想实现传统治理智慧创造性转化、创新性发展（论点撷萃）",
+   "u": "http://theory.people.com.cn/n1/2026/1023/c40531-40820156.html",
+   "d": "2026-10-23",
+   "s": "theory"
+  },
+  {
+   "t": "以习近平党建思想引领中共党史党建学自主知识体系构建（加快构建中国哲学社会科学自主知识体系）",
+   "u": "http://theory.people.com.cn/n1/2026/1023/c40531-40820155.html",
+   "d": "2026-10-23",
+   "s": "theory"
+  },
+  {
    "t": "中共中央、国务院印发《关于发展新质生产力的意见》明确提出“统筹发展和安全”。安全是发展的前提，发展是安全的保障。发展和安全统筹得当，二者相得益彰；顾此失彼，则两头落空。",
    "u": "http://theory.people.com.cn/n1/2026/1022/c40531-40819294.html",
    "d": "2026-10-22",
@@ -569,7 +605,7 @@
    "s": "theory"
   },
   {
-   "t": "照金精神、长征精神和延安精神的内在逻辑与时代赓续（深入学习贯彻习近平新时代中国特色社会主义思想）",
+   "t": "照金精神、长征精神和延安精神的内在逻辑与时代赓续",
    "u": "http://theory.people.com.cn/n1/2026/1021/c40531-40818757.html",
    "d": "2026-10-21",
    "s": "theory"
@@ -665,28 +701,40 @@
    "s": "theory"
   },
   {
-   "t": "协同推进全球人工智能伦理治理",
-   "u": "http://theory.people.com.cn/n1/2026/1020/c40531-40817938.html",
-   "d": "2026-10-20",
-   "s": "theory"
+   "t": "深刻把握习近平党建思想“十四个坚持”的科学体系与内在…",
+   "u": "http://dangjian.people.com.cn/n1/2026/1023/c117092-40820189.html",
+   "d": "2026-10-23",
+   "s": "dangjian"
   },
   {
-   "t": "站稳人民立场促文化创新创造",
-   "u": "http://theory.people.com.cn/n1/2026/1020/c40531-40817977.html",
-   "d": "2026-10-20",
-   "s": "theory"
+   "t": "以习近平党建思想引领中共党史党建学自主知识体系构建（…",
+   "u": "http://dangjian.people.com.cn/n1/2026/1023/c117092-40820190.html",
+   "d": "2026-10-23",
+   "s": "dangjian"
   },
   {
-   "t": "“非遗游”火爆的背后",
-   "u": "http://theory.people.com.cn/n1/2026/1020/c40531-40817949.html",
-   "d": "2026-10-20",
-   "s": "theory"
+   "t": "习近平党建思想实现传统治理智慧创造性转化、创新性发展…",
+   "u": "http://dangjian.people.com.cn/n1/2026/1023/c117092-40820191.html",
+   "d": "2026-10-23",
+   "s": "dangjian"
   },
   {
-   "t": "充分释放文化遗产蕴藏的磅礴力量",
-   "u": "http://theory.people.com.cn/n1/2026/1020/c40531-40817948.html",
-   "d": "2026-10-20",
-   "s": "theory"
+   "t": "加强纪律教育 养成纪律自觉",
+   "u": "http://dangjian.people.com.cn/n1/2026/1023/c117092-40820164.html",
+   "d": "2026-10-23",
+   "s": "dangjian"
+  },
+  {
+   "t": "“赶考”永远在路上",
+   "u": "http://dangjian.people.com.cn/n1/2026/1023/c117092-40820151.html",
+   "d": "2026-10-23",
+   "s": "dangjian"
+  },
+  {
+   "t": "推动新兴领域党的组织覆盖和工作覆盖有形有效",
+   "u": "http://dangjian.people.com.cn/n1/2026/1023/c117092-40820144.html",
+   "d": "2026-10-23",
+   "s": "dangjian"
   },
   {
    "t": "把权力牢牢关进制度笼子",
@@ -893,40 +941,58 @@
    "s": "dangjian"
   },
   {
-   "t": "以制度规范筑牢基层战斗堡垒",
-   "u": "http://dangjian.people.com.cn/n1/2026/1017/c117092-40816500.html",
-   "d": "2026-10-17",
-   "s": "dangjian"
+   "t": "人民锐评：算法可以懂需求，但不能越过隐私红线",
+   "u": "http://opinion.people.com.cn/n1/2026/1023/c436867-40820177.html",
+   "d": "2026-10-23",
+   "s": "opinion"
   },
   {
-   "t": "加强纪律建设必须从遵守和维护党章入手",
-   "u": "http://dangjian.people.com.cn/n1/2026/1016/c117092-40815831.html",
-   "d": "2026-10-16",
-   "s": "dangjian"
+   "t": "在新的长征路上奋力创造新的辉煌",
+   "u": "http://opinion.people.com.cn/n1/2026/1023/c461529-40819932.html",
+   "d": "2026-10-23",
+   "s": "opinion"
   },
   {
-   "t": "牢牢扭住全面从严治党的“牛鼻子”",
-   "u": "http://dangjian.people.com.cn/n1/2026/1016/c117092-40815795.html",
-   "d": "2026-10-16",
-   "s": "dangjian"
+   "t": "坚守联合国理想，携手开创人类共同美好未来",
+   "u": "http://opinion.people.com.cn/n1/2026/1023/c461529-40819886.html",
+   "d": "2026-10-23",
+   "s": "opinion"
   },
   {
-   "t": "坚持落实管党治党政治责任",
-   "u": "http://dangjian.people.com.cn/n1/2026/1016/c117092-40815794.html",
-   "d": "2026-10-16",
-   "s": "dangjian"
+   "t": "当艺术从“偶遇”变“陪伴”（现场评论）",
+   "u": "http://opinion.people.com.cn/n1/2026/1023/c461529-40819907.html",
+   "d": "2026-10-23",
+   "s": "opinion"
   },
   {
-   "t": "实事求是才能少犯错",
-   "u": "http://dangjian.people.com.cn/n1/2026/1016/c117092-40815791.html",
-   "d": "2026-10-16",
-   "s": "dangjian"
+   "t": "人民锐评：临床不是秀场，医学容不得“盲猜”",
+   "u": "http://opinion.people.com.cn/n1/2026/1023/c436867-40820216.html",
+   "d": "2026-10-23",
+   "s": "opinion"
   },
   {
-   "t": "精准提能力 一线促振兴",
-   "u": "http://dangjian.people.com.cn/n1/2026/1016/c117092-40816146.html",
-   "d": "2026-10-16",
-   "s": "dangjian"
+   "t": "人民锐评：挡张凌赫赴台，民进党当局在怕什么",
+   "u": "http://opinion.people.com.cn/n1/2026/1023/c436867-40820224.html",
+   "d": "2026-10-23",
+   "s": "opinion"
+  },
+  {
+   "t": "壹时评：凭实践成果拿学位，路通了还要走稳",
+   "u": "http://opinion.people.com.cn/n1/2026/1023/c223228-40820456.html",
+   "d": "2026-10-23",
+   "s": "opinion"
+  },
+  {
+   "t": "人民锐评：斩断“简历开盒”背后的黑色产业链",
+   "u": "http://opinion.people.com.cn/n1/2026/1023/c436867-40820203.html",
+   "d": "2026-10-23",
+   "s": "opinion"
+  },
+  {
+   "t": "不久前，江苏省第二十一届运动会在连云港开幕。这次省运会主要比赛场馆全部依托现有场地改扩建，器材设备遵循“能借不租、能租不买”原则。这在一些人看来，显得有些“小气”。",
+   "u": "http://opinion.people.com.cn/n1/2026/1023/c461529-40819908.html",
+   "d": "2026-10-23",
+   "s": "opinion"
   },
   {
    "t": "（一） 信念熔铸于岁月，足迹刻写在山河。 1934年10月，赣南闽西，一支年轻的队伍在夜色中出发。脚上是草鞋，身上是单衣。",
@@ -1112,60 +1178,6 @@
    "t": "长征精神何以穿越时空、历久弥新",
    "u": "http://opinion.people.com.cn/n1/2026/1019/c461529-40816949.html",
    "d": "2026-10-19",
-   "s": "opinion"
-  },
-  {
-   "t": "人民锐评：微短剧别把老人的孤独变成生意",
-   "u": "http://opinion.people.com.cn/n1/2026/1019/c436867-40817554.html",
-   "d": "2026-10-19",
-   "s": "opinion"
-  },
-  {
-   "t": "党建评：以法治督察推动领导干部依法办事",
-   "u": "http://opinion.people.com.cn/n1/2026/1019/c441030-40817424.html",
-   "d": "2026-10-19",
-   "s": "opinion"
-  },
-  {
-   "t": "最近，“炸串摊主遭顾客差评后轻生”引发热议。据最新报道，警方已介入调查。 刚看到这则消息，心里实在发堵。",
-   "u": "http://opinion.people.com.cn/n1/2026/1019/c436867-40817526.html",
-   "d": "2026-10-19",
-   "s": "opinion"
-  },
-  {
-   "t": "乡音缘何动人心（暖闻热评）",
-   "u": "http://opinion.people.com.cn/n1/2026/1019/c461529-40816953.html",
-   "d": "2026-10-19",
-   "s": "opinion"
-  },
-  {
-   "t": "心中有民 脚下有力（现场评论）",
-   "u": "http://opinion.people.com.cn/n1/2026/1019/c461529-40816952.html",
-   "d": "2026-10-19",
-   "s": "opinion"
-  },
-  {
-   "t": "古“运”新韵，共同续写治水兴水的时代新篇（和音）",
-   "u": "http://opinion.people.com.cn/n1/2026/1019/c461529-40816946.html",
-   "d": "2026-10-19",
-   "s": "opinion"
-  },
-  {
-   "t": "千年文脉何以新（评论员观察）",
-   "u": "http://opinion.people.com.cn/n1/2026/1019/c461529-40816951.html",
-   "d": "2026-10-19",
-   "s": "opinion"
-  },
-  {
-   "t": "人民锐评：“人脸授权”藏风险，治理须细化全链条规则",
-   "u": "http://opinion.people.com.cn/n1/2026/1017/c1003-40816567.html",
-   "d": "2026-10-17",
-   "s": "opinion"
-  },
-  {
-   "t": "人民锐评：住宅楼里开民宿，“一致同意”要落实",
-   "u": "http://opinion.people.com.cn/n1/2026/1016/c436867-40815949.html",
-   "d": "2026-10-16",
    "s": "opinion"
   }
  ]
