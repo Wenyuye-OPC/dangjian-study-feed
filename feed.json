@@ -1,15 +1,15 @@
 {
  "app": "dangjian-study-feed",
  "ver": 1,
- "updated": "2026-10-24T00:45:54.708Z",
- "checked": "2026-10-24T00:45:54.708Z",
+ "updated": "2026-10-24T08:55:19.178Z",
+ "checked": "2026-10-24T08:55:19.178Z",
  "sources": [
   {
    "id": "qstheory",
    "name": "求是网",
    "home": "https://www.qstheory.cn/",
    "ok": true,
-   "got": 76,
+   "got": 77,
    "count": 40
   },
   {
@@ -18,14 +18,14 @@
    "home": "https://www.12371.cn/",
    "ok": true,
    "got": 13,
-   "count": 29
+   "count": 30
   },
   {
    "id": "theory",
    "name": "人民网·理论",
    "home": "http://theory.people.com.cn/",
    "ok": true,
-   "got": 37,
+   "got": 39,
    "count": 40
   },
   {
@@ -46,6 +46,78 @@
   }
  ],
  "items": [
+  {
+   "t": "党的十八大以来，以习近平同志为核心的党中央以强烈的历史担当和顽强的意志品质，推动新时代党的建设新的伟大工程向纵深发展",
+   "u": "https://www.qstheory.cn/20261024/f96ad0575ad7462181b45972a4cd4a8d/c.html",
+   "d": "2026-10-24",
+   "s": "qstheory"
+  },
+  {
+   "t": "同心协力，奔赴充满光荣和梦想的远征",
+   "u": "https://www.qstheory.cn/20261024/78cea36ee9a34c17be458954e0987eac/c.html",
+   "d": "2026-10-24",
+   "s": "qstheory"
+  },
+  {
+   "t": "“长征精神具有跨越时空的重要价值”",
+   "u": "https://www.qstheory.cn/20261024/6d8446ab73194b89b585141a2e361aab/c.html",
+   "d": "2026-10-24",
+   "s": "qstheory"
+  },
+  {
+   "t": "党和人民军队铿锵前进的制胜之道",
+   "u": "https://www.qstheory.cn/20261024/7ea9087091d04b29ac2d4f219422340f/c.html",
+   "d": "2026-10-24",
+   "s": "qstheory"
+  },
+  {
+   "t": "前三季度财政收支运行平稳 财政科学管理深入推进",
+   "u": "https://www.qstheory.cn/20261024/2b0f0817443a46899da490ec08cb9017/c.html",
+   "d": "2026-10-24",
+   "s": "qstheory"
+  },
+  {
+   "t": "国务院办公厅印发《关于适应人工智能技术发展助力构建就业友好型发展方式的意见》",
+   "u": "https://www.qstheory.cn/20261024/b4be78a2ec07435c98069de805e87f76/c.html",
+   "d": "2026-10-24",
+   "s": "qstheory"
+  },
+  {
+   "t": "《国家信息化“十五五”规划》印发",
+   "u": "https://www.qstheory.cn/20261024/86bd31cf6c814ab9b55c47873a5efd0f/c.html",
+   "d": "2026-10-24",
+   "s": "qstheory"
+  },
+  {
+   "t": "聚焦“十五五”综合交通枢纽发展，规划来了",
+   "u": "https://www.qstheory.cn/20261024/143cb65cf1a449d8b9147331d9babd24/c.html",
+   "d": "2026-10-24",
+   "s": "qstheory"
+  },
+  {
+   "t": "关于加强外空治理的中国立场",
+   "u": "https://www.qstheory.cn/20261024/cf0fc1387b7e424b9a8cec271550dc41/c.html",
+   "d": "2026-10-24",
+   "s": "qstheory"
+  },
+  {
+   "t": "央行将开展7000亿元MLF操作",
+   "u": "https://www.qstheory.cn/20261024/6ec0aa1fa9fd4a07b8b1b45bcf5b65a1/c.html",
+   "d": "2026-10-24",
+   "s": "qstheory"
+  },
+  {
+   "t": "商务部新闻发言人就美国防部公布所谓科研安全审查结果事答记者问",
+   "u": "https://www.qstheory.cn/20261024/49dc88d90d984d00b4dc1bbbcb3ad3d3/c.html",
+   "d": "2026-10-24",
+   "s": "qstheory"
+  },
+  {
+   "t": "普京：俄美乌三方会谈目标是讨论俄乌安全保障",
+   "u": "https://www.qstheory.cn/20261024/f554f511572f42abba78d172e53ffada/c.html",
+   "d": "2026-10-24",
+   "s": "qstheory"
+  },
   {
    "t": "中共中央政治局召开会议 审议《关于二十届中央第七轮巡视情况的综合报告》 中共中央总书记习近平主持会议",
    "u": "https://www.qstheory.cn/20261023/e97af03428d347e79f89ba9a18ab0112/c.html",
@@ -155,7 +227,7 @@
    "s": "qstheory"
   },
   {
-   "t": "习近平：中国愿同各方一道，践行共商共建共享的全球治理观，以信心汇聚力量，以合作破解难题，推动落实全球治理倡议，为变乱交织的世界注入更多确定性和正能量",
+   "t": "习近平向2026全球治理论坛（雄安）致信",
    "u": "https://www.qstheory.cn/20261023/c40a6d1a7521497f9d31894bc9f8b2c7/c.html",
    "d": "2026-10-23",
    "s": "qstheory"
@@ -215,76 +287,10 @@
    "s": "qstheory"
   },
   {
-   "t": "向世界讲好伟大长征故事",
-   "u": "https://www.qstheory.cn/20261022/37405a1c6bd24edd928f279a835ac4c1/c.html",
-   "d": "2026-10-22",
-   "s": "qstheory"
-  },
-  {
-   "t": "为巩固和发展爱国统一战线作出新的更大贡献",
-   "u": "https://www.qstheory.cn/20261022/9928e92a6f6e4ae399f53161068ae0da/c.html",
-   "d": "2026-10-22",
-   "s": "qstheory"
-  },
-  {
-   "t": "纪念中国工农红军长征胜利90周年电视文艺晚会《长征颂歌》即将播出",
-   "u": "https://www.qstheory.cn/20261022/cc0825f11b4f42cfa20c1012a6a1403b/c.html",
-   "d": "2026-10-22",
-   "s": "qstheory"
-  },
-  {
-   "t": "中国人民银行将发行中国工农红军长征胜利90周年金银纪念币",
-   "u": "https://www.qstheory.cn/20261022/f4e4337e535246ed947c1f2dff465e52/c.html",
-   "d": "2026-10-22",
-   "s": "qstheory"
-  },
-  {
-   "t": "第33届亚太经济合作组织财长会在港闭幕 达成系列务实成果",
-   "u": "https://www.qstheory.cn/20261022/2b81b6ba7bc84b2e8594ba9d99eaea31/c.html",
-   "d": "2026-10-22",
-   "s": "qstheory"
-  },
-  {
-   "t": "生态环境部介绍我国应对气候变化工作成效",
-   "u": "https://www.qstheory.cn/20261022/b55e7a48acd54df09f10ade5d016fcc1/c.html",
-   "d": "2026-10-22",
-   "s": "qstheory"
-  },
-  {
-   "t": "2026年前三季度医保统筹基金支出超1.7万亿元",
-   "u": "https://www.qstheory.cn/20261022/f613aeb03fb748b4b2522ec1dcf51955/c.html",
-   "d": "2026-10-22",
-   "s": "qstheory"
-  },
-  {
-   "t": "中办、国办《关于推动科技创新和产业创新深度融合的意见》对外发布",
-   "u": "https://www.qstheory.cn/20261022/e37a642d2aad4a8ca440df753aea5c65/c.html",
-   "d": "2026-10-22",
-   "s": "qstheory"
-  },
-  {
-   "t": "贯彻落实党中央重大决策部署存在哪些短板与堵点",
-   "u": "https://www.qstheory.cn/20261022/b4244b40cbc645aeb934c8075a6d8164/c.html",
-   "d": "2026-10-22",
-   "s": "qstheory"
-  },
-  {
-   "t": "贯彻落实党中央重大决策部署既靠政治自觉又靠制度保障",
-   "u": "https://www.qstheory.cn/20261022/f3c7e6783c774b00b591cf255923d8fd/c.html",
-   "d": "2026-10-22",
-   "s": "qstheory"
-  },
-  {
-   "t": "“匣钵”里千年瓷都的活态生长",
-   "u": "https://www.qstheory.cn/20261022/9bf964e2aef448b39062cb4b993c695b/c.html",
-   "d": "2026-10-22",
-   "s": "qstheory"
-  },
-  {
-   "t": "“法国之乱”背后的深层困局",
-   "u": "https://www.qstheory.cn/20261022/2d71fbd34efa4604b83b4923cf6d9649/c.html",
-   "d": "2026-10-22",
-   "s": "qstheory"
+   "t": "永葆赶考清醒 赢得历史主动——以习近平同志为核心的党中央引领新时代全面从严治党纪实",
+   "u": "https://www.12371.cn/2026/10/24/ARTI1792804882933908.shtml",
+   "d": "2026-10-24",
+   "s": "12371"
   },
   {
    "t": "中共中央政治局召开会议 审议《关于二十届中央第七轮巡视情况的综合报告》 中共中央总书记习近平主持会议",
@@ -459,6 +465,18 @@
    "u": "https://www.12371.cn/2026/08/31/ARTI1788175038047115.shtml",
    "d": "2026-08-31",
    "s": "12371"
+  },
+  {
+   "t": "共同做大全球人工智能产业",
+   "u": "http://theory.people.com.cn/n1/2026/1024/c40531-40820683.html",
+   "d": "2026-10-24",
+   "s": "theory"
+  },
+  {
+   "t": "普惠保险暖民心也要可持续",
+   "u": "http://theory.people.com.cn/n1/2026/1024/c40531-40820666.html",
+   "d": "2026-10-24",
+   "s": "theory"
   },
   {
    "t": "为改革完善全球治理贡献中国方案",
@@ -685,18 +703,6 @@
   {
    "t": "| 统筹基层工作的“跳进去”与“领出来”",
    "u": "http://theory.people.com.cn/n1/2026/1020/c40531-40818044.html",
-   "d": "2026-10-20",
-   "s": "theory"
-  },
-  {
-   "t": "| 把握发展普惠托育和托幼一体化服务的着力点",
-   "u": "http://theory.people.com.cn/n1/2026/1020/c40531-40818043.html",
-   "d": "2026-10-20",
-   "s": "theory"
-  },
-  {
-   "t": "以政治忠诚坚决扛起管党治党责任",
-   "u": "http://theory.people.com.cn/n1/2026/1020/c40531-40817937.html",
    "d": "2026-10-20",
    "s": "theory"
   },
@@ -959,6 +965,12 @@
    "s": "opinion"
   },
   {
+   "t": "人民锐评：打击“央国企内推”骗局，既要堵也要疏",
+   "u": "http://opinion.people.com.cn/n1/2026/1024/c436867-40820720.html",
+   "d": "2026-10-24",
+   "s": "opinion"
+  },
+  {
    "t": "人民锐评：算法可以懂需求，但不能越过隐私红线",
    "u": "http://opinion.people.com.cn/n1/2026/1023/c436867-40820177.html",
    "d": "2026-10-23",
@@ -1172,12 +1184,6 @@
    "t": "菜单里藏着教育智慧（纵横）",
    "u": "http://opinion.people.com.cn/n1/2026/1020/c461529-40817711.html",
    "d": "2026-10-20",
-   "s": "opinion"
-  },
-  {
-   "t": "何以中国丨壹时评：一江清水背后的“舍得”辩证法",
-   "u": "http://opinion.people.com.cn/n1/2026/1019/c223228-40817552.html",
-   "d": "2026-10-19",
    "s": "opinion"
   }
  ]
