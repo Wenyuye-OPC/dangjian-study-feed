@@ -1,8 +1,8 @@
 {
  "app": "dangjian-study-feed",
  "ver": 1,
- "updated": "2026-10-24T08:55:19.178Z",
- "checked": "2026-10-24T08:55:19.178Z",
+ "updated": "2026-10-24T14:02:02.760Z",
+ "checked": "2026-10-24T14:02:02.760Z",
  "sources": [
   {
    "id": "qstheory",
@@ -115,6 +115,18 @@
   {
    "t": "普京：俄美乌三方会谈目标是讨论俄乌安全保障",
    "u": "https://www.qstheory.cn/20261024/f554f511572f42abba78d172e53ffada/c.html",
+   "d": "2026-10-24",
+   "s": "qstheory"
+  },
+  {
+   "t": "新华社权威快报丨二十届中央第八轮巡视对象公布",
+   "u": "https://www.qstheory.cn/20261024/2bb76849bb76434288b46fb50e4fe309/c.html",
+   "d": "2026-10-24",
+   "s": "qstheory"
+  },
+  {
+   "t": "为什么要大力发展服务贸易",
+   "u": "https://www.qstheory.cn/20261024/3a0dd603b3d1413ab89e7d1a3d1f7808/c.html",
    "d": "2026-10-24",
    "s": "qstheory"
   },
@@ -271,18 +283,6 @@
   {
    "t": "齐心协力走好新的长征路——纪念中国工农红军长征胜利九十周年",
    "u": "https://www.qstheory.cn/20261022/3377281b3ac0417b889b82e6c1d6d460/c.html",
-   "d": "2026-10-22",
-   "s": "qstheory"
-  },
-  {
-   "t": "在新长征路上阔步前行——写在长征胜利90周年之际",
-   "u": "https://www.qstheory.cn/20261022/e8a8047def75491690b3f52ef64efd77/c.html",
-   "d": "2026-10-22",
-   "s": "qstheory"
-  },
-  {
-   "t": "长征有继 斯路常新——写在中国工农红军长征胜利90周年之际",
-   "u": "https://www.qstheory.cn/20261022/278268c009aa438ba60f9048e96ede2d/c.html",
    "d": "2026-10-22",
    "s": "qstheory"
   },
