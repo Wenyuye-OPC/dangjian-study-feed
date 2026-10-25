@@ -1,8 +1,8 @@
 {
  "app": "dangjian-study-feed",
  "ver": 1,
- "updated": "2026-10-25T09:11:38.257Z",
- "checked": "2026-10-25T09:11:38.257Z",
+ "updated": "2026-10-25T14:25:10.078Z",
+ "checked": "2026-10-25T14:25:10.078Z",
  "sources": [
   {
    "id": "qstheory",
@@ -79,6 +79,12 @@
   {
    "t": "日本拟就修订“安保三文件”采取差异化宣传引担忧",
    "u": "https://www.qstheory.cn/20261025/fd926426d3dd4f528fbe83e92150aebf/c.html",
+   "d": "2026-10-25",
+   "s": "qstheory"
+  },
+  {
+   "t": "客观看待我国服务贸易逆差格局",
+   "u": "https://www.qstheory.cn/20261025/bd8bf5bbc2684be29b955711c31d06bc/c.html",
    "d": "2026-10-25",
    "s": "qstheory"
   },
@@ -277,12 +283,6 @@
   {
    "t": "习近平向2026全球治理论坛（雄安）致信",
    "u": "https://www.qstheory.cn/20261023/c40a6d1a7521497f9d31894bc9f8b2c7/c.html",
-   "d": "2026-10-23",
-   "s": "qstheory"
-  },
-  {
-   "t": "求是网评论员：同心协力走好新的长征路",
-   "u": "https://www.qstheory.cn/20261023/f85e75441d1243258d11d801ade8d9ed/c.html",
    "d": "2026-10-23",
    "s": "qstheory"
   },
