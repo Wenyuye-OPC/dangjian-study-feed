@@ -1,15 +1,15 @@
 {
  "app": "dangjian-study-feed",
  "ver": 1,
- "updated": "2026-10-29T01:51:34.071Z",
- "checked": "2026-10-29T01:51:34.071Z",
+ "updated": "2026-10-29T10:55:46.845Z",
+ "checked": "2026-10-29T10:55:46.845Z",
  "sources": [
   {
    "id": "qstheory",
    "name": "求是网",
    "home": "https://www.qstheory.cn/",
    "ok": true,
-   "got": 78,
+   "got": 80,
    "count": 40
   },
   {
@@ -18,7 +18,7 @@
    "home": "https://www.12371.cn/",
    "ok": true,
    "got": 15,
-   "count": 38
+   "count": 40
   },
   {
    "id": "theory",
@@ -125,6 +125,36 @@
    "s": "qstheory"
   },
   {
+   "t": "中国共产党第二十届中央委员会第五次全体会议公报",
+   "u": "https://www.qstheory.cn/20261029/d7e9f597b4fb417e9b6648b33194b291/c.html",
+   "d": "2026-10-29",
+   "s": "qstheory"
+  },
+  {
+   "t": "党的二十届五中全会审议通过《中共中央关于持之以恒推进全面从严治党若干重大问题的决定》",
+   "u": "https://www.qstheory.cn/20261029/e885b31da0bd4412b8f622850df0e629/c.html",
+   "d": "2026-10-29",
+   "s": "qstheory"
+  },
+  {
+   "t": "中共中央将于30日上午举行新闻发布会",
+   "u": "https://www.qstheory.cn/20261029/66196a8bb8e346ef803b678511e69d44/c.html",
+   "d": "2026-10-29",
+   "s": "qstheory"
+  },
+  {
+   "t": "习近平就西班牙高速列车追尾脱轨事故向西班牙国王费利佩六世致慰问电",
+   "u": "https://www.qstheory.cn/20261029/000c1f62d6734f84aa79e403edec0cd8/c.html",
+   "d": "2026-10-29",
+   "s": "qstheory"
+  },
+  {
+   "t": "卢拉逆袭折射拉美民心选择",
+   "u": "https://www.qstheory.cn/20261029/6dbb60749fab4aaf9ed7fdfd318e9741/c.html",
+   "d": "2026-10-29",
+   "s": "qstheory"
+  },
+  {
    "t": "不断实现党的自我净化、自我完善、自我革新、自我提高",
    "u": "https://www.qstheory.cn/20261028/3b7df2adc0804bb9a47f435f15184ad7/c.html",
    "d": "2026-10-28",
@@ -221,6 +251,18 @@
    "s": "qstheory"
   },
   {
+   "t": "日本是怎么走上极端化道路的？",
+   "u": "https://www.qstheory.cn/20261028/bf6478396a4a40a48670645621eef5e4/c.html",
+   "d": "2026-10-28",
+   "s": "qstheory"
+  },
+  {
+   "t": "日本“失去的三十年”是一场系统性衰退",
+   "u": "https://www.qstheory.cn/20261028/2bfcc2b1ef3542d0b4de6d3c945a971a/c.html",
+   "d": "2026-10-28",
+   "s": "qstheory"
+  },
+  {
    "t": "坚守初心使命，始终保持党同人民群众的血肉联系",
    "u": "https://www.qstheory.cn/20261027/67735f0579d04809bc780f16c23f2b6a/c.html",
    "d": "2026-10-27",
@@ -245,46 +287,16 @@
    "s": "qstheory"
   },
   {
-   "t": "读懂长征留给我们的精神密码",
-   "u": "https://www.qstheory.cn/20261027/4f92d896f56742b6adfa218832c635ac/c.html",
-   "d": "2026-10-27",
-   "s": "qstheory"
+   "t": "中国共产党第二十届中央委员会第五次全体会议公报",
+   "u": "https://www.12371.cn/2026/10/29/ARTI1793267034443539.shtml",
+   "d": "2026-10-29",
+   "s": "12371"
   },
   {
-   "t": "二十届中央第八轮巡视完成进驻",
-   "u": "https://www.qstheory.cn/20261027/d2640c1c6fa443e9bc265b7bc3b3984a/c.html",
-   "d": "2026-10-27",
-   "s": "qstheory"
-  },
-  {
-   "t": "2026全球治理论坛（雄安）发布《论坛愿景文件》",
-   "u": "https://www.qstheory.cn/20261027/3276c3dc8b8b4e4a90ac2cf23add5bea/c.html",
-   "d": "2026-10-27",
-   "s": "qstheory"
-  },
-  {
-   "t": "2026年前三季度国内居民出游人次53.07亿",
-   "u": "https://www.qstheory.cn/20261027/e05e185336034bceb776104c609bf609/c.html",
-   "d": "2026-10-27",
-   "s": "qstheory"
-  },
-  {
-   "t": "我国风光累计装机容量突破20亿千瓦",
-   "u": "https://www.qstheory.cn/20261027/3ada0c27eb484afdad8b1484193399fd/c.html",
-   "d": "2026-10-27",
-   "s": "qstheory"
-  },
-  {
-   "t": "美媒：美军已准备好再次大规模打击伊朗",
-   "u": "https://www.qstheory.cn/20261027/87ab41fbd3b549c6bbcc415bf27634b6/c.html",
-   "d": "2026-10-27",
-   "s": "qstheory"
-  },
-  {
-   "t": "联合国调查委员会：以色列犯下战争罪及危害人类罪",
-   "u": "https://www.qstheory.cn/20261027/7ac3d426735b4b86ba3d0fca48980a33/c.html",
-   "d": "2026-10-27",
-   "s": "qstheory"
+   "t": "党的二十届五中全会审议通过《中共中央关于持之以恒推进全面从严治党若干重大问题的决定》",
+   "u": "https://www.12371.cn/2026/10/29/ARTI1793269179744692.shtml",
+   "d": "2026-10-29",
+   "s": "12371"
   },
   {
    "t": "“我将无我，不负人民”的时代答卷",
