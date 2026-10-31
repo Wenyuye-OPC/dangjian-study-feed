@@ -1,15 +1,15 @@
 {
  "app": "dangjian-study-feed",
  "ver": 1,
- "updated": "2026-10-31T01:37:51.321Z",
- "checked": "2026-10-31T01:37:51.321Z",
+ "updated": "2026-10-31T10:25:52.432Z",
+ "checked": "2026-10-31T10:25:52.432Z",
  "sources": [
   {
    "id": "qstheory",
    "name": "求是网",
    "home": "https://www.qstheory.cn/",
    "ok": true,
-   "got": 77,
+   "got": 79,
    "count": 40
   },
   {
@@ -47,6 +47,78 @@
  ],
  "items": [
   {
+   "t": "“推进新时代党的建设新的伟大工程的纲领性文件”——党的二十届五中全会侧记",
+   "u": "https://www.qstheory.cn/20261031/04ae0669910a41cb9a524da3fea6069c/c.html",
+   "d": "2026-10-31",
+   "s": "qstheory"
+  },
+  {
+   "t": "中共中央举行新闻发布会解读党的二十届五中全会精神",
+   "u": "https://www.qstheory.cn/20261031/e004c6be752c4842a530f7a0fe5349a5/c.html",
+   "d": "2026-10-31",
+   "s": "qstheory"
+  },
+  {
+   "t": "与会同志谈贯彻落实党的二十届五中全会精神",
+   "u": "https://www.qstheory.cn/20261031/59c624ee9d7044548d5eab4cf0985f45/c.html",
+   "d": "2026-10-31",
+   "s": "qstheory"
+  },
+  {
+   "t": "不断开创新时代管党治党、兴党强党新局面",
+   "u": "https://www.qstheory.cn/20261031/a4d5001fcdd74ee88104160e65e0aa79/c.html",
+   "d": "2026-10-31",
+   "s": "qstheory"
+  },
+  {
+   "t": "全面贯彻习近平党建思想——论学习贯彻党的二十届五中全会精神",
+   "u": "https://www.qstheory.cn/20261031/adfa0900231346498aac09319692cfe6/c.html",
+   "d": "2026-10-31",
+   "s": "qstheory"
+  },
+  {
+   "t": "坚定信心、保持定力持之以恒推进全面从严治党",
+   "u": "https://www.qstheory.cn/20261031/22419b9554a94db081e7ca72412a7683/c.html",
+   "d": "2026-10-31",
+   "s": "qstheory"
+  },
+  {
+   "t": "水利部介绍水资源统一调度工作进展",
+   "u": "https://www.qstheory.cn/20261031/efbd79f6b64f4d2fb5af045c129188d2/c.html",
+   "d": "2026-10-31",
+   "s": "qstheory"
+  },
+  {
+   "t": "报告显示：中国知识产权保护指数升至全球第6位",
+   "u": "https://www.qstheory.cn/20261031/74d4781fbcee4a96ab362f605a6f44c9/c.html",
+   "d": "2026-10-31",
+   "s": "qstheory"
+  },
+  {
+   "t": "金融监管总局发文规范信托公司资产管理业务发展",
+   "u": "https://www.qstheory.cn/20261031/f842019410c54007b78d3398d62fc84f/c.html",
+   "d": "2026-10-31",
+   "s": "qstheory"
+  },
+  {
+   "t": "全国人大常委会法工委通报拟审议的法律草案情况 将审议检察公益诉讼法草案、反跨境腐败法草案等",
+   "u": "https://www.qstheory.cn/20261031/41c39eb94e5849b8a7f979979cd571e7/c.html",
+   "d": "2026-10-31",
+   "s": "qstheory"
+  },
+  {
+   "t": "政府采购本国产品加快细化落地",
+   "u": "https://www.qstheory.cn/20261031/e3db5ed6b10747219c49192c7e96a8db/c.html",
+   "d": "2026-10-31",
+   "s": "qstheory"
+  },
+  {
+   "t": "央行：每个工作日开展隔夜逆回购操作招标",
+   "u": "https://www.qstheory.cn/20261031/757d6a57156b4bafb19d1a6946261756/c.html",
+   "d": "2026-10-31",
+   "s": "qstheory"
+  },
+  {
    "t": "党的二十届五中全会公报一图速览",
    "u": "https://www.qstheory.cn/20261030/09bbda895b7e4bf78980434e7eaed458/c.html",
    "d": "2026-10-30",
@@ -83,7 +155,7 @@
    "s": "qstheory"
   },
   {
-   "t": "征求对中共中央关于持之以恒推进全面从严治党若干重大问题的决定的意见",
+   "t": "中共中央召开党外人士座谈会 习近平主持并发表重要讲话",
    "u": "https://www.qstheory.cn/20261030/c2356e46c58c4ede9300f51c03dc01ea/c.html",
    "d": "2026-10-30",
    "s": "qstheory"
@@ -212,78 +284,6 @@
    "t": "三季度末我国科技型中小企业获贷率为51.1%",
    "u": "https://www.qstheory.cn/20261029/91343ffc9f5741c4b73f96f8e1d52825/c.html",
    "d": "2026-10-29",
-   "s": "qstheory"
-  },
-  {
-   "t": "八位在韩中国人民志愿军烈士身份被确认",
-   "u": "https://www.qstheory.cn/20261029/bc1d7099c93e4488aa8dfc52b0f58a91/c.html",
-   "d": "2026-10-29",
-   "s": "qstheory"
-  },
-  {
-   "t": "民政部部署开展“寒冬送温暖”专项救助行动",
-   "u": "https://www.qstheory.cn/20261029/ea764001834a47b8a020dc4f61488571/c.html",
-   "d": "2026-10-29",
-   "s": "qstheory"
-  },
-  {
-   "t": "内塔尼亚胡阵营在议会选举中领先 但未过半数",
-   "u": "https://www.qstheory.cn/20261029/21d9623d69b64838b280bedb23195ad4/c.html",
-   "d": "2026-10-29",
-   "s": "qstheory"
-  },
-  {
-   "t": "深刻把握中华文明突出的包容性②",
-   "u": "https://www.qstheory.cn/20261029/913e1e5b48cb44b1aa355480384ef14f/c.html",
-   "d": "2026-10-29",
-   "s": "qstheory"
-  },
-  {
-   "t": "中国共产党第二十届中央委员会第五次全体会议公报",
-   "u": "https://www.qstheory.cn/20261029/d7e9f597b4fb417e9b6648b33194b291/c.html",
-   "d": "2026-10-29",
-   "s": "qstheory"
-  },
-  {
-   "t": "党的二十届五中全会审议通过《中共中央关于持之以恒推进全面从严治党若干重大问题的决定》",
-   "u": "https://www.qstheory.cn/20261029/e885b31da0bd4412b8f622850df0e629/c.html",
-   "d": "2026-10-29",
-   "s": "qstheory"
-  },
-  {
-   "t": "中共中央将于30日上午举行新闻发布会",
-   "u": "https://www.qstheory.cn/20261029/66196a8bb8e346ef803b678511e69d44/c.html",
-   "d": "2026-10-29",
-   "s": "qstheory"
-  },
-  {
-   "t": "习近平就西班牙高速列车追尾脱轨事故向西班牙国王费利佩六世致慰问电",
-   "u": "https://www.qstheory.cn/20261029/000c1f62d6734f84aa79e403edec0cd8/c.html",
-   "d": "2026-10-29",
-   "s": "qstheory"
-  },
-  {
-   "t": "卢拉逆袭折射拉美民心选择",
-   "u": "https://www.qstheory.cn/20261029/6dbb60749fab4aaf9ed7fdfd318e9741/c.html",
-   "d": "2026-10-29",
-   "s": "qstheory"
-  },
-  {
-   "t": "中国共产党第二十届中央委员会第五次全体会议在京举行",
-   "u": "https://www.qstheory.cn/20261029/3c1c3d0c422c489ea9af5d84388b748c/c.html",
-   "d": "2026-10-29",
-   "s": "qstheory"
-  },
-  {
-   "t": "不断实现党的自我净化、自我完善、自我革新、自我提高",
-   "u": "https://www.qstheory.cn/20261028/3b7df2adc0804bb9a47f435f15184ad7/c.html",
-   "d": "2026-10-28",
-   "s": "qstheory"
-  },
-  {
-   "t": "谱写新时代强军兴军新篇章",
-   "u": "https://www.qstheory.cn/20261028/a24a62e68206426787cc500069921744/c.html",
-   "d": "2026-10-28",
    "s": "qstheory"
   },
   {
