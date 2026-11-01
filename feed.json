@@ -1,15 +1,15 @@
 {
  "app": "dangjian-study-feed",
  "ver": 1,
- "updated": "2026-11-01T01:16:04.901Z",
- "checked": "2026-11-01T01:16:04.901Z",
+ "updated": "2026-11-01T11:19:25.289Z",
+ "checked": "2026-11-01T11:19:25.289Z",
  "sources": [
   {
    "id": "qstheory",
    "name": "求是网",
    "home": "https://www.qstheory.cn/",
    "ok": true,
-   "got": 79,
+   "got": 80,
    "count": 40
   },
   {
@@ -17,7 +17,7 @@
    "name": "共产党员网",
    "home": "https://www.12371.cn/",
    "ok": true,
-   "got": 14,
+   "got": 13,
    "count": 40
   },
   {
@@ -25,7 +25,7 @@
    "name": "人民网·理论",
    "home": "http://theory.people.com.cn/",
    "ok": true,
-   "got": 37,
+   "got": 39,
    "count": 40
   },
   {
@@ -41,13 +41,85 @@
    "name": "人民网·观点",
    "home": "http://opinion.people.com.cn/",
    "ok": true,
-   "got": 43,
+   "got": 42,
    "count": 40
   }
  ],
  "items": [
   {
-   "t": "“推进新时代党的建设新的伟大工程的纲领性文件”——党的二十届五中全会侧记",
+   "t": "习近平：关于《中共中央关于持之以恒推进全面从严治党若干重大问题的决定》的说明",
+   "u": "https://www.qstheory.cn/20261101/712d83da50c746c697c9bcddabcb0127/c.html",
+   "d": "2026-11-01",
+   "s": "qstheory"
+  },
+  {
+   "t": "中共中央关于持之以恒推进全面从严治党若干重大问题的决定",
+   "u": "https://www.qstheory.cn/20261101/02dd86f0bb6440f3ac99f61f424e69ad/c.html",
+   "d": "2026-11-01",
+   "s": "qstheory"
+  },
+  {
+   "t": "世界政党政要高度评价中国共产党二十届五中全会成果",
+   "u": "https://www.qstheory.cn/20261101/16a9160c15a84ed3a105efef51685d68/c.html",
+   "d": "2026-11-01",
+   "s": "qstheory"
+  },
+  {
+   "t": "深刻把握全面从严治党的根本性任务和内在要求",
+   "u": "https://www.qstheory.cn/20261101/3b58f2153d284f98b23397559a61988a/c.html",
+   "d": "2026-11-01",
+   "s": "qstheory"
+  },
+  {
+   "t": "“从党的创新理论中汲取党性滋养”",
+   "u": "https://www.qstheory.cn/20261101/5dc4097f87b24996990148a52e674952/c.html",
+   "d": "2026-11-01",
+   "s": "qstheory"
+  },
+  {
+   "t": "坚持服务党的使命任务",
+   "u": "https://www.qstheory.cn/20261101/e0fb98b0afbd4b95afdab845e66f2cfe/c.html",
+   "d": "2026-11-01",
+   "s": "qstheory"
+  },
+  {
+   "t": "走在前作表率 深入推进新时代党的建设新的伟大工程",
+   "u": "https://www.qstheory.cn/20261101/da8c91de1bee4060b113dca0337e1467/c.html",
+   "d": "2026-11-01",
+   "s": "qstheory"
+  },
+  {
+   "t": "从《之江新语》里学党性",
+   "u": "https://www.qstheory.cn/20261101/8e86940b0b5849a5a78c7d6e685a7767/c.html",
+   "d": "2026-11-01",
+   "s": "qstheory"
+  },
+  {
+   "t": "我国载人月球探测工程采用“两次发射、环月对接”方案",
+   "u": "https://www.qstheory.cn/20261101/1e77d0e770de446298117ba6087fdb14/c.html",
+   "d": "2026-11-01",
+   "s": "qstheory"
+  },
+  {
+   "t": "中国海警位中国台湾岛以东海域依法开展常态化执法巡查",
+   "u": "https://www.qstheory.cn/20261101/79cc75fc88f14248b8760148731aae6a/c.html",
+   "d": "2026-11-01",
+   "s": "qstheory"
+  },
+  {
+   "t": "2026中国自动化大会共探自动化与智能科技前沿",
+   "u": "https://www.qstheory.cn/20261101/96dbeea95156497fa098cf94a060d180/c.html",
+   "d": "2026-11-01",
+   "s": "qstheory"
+  },
+  {
+   "t": "我国铼、金、镍、锆等保有资源量大幅增加",
+   "u": "https://www.qstheory.cn/20261101/63eb59f65e8d4aafb71611cd0d3092a6/c.html",
+   "d": "2026-11-01",
+   "s": "qstheory"
+  },
+  {
+   "t": "党的二十届五中全会侧记",
    "u": "https://www.qstheory.cn/20261031/04ae0669910a41cb9a524da3fea6069c/c.html",
    "d": "2026-10-31",
    "s": "qstheory"
@@ -215,78 +287,6 @@
    "s": "qstheory"
   },
   {
-   "t": "欧洲央行维持三大关键利率不变",
-   "u": "https://www.qstheory.cn/20261030/d145942e365a4f8c8818cedd28fc36eb/c.html",
-   "d": "2026-10-30",
-   "s": "qstheory"
-  },
-  {
-   "t": "商务部：如欧方对中国产品采取歧视性限制措施，中方必将采取一切必要措施",
-   "u": "https://www.qstheory.cn/20261030/19e8f0ad70f44f28b64090e82c5da129/c.html",
-   "d": "2026-10-30",
-   "s": "qstheory"
-  },
-  {
-   "t": "全面从严治党贵在持之以恒",
-   "u": "https://www.qstheory.cn/20261030/4aacfef843034c4b86678177099eff06/c.html",
-   "d": "2026-10-30",
-   "s": "qstheory"
-  },
-  {
-   "t": "习近平同德国总统施泰因迈尔会谈",
-   "u": "https://www.qstheory.cn/20261030/832c66dc7acd474b8c15f307f5a258a0/c.html",
-   "d": "2026-10-30",
-   "s": "qstheory"
-  },
-  {
-   "t": "持之以恒推进全面从严治党",
-   "u": "https://www.qstheory.cn/20261029/04d2a114dfd3416d89231eb1851924b6/c.html",
-   "d": "2026-10-29",
-   "s": "qstheory"
-  },
-  {
-   "t": "法规制度既是“紧箍咒”、更是“护身符”",
-   "u": "https://www.qstheory.cn/20261029/6ad7c99962fc4020a950f5b5f5d821fc/c.html",
-   "d": "2026-10-29",
-   "s": "qstheory"
-  },
-  {
-   "t": "坚持党的领导 加强党的建设",
-   "u": "https://www.qstheory.cn/20261029/7a2273b9e84447629e636ab4cd59e3c1/c.html",
-   "d": "2026-10-29",
-   "s": "qstheory"
-  },
-  {
-   "t": "探寻“中国之治”的成功密码",
-   "u": "https://www.qstheory.cn/20261029/27965b903f72463e8c803f81d0ac3354/c.html",
-   "d": "2026-10-29",
-   "s": "qstheory"
-  },
-  {
-   "t": "新时代廉洁文化建设为全面从严治党提供深层支撑",
-   "u": "https://www.qstheory.cn/20261029/2cdc504536b949b398a431427255fe0f/c.html",
-   "d": "2026-10-29",
-   "s": "qstheory"
-  },
-  {
-   "t": "2026年8000亿元新型政策性金融工具完成投放",
-   "u": "https://www.qstheory.cn/20261029/a19335b72c1549b4b96a50e5e689c7a1/c.html",
-   "d": "2026-10-29",
-   "s": "qstheory"
-  },
-  {
-   "t": "今年以来消费品以旧换新带动销售额超2万亿元",
-   "u": "https://www.qstheory.cn/20261029/5f89eaed37d84d9fb2c713c86a18c2ad/c.html",
-   "d": "2026-10-29",
-   "s": "qstheory"
-  },
-  {
-   "t": "前三季度我国海洋生产总值8.5万亿元",
-   "u": "https://www.qstheory.cn/20261029/011ca09ed1094844aa5ff47ad10c20b4/c.html",
-   "d": "2026-10-29",
-   "s": "qstheory"
-  },
-  {
    "t": "人民日报社论：把我们党建设得更好、更强",
    "u": "https://www.12371.cn/2026/10/30/ARTI1793321794923725.shtml",
    "d": "2026-10-30",
@@ -299,7 +299,7 @@
    "s": "12371"
   },
   {
-   "t": "中国共产党第二十届中央委员会第五次全体会议公报",
+   "t": "习近平：关于《中共中央关于持之以恒推进全面从严治党若干重大问题的决定》的说明",
    "u": "https://www.12371.cn/2026/10/29/ARTI1793267034443539.shtml",
    "d": "2026-10-29",
    "s": "12371"
@@ -527,6 +527,18 @@
    "s": "12371"
   },
   {
+   "t": "为新大众文艺人才厚植成长沃土",
+   "u": "http://theory.people.com.cn/n1/2026/1101/c40531-40825260.html",
+   "d": "2026-11-01",
+   "s": "theory"
+  },
+  {
+   "t": "科技兴商重在惠及中小微",
+   "u": "http://theory.people.com.cn/n1/2026/1101/c40531-40825252.html",
+   "d": "2026-11-01",
+   "s": "theory"
+  },
+  {
    "t": "用好有利条件推动工业经济质效向好",
    "u": "http://theory.people.com.cn/n1/2026/1031/c40531-40825067.html",
    "d": "2026-10-31",
@@ -751,18 +763,6 @@
   {
    "t": "| 完善流转机制 促进农业生态价值转化",
    "u": "http://theory.people.com.cn/n1/2026/1027/c40531-40822294.html",
-   "d": "2026-10-27",
-   "s": "theory"
-  },
-  {
-   "t": "数字消费提质扩容激发潜在需求",
-   "u": "http://theory.people.com.cn/n1/2026/1027/c40531-40822205.html",
-   "d": "2026-10-27",
-   "s": "theory"
-  },
-  {
-   "t": "持续增强区域发展协调性联动性",
-   "u": "http://theory.people.com.cn/n1/2026/1027/c40531-40822200.html",
    "d": "2026-10-27",
    "s": "theory"
   },
