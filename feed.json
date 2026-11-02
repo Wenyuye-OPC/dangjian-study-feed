@@ -1,15 +1,15 @@
 {
  "app": "dangjian-study-feed",
  "ver": 1,
- "updated": "2026-11-02T01:32:41.114Z",
- "checked": "2026-11-02T01:32:41.114Z",
+ "updated": "2026-11-02T12:31:01.701Z",
+ "checked": "2026-11-02T12:31:01.701Z",
  "sources": [
   {
    "id": "qstheory",
    "name": "求是网",
    "home": "https://www.qstheory.cn/",
    "ok": true,
-   "got": 78,
+   "got": 76,
    "count": 40
   },
   {
@@ -25,7 +25,7 @@
    "name": "人民网·理论",
    "home": "http://theory.people.com.cn/",
    "ok": true,
-   "got": 37,
+   "got": 38,
    "count": 40
   },
   {
@@ -33,7 +33,7 @@
    "name": "人民网·党建",
    "home": "http://dangjian.people.com.cn/",
    "ok": true,
-   "got": 47,
+   "got": 48,
    "count": 40
   },
   {
@@ -41,7 +41,7 @@
    "name": "人民网·观点",
    "home": "http://opinion.people.com.cn/",
    "ok": true,
-   "got": 42,
+   "got": 45,
    "count": 40
   }
  ],
@@ -73,6 +73,90 @@
   {
    "t": "以民主集中制夯实全面从严治党根基",
    "u": "https://www.qstheory.cn/20261102/96061d79e2354923b33c0cd9238e2dbb/c.html",
+   "d": "2026-11-02",
+   "s": "qstheory"
+  },
+  {
+   "t": "《求是》杂志发表习近平总书记重要文章《关于〈中共中央关于持之以恒推进全面从严治党若干重大问题的决定〉的说明》",
+   "u": "https://www.qstheory.cn/20261102/a4fd49da3a94469cb6f48f8675deaa8c/c.html",
+   "d": "2026-11-02",
+   "s": "qstheory"
+  },
+  {
+   "t": "习近平同阿曼苏丹海赛姆会谈",
+   "u": "https://www.qstheory.cn/20261102/d26595de677d4b0c9ef4fab335c2003a/c.html",
+   "d": "2026-11-02",
+   "s": "qstheory"
+  },
+  {
+   "t": "《求是》杂志编辑部：不断开创新时代管党治党、兴党强党新局面",
+   "u": "https://www.qstheory.cn/20261102/9bb23643eaf94b8cb5ee85f737cc0ede/c.html",
+   "d": "2026-11-02",
+   "s": "qstheory"
+  },
+  {
+   "t": "习近平对进一步做好黄河保护治理工作作出重要指示强调 持续完善大保护大协同格局 努力让这条母亲河越来越美",
+   "u": "https://www.qstheory.cn/20261102/da8e0a11975a46d99d8c87dad95a4996/c.html",
+   "d": "2026-11-02",
+   "s": "qstheory"
+  },
+  {
+   "t": "习近平同阿曼苏丹海赛姆共同出席合作文件签字仪式",
+   "u": "https://www.qstheory.cn/20261102/18395d5fe46e4e6b81df6f6abf062331/c.html",
+   "d": "2026-11-02",
+   "s": "qstheory"
+  },
+  {
+   "t": "习近平同秘鲁总统藤森庆子就中秘建交55周年互致贺电",
+   "u": "https://www.qstheory.cn/20261102/60003befc6bb4d70ac3f5e404a372121/c.html",
+   "d": "2026-11-02",
+   "s": "qstheory"
+  },
+  {
+   "t": "《求是》杂志评论员：推动学习贯彻习近平党建思想走深走实",
+   "u": "https://www.qstheory.cn/20261102/0aa3e7e738e74156854abf6ccedb6390/c.html",
+   "d": "2026-11-02",
+   "s": "qstheory"
+  },
+  {
+   "t": "银行净息差回升验证行业韧性",
+   "u": "https://www.qstheory.cn/20261102/93ca3fbc9a184e9281f1496a94fce1eb/c.html",
+   "d": "2026-11-02",
+   "s": "qstheory"
+  },
+  {
+   "t": "2026年“铸牢共同体 中华一家亲”主题宣传活动新疆集中采访启动",
+   "u": "https://www.qstheory.cn/20261102/5202a9c1c7b44a3ea9ec0a44b33bbcd6/c.html",
+   "d": "2026-11-02",
+   "s": "qstheory"
+  },
+  {
+   "t": "南水北调中线完成2025—2026年度供水任务",
+   "u": "https://www.qstheory.cn/20261102/496692795c474e05ab7f0bd773d01ba0/c.html",
+   "d": "2026-11-02",
+   "s": "qstheory"
+  },
+  {
+   "t": "中国与东盟粮农合作向“数智化”与“全链共生”升级",
+   "u": "https://www.qstheory.cn/20261102/9df22a8f96ff45e1bdfd7983c235a4ca/c.html",
+   "d": "2026-11-02",
+   "s": "qstheory"
+  },
+  {
+   "t": "需求向新 供给向优——透视前三季度物流运行",
+   "u": "https://www.qstheory.cn/20261102/8f97f4df69644670998bd2336094e853/c.html",
+   "d": "2026-11-02",
+   "s": "qstheory"
+  },
+  {
+   "t": "2026年“全国十佳新闻工作者”名单揭晓",
+   "u": "https://www.qstheory.cn/20261102/1771c1991d274482acdb18b9f520a13e/c.html",
+   "d": "2026-11-02",
+   "s": "qstheory"
+  },
+  {
+   "t": "2000多家“新面孔”企业首秀进博会",
+   "u": "https://www.qstheory.cn/20261102/5f9b453380c44179af7d4e099b459bb0/c.html",
    "d": "2026-11-02",
    "s": "qstheory"
   },
@@ -200,90 +284,6 @@
    "t": "金融监管总局发文规范信托公司资产管理业务发展",
    "u": "https://www.qstheory.cn/20261031/f842019410c54007b78d3398d62fc84f/c.html",
    "d": "2026-10-31",
-   "s": "qstheory"
-  },
-  {
-   "t": "全国人大常委会法工委通报拟审议的法律草案情况 将审议检察公益诉讼法草案、反跨境腐败法草案等",
-   "u": "https://www.qstheory.cn/20261031/41c39eb94e5849b8a7f979979cd571e7/c.html",
-   "d": "2026-10-31",
-   "s": "qstheory"
-  },
-  {
-   "t": "政府采购本国产品加快细化落地",
-   "u": "https://www.qstheory.cn/20261031/e3db5ed6b10747219c49192c7e96a8db/c.html",
-   "d": "2026-10-31",
-   "s": "qstheory"
-  },
-  {
-   "t": "央行：每个工作日开展隔夜逆回购操作招标",
-   "u": "https://www.qstheory.cn/20261031/757d6a57156b4bafb19d1a6946261756/c.html",
-   "d": "2026-10-31",
-   "s": "qstheory"
-  },
-  {
-   "t": "进一步加强党内法规制度建设",
-   "u": "https://www.qstheory.cn/20261031/d9e70df99ee04ce0b798b88e63c7450e/c.html",
-   "d": "2026-10-31",
-   "s": "qstheory"
-  },
-  {
-   "t": "党的二十届五中全会公报一图速览",
-   "u": "https://www.qstheory.cn/20261030/09bbda895b7e4bf78980434e7eaed458/c.html",
-   "d": "2026-10-30",
-   "s": "qstheory"
-  },
-  {
-   "t": "把我们党建设得更好、更强",
-   "u": "https://www.qstheory.cn/20261030/63f2cafe2ccc4c15914002eec4e3342f/c.html",
-   "d": "2026-10-30",
-   "s": "qstheory"
-  },
-  {
-   "t": "读懂新时代全面从严治党伟大成就的深刻启示",
-   "u": "https://www.qstheory.cn/20261030/5b7ef11922124b9794c480d923bcc246/c.html",
-   "d": "2026-10-30",
-   "s": "qstheory"
-  },
-  {
-   "t": "以党章为根本持之以恒推进全面从严治党",
-   "u": "https://www.qstheory.cn/20261030/9bb2353b83d04c12a7bba4e3431671de/c.html",
-   "d": "2026-10-30",
-   "s": "qstheory"
-  },
-  {
-   "t": "强化源头技术供给 构筑产业发展新优势",
-   "u": "https://www.qstheory.cn/20261030/557f748199da40e89173dc0c5817b2d7/c.html",
-   "d": "2026-10-30",
-   "s": "qstheory"
-  },
-  {
-   "t": "深刻把握中华文明突出的包容性③",
-   "u": "https://www.qstheory.cn/20261030/67e96036d4a1421aa544cc56b27c3c58/c.html",
-   "d": "2026-10-30",
-   "s": "qstheory"
-  },
-  {
-   "t": "中共中央召开党外人士座谈会 习近平主持并发表重要讲话",
-   "u": "https://www.qstheory.cn/20261030/c2356e46c58c4ede9300f51c03dc01ea/c.html",
-   "d": "2026-10-30",
-   "s": "qstheory"
-  },
-  {
-   "t": "新华社快讯：习近平同瑞士联邦主席帕姆兰共同出席合作文件签字仪式",
-   "u": "https://www.qstheory.cn/20261030/efb5a7442faa49b4b5fa791e80bda67a/c.html",
-   "d": "2026-10-30",
-   "s": "qstheory"
-  },
-  {
-   "t": "习近平会见瑞士联邦主席帕姆兰",
-   "u": "https://www.qstheory.cn/20261030/6749d7733e9144a4848d52ab1150cbe7/c.html",
-   "d": "2026-10-30",
-   "s": "qstheory"
-  },
-  {
-   "t": "海南自贸港跨境贸易投资便利化水平持续提升",
-   "u": "https://www.qstheory.cn/20261030/d8b36bced92e468dbf3a18074b97dd68/c.html",
-   "d": "2026-10-30",
    "s": "qstheory"
   },
   {
@@ -587,6 +587,12 @@
    "s": "theory"
   },
   {
+   "t": "以民主集中制夯实全面从严治党根基",
+   "u": "http://theory.people.com.cn/n1/2026/1102/c40531-40825766.html",
+   "d": "2026-11-02",
+   "s": "theory"
+  },
+  {
    "t": "为新大众文艺人才厚植成长沃土",
    "u": "http://theory.people.com.cn/n1/2026/1101/c40531-40825260.html",
    "d": "2026-11-01",
@@ -761,12 +767,6 @@
    "s": "theory"
   },
   {
-   "t": "把各领域基层党组织建设成为坚强战斗堡垒",
-   "u": "http://theory.people.com.cn/n1/2026/1028/c40531-40823059.html",
-   "d": "2026-10-28",
-   "s": "theory"
-  },
-  {
    "t": "深刻领悟习近平党建思想蕴含的科学思想方法（深入学习贯…",
    "u": "http://dangjian.people.com.cn/n1/2026/1102/c117092-40825810.html",
    "d": "2026-11-02",
@@ -805,6 +805,12 @@
   {
    "t": "以高度历史主动推进全面从严治党",
    "u": "http://dangjian.people.com.cn/n1/2026/1102/c117092-40825767.html",
+   "d": "2026-11-02",
+   "s": "dangjian"
+  },
+  {
+   "t": "机关党员下沉一线纾困解难",
+   "u": "http://dangjian.people.com.cn/n1/2026/1102/c117092-40826061.html",
    "d": "2026-11-02",
    "s": "dangjian"
   },
@@ -1001,13 +1007,91 @@
    "s": "dangjian"
   },
   {
-   "t": "实践长本领 当好守边人",
-   "u": "http://dangjian.people.com.cn/n1/2026/1027/c117092-40822519.html",
-   "d": "2026-10-27",
-   "s": "dangjian"
+   "t": "人民锐评：讨论注意力分配，平台责任不应止于合规",
+   "u": "http://opinion.people.com.cn/n1/2026/1102/c436867-40826154.html",
+   "d": "2026-11-02",
+   "s": "opinion"
   },
   {
-   "t": "人民日报评论员：全面贯彻习近平党建思想",
+   "t": "统筹兼顾“从0到1”与“从1到N”（人民时评）",
+   "u": "http://opinion.people.com.cn/n1/2026/1102/c461529-40825541.html",
+   "d": "2026-11-02",
+   "s": "opinion"
+  },
+  {
+   "t": "倾听自然，看见你我（金台随笔）",
+   "u": "http://opinion.people.com.cn/n1/2026/1102/c461529-40825542.html",
+   "d": "2026-11-02",
+   "s": "opinion"
+  },
+  {
+   "t": "“月月有瓜”里的市场尺度（微观）",
+   "u": "http://opinion.people.com.cn/n1/2026/1102/c461529-40825543.html",
+   "d": "2026-11-02",
+   "s": "opinion"
+  },
+  {
+   "t": "未来出行，一场未被定义的长跑（人民锐评）",
+   "u": "http://opinion.people.com.cn/n1/2026/1102/c461529-40825544.html",
+   "d": "2026-11-02",
+   "s": "opinion"
+  },
+  {
+   "t": "环球时报社评：“四方机制并非反华联盟”，美方应说到做到",
+   "u": "http://opinion.people.com.cn/n1/2026/1102/c462004-40825874.html",
+   "d": "2026-11-02",
+   "s": "opinion"
+  },
+  {
+   "t": "大党之治，为世界政治文明带来新启迪（和音）",
+   "u": "http://opinion.people.com.cn/n1/2026/1102/c461529-40825481.html",
+   "d": "2026-11-02",
+   "s": "opinion"
+  },
+  {
+   "t": "深刻领悟习近平党建思想蕴含的科学思想方法（深入学习贯彻习近平新时代中国特色社会主义思想）",
+   "u": "http://opinion.people.com.cn/n1/2026/1102/c461530-40825501.html",
+   "d": "2026-11-02",
+   "s": "opinion"
+  },
+  {
+   "t": "把阶段性工作与长期性目标结合起来（思想纵横）",
+   "u": "http://opinion.people.com.cn/n1/2026/1102/c461530-40825502.html",
+   "d": "2026-11-02",
+   "s": "opinion"
+  },
+  {
+   "t": "守护好群众身边的平安（专题深思）",
+   "u": "http://opinion.people.com.cn/n1/2026/1102/c461530-40825503.html",
+   "d": "2026-11-02",
+   "s": "opinion"
+  },
+  {
+   "t": "坚持严的基调，激发全党积极性主动性创造性",
+   "u": "http://opinion.people.com.cn/n1/2026/1102/c461529-40825480.html",
+   "d": "2026-11-02",
+   "s": "opinion"
+  },
+  {
+   "t": "凝聚合作信心 改革完善全球治理（国际论坛）",
+   "u": "http://opinion.people.com.cn/n1/2026/1101/c461529-40825189.html",
+   "d": "2026-11-01",
+   "s": "opinion"
+  },
+  {
+   "t": "从两场外交活动，看中欧互利共赢之道（和音）",
+   "u": "http://opinion.people.com.cn/n1/2026/1101/c461529-40825188.html",
+   "d": "2026-11-01",
+   "s": "opinion"
+  },
+  {
+   "t": "坚持服务党的使命任务",
+   "u": "http://opinion.people.com.cn/n1/2026/1101/c461529-40825179.html",
+   "d": "2026-11-01",
+   "s": "opinion"
+  },
+  {
+   "t": "全面贯彻习近平党建思想",
    "u": "http://opinion.people.com.cn/n1/2026/1031/c461529-40824937.html",
    "d": "2026-10-31",
    "s": "opinion"
@@ -1019,7 +1103,7 @@
    "s": "opinion"
   },
   {
-   "t": "警惕“中国AI跑偏论”（人民锐评）",
+   "t": "人民锐评：警惕“中国AI跑偏论”",
    "u": "http://opinion.people.com.cn/n1/2026/1030/c461529-40824171.html",
    "d": "2026-10-30",
    "s": "opinion"
@@ -1160,90 +1244,6 @@
    "t": "松弛感与自信心（暖闻热评）",
    "u": "http://opinion.people.com.cn/n1/2026/1029/c461529-40823501.html",
    "d": "2026-10-29",
-   "s": "opinion"
-  },
-  {
-   "t": "文明养成需守“公私之界”（人民锐评）",
-   "u": "http://opinion.people.com.cn/n1/2026/1028/c461529-40822794.html",
-   "d": "2026-10-28",
-   "s": "opinion"
-  },
-  {
-   "t": "新时代全面从严治党体系的鲜明特点和重大意义（深入学习贯彻习近平新时代中国特色社会主义思想）",
-   "u": "http://opinion.people.com.cn/n1/2026/1028/c461530-40822787.html",
-   "d": "2026-10-28",
-   "s": "opinion"
-  },
-  {
-   "t": "深耕潜绩 固本致远（思想纵横）",
-   "u": "http://opinion.people.com.cn/n1/2026/1028/c461530-40822786.html",
-   "d": "2026-10-28",
-   "s": "opinion"
-  },
-  {
-   "t": "完善农家书屋功能 提升乡村阅读服务效能（专题深思）",
-   "u": "http://opinion.people.com.cn/n1/2026/1028/c461530-40822785.html",
-   "d": "2026-10-28",
-   "s": "opinion"
-  },
-  {
-   "t": "环球时报社评：菲律宾军舰“跟踪”辽宁舰？全世界都笑了",
-   "u": "http://opinion.people.com.cn/n1/2026/1028/c462004-40822921.html",
-   "d": "2026-10-28",
-   "s": "opinion"
-  },
-  {
-   "t": "“组织链”里见力量（评论员观察）",
-   "u": "http://opinion.people.com.cn/n1/2026/1028/c461529-40822798.html",
-   "d": "2026-10-28",
-   "s": "opinion"
-  },
-  {
-   "t": "目光交汇，与美相遇（金台随笔）",
-   "u": "http://opinion.people.com.cn/n1/2026/1028/c461529-40822797.html",
-   "d": "2026-10-28",
-   "s": "opinion"
-  },
-  {
-   "t": "沉潜者，时间终有回响（暖闻热评）",
-   "u": "http://opinion.people.com.cn/n1/2026/1028/c461529-40822796.html",
-   "d": "2026-10-28",
-   "s": "opinion"
-  },
-  {
-   "t": "思路有多宽，出路就有多广（人民时评）",
-   "u": "http://opinion.people.com.cn/n1/2026/1028/c461529-40822795.html",
-   "d": "2026-10-28",
-   "s": "opinion"
-  },
-  {
-   "t": "人民锐评：姆巴佩的“翻车”，公众人物的镜鉴",
-   "u": "http://opinion.people.com.cn/n1/2026/1028/c436867-40823198.html",
-   "d": "2026-10-28",
-   "s": "opinion"
-  },
-  {
-   "t": "党建评：发扬“强健自身”优秀特质，走好新的长征路",
-   "u": "http://opinion.people.com.cn/n1/2026/1027/c1003-40822159.html",
-   "d": "2026-10-27",
-   "s": "opinion"
-  },
-  {
-   "t": "促进农业生态价值转化（专题深思）",
-   "u": "http://opinion.people.com.cn/n1/2026/1027/c461530-40822025.html",
-   "d": "2026-10-27",
-   "s": "opinion"
-  },
-  {
-   "t": "汲取我国古代城市建设治理智慧推动城市工作（有的放矢）",
-   "u": "http://opinion.people.com.cn/n1/2026/1027/c461530-40822026.html",
-   "d": "2026-10-27",
-   "s": "opinion"
-  },
-  {
-   "t": "坚持不懈把全面从严治党向纵深推进（深入学习贯彻习近平新时代中国特色社会主义思想）",
-   "u": "http://opinion.people.com.cn/n1/2026/1027/c461530-40822027.html",
-   "d": "2026-10-27",
    "s": "opinion"
   }
  ]
