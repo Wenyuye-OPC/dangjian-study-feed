@@ -1,15 +1,15 @@
 {
  "app": "dangjian-study-feed",
  "ver": 1,
- "updated": "2026-11-03T03:29:12.894Z",
- "checked": "2026-11-03T03:29:12.894Z",
+ "updated": "2026-11-03T11:59:10.478Z",
+ "checked": "2026-11-03T11:59:10.478Z",
  "sources": [
   {
    "id": "qstheory",
    "name": "求是网",
    "home": "https://www.qstheory.cn/",
    "ok": true,
-   "got": 76,
+   "got": 79,
    "count": 40
   },
   {
@@ -25,7 +25,7 @@
    "name": "人民网·理论",
    "home": "http://theory.people.com.cn/",
    "ok": true,
-   "got": 39,
+   "got": 37,
    "count": 40
   },
   {
@@ -33,7 +33,7 @@
    "name": "人民网·党建",
    "home": "http://dangjian.people.com.cn/",
    "ok": true,
-   "got": 48,
+   "got": 44,
    "count": 40
   },
   {
@@ -97,6 +97,24 @@
   {
    "t": "朝鲜导弹总局进行重要武器系统试验",
    "u": "https://www.qstheory.cn/20261103/5b35d362bcf14104be99ca4de5e43340/c.html",
+   "d": "2026-11-03",
+   "s": "qstheory"
+  },
+  {
+   "t": "刘延东同志遗体在京火化 习近平等到八宝山革命公墓送别",
+   "u": "https://www.qstheory.cn/20261103/c1bd2fe386da41d29564ec295f4f24a6/c.html",
+   "d": "2026-11-03",
+   "s": "qstheory"
+  },
+  {
+   "t": "持续推进黄河流域生态保护和高质量发展的重要遵循",
+   "u": "https://www.qstheory.cn/20261103/d2ab369afef746e5a25b54c90781311f/c.html",
+   "d": "2026-11-03",
+   "s": "qstheory"
+  },
+  {
+   "t": "深刻把握和落实新时代党的建设总要求",
+   "u": "https://www.qstheory.cn/20261103/789164e631ab421eaa3cc0f30e9d883d/c.html",
    "d": "2026-11-03",
    "s": "qstheory"
   },
@@ -266,24 +284,6 @@
    "t": "如何理解坚持建设堪当民族复兴重任的高素质干部队伍",
    "u": "https://www.qstheory.cn/20261102/2dd4d8533a464bdfb669ffed9495ee80/c.html",
    "d": "2026-11-02",
-   "s": "qstheory"
-  },
-  {
-   "t": "深刻把握中华文明突出的和平性",
-   "u": "https://www.qstheory.cn/20261102/f8c1f16bcaa44274b1853e63a8654333/c.html",
-   "d": "2026-11-02",
-   "s": "qstheory"
-  },
-  {
-   "t": "着力促进形成新的经济发展模式",
-   "u": "https://www.qstheory.cn/20261102/d18a27b1c429466a80c3204665a3c672/c.html",
-   "d": "2026-11-02",
-   "s": "qstheory"
-  },
-  {
-   "t": "习近平：关于《中共中央关于持之以恒推进全面从严治党若干重大问题的决定》的说明",
-   "u": "https://www.qstheory.cn/20261101/712d83da50c746c697c9bcddabcb0127/c.html",
-   "d": "2026-11-01",
    "s": "qstheory"
   },
   {
@@ -575,13 +575,31 @@
    "s": "theory"
   },
   {
+   "t": "理响中国 | 增强主题出版物国际影响力的现实逻辑",
+   "u": "http://theory.people.com.cn/n1/2026/1103/c40531-40826778.html",
+   "d": "2026-11-03",
+   "s": "theory"
+  },
+  {
+   "t": "内外联动推进高水平对外开放",
+   "u": "http://theory.people.com.cn/n1/2026/1103/c40531-40826605.html",
+   "d": "2026-11-03",
+   "s": "theory"
+  },
+  {
+   "t": "锻造堪当民族复兴重任的高素质干部队伍",
+   "u": "http://theory.people.com.cn/n1/2026/1103/c40531-40826628.html",
+   "d": "2026-11-03",
+   "s": "theory"
+  },
+  {
    "t": "深刻领悟习近平党建思想蕴含的科学思想方法（深入学习贯彻习近平新时代中国特色社会主义思想）",
    "u": "http://theory.people.com.cn/n1/2026/1102/c40531-40825793.html",
    "d": "2026-11-02",
    "s": "theory"
   },
   {
-   "t": "把阶段性工作与长期性目标结合起来（思想纵横）",
+   "t": "| 把阶段性工作与长期性目标结合起来",
    "u": "http://theory.people.com.cn/n1/2026/1102/c40531-40825792.html",
    "d": "2026-11-02",
    "s": "theory"
@@ -749,24 +767,6 @@
    "s": "theory"
   },
   {
-   "t": "持之以恒推进全面从严治党的战略意义",
-   "u": "http://theory.people.com.cn/n1/2026/1029/c40531-40823700.html",
-   "d": "2026-10-29",
-   "s": "theory"
-  },
-  {
-   "t": "深入理解“坚持推进作风建设常态化长效化”",
-   "u": "http://theory.people.com.cn/n1/2026/1029/c40531-40823689.html",
-   "d": "2026-10-29",
-   "s": "theory"
-  },
-  {
-   "t": "把制度优势转化为科技创新胜势",
-   "u": "http://theory.people.com.cn/n1/2026/1029/c40531-40823704.html",
-   "d": "2026-10-29",
-   "s": "theory"
-  },
-  {
    "t": "深刻把握和落实新时代党的建设总要求（深入学习贯彻习近…",
    "u": "http://dangjian.people.com.cn/n1/2026/1103/c117092-40826682.html",
    "d": "2026-11-03",
@@ -815,6 +815,30 @@
    "s": "dangjian"
   },
   {
+   "t": "河南周口夯实基层基础推动治理提质增效",
+   "u": "http://dangjian.people.com.cn/n1/2026/1103/c117092-40826697.html",
+   "d": "2026-11-03",
+   "s": "dangjian"
+  },
+  {
+   "t": "内蒙古鄂尔多斯：党建引领暖心物业 让老小区有了新管家",
+   "u": "http://dangjian.people.com.cn/n1/2026/1103/c117092-40826886.html",
+   "d": "2026-11-03",
+   "s": "dangjian"
+  },
+  {
+   "t": "四川大力推进红色美丽村庄建设：巴蜀山乡别样红",
+   "u": "http://dangjian.people.com.cn/n1/2026/1103/c117092-40826887.html",
+   "d": "2026-11-03",
+   "s": "dangjian"
+  },
+  {
+   "t": "江西抚州凝聚网络主播群体：支部建“云端” 服务送心坎",
+   "u": "http://dangjian.people.com.cn/n1/2026/1103/c117092-40826888.html",
+   "d": "2026-11-03",
+   "s": "dangjian"
+  },
+  {
    "t": "深刻领悟习近平党建思想蕴含的科学思想方法（深入学习贯…",
    "u": "http://dangjian.people.com.cn/n1/2026/1102/c117092-40825810.html",
    "d": "2026-11-02",
@@ -827,7 +851,7 @@
    "s": "dangjian"
   },
   {
-   "t": "把阶段性工作与长期性目标结合起来（思想纵横）",
+   "t": "思想纵横：把阶段性工作与长期性目标结合起来",
    "u": "http://dangjian.people.com.cn/n1/2026/1102/c117092-40825811.html",
    "d": "2026-11-02",
    "s": "dangjian"
@@ -979,30 +1003,6 @@
   {
    "t": "“组织链”里见力量（评论员观察）",
    "u": "http://dangjian.people.com.cn/n1/2026/1028/c117092-40822960.html",
-   "d": "2026-10-28",
-   "s": "dangjian"
-  },
-  {
-   "t": "把各领域基层党组织建设成为坚强战斗堡垒",
-   "u": "http://dangjian.people.com.cn/n1/2026/1028/c117092-40822944.html",
-   "d": "2026-10-28",
-   "s": "dangjian"
-  },
-  {
-   "t": "把严的基调严的措施严的氛围长期坚持下去",
-   "u": "http://dangjian.people.com.cn/n1/2026/1028/c117092-40822945.html",
-   "d": "2026-10-28",
-   "s": "dangjian"
-  },
-  {
-   "t": "让居民“都愿意进来坐一坐”（大国小…",
-   "u": "http://dangjian.people.com.cn/n1/2026/1028/c117092-40822966.html",
-   "d": "2026-10-28",
-   "s": "dangjian"
-  },
-  {
-   "t": "从严管党治党 凝聚胜战力量",
-   "u": "http://dangjian.people.com.cn/n1/2026/1028/c117092-40822948.html",
    "d": "2026-10-28",
    "s": "dangjian"
   },
