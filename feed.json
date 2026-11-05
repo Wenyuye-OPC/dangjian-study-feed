@@ -1,15 +1,15 @@
 {
  "app": "dangjian-study-feed",
  "ver": 1,
- "updated": "2026-11-04T12:13:18.000Z",
- "checked": "2026-11-04T12:13:18.000Z",
+ "updated": "2026-11-05T02:30:31.312Z",
+ "checked": "2026-11-05T02:30:31.312Z",
  "sources": [
   {
    "id": "qstheory",
    "name": "求是网",
    "home": "https://www.qstheory.cn/",
    "ok": true,
-   "got": 79,
+   "got": 78,
    "count": 40
   },
   {
@@ -25,7 +25,7 @@
    "name": "人民网·理论",
    "home": "http://theory.people.com.cn/",
    "ok": true,
-   "got": 43,
+   "got": 39,
    "count": 40
   },
   {
@@ -33,7 +33,7 @@
    "name": "人民网·党建",
    "home": "http://dangjian.people.com.cn/",
    "ok": true,
-   "got": 43,
+   "got": 42,
    "count": 40
   },
   {
@@ -41,11 +41,65 @@
    "name": "人民网·观点",
    "home": "http://opinion.people.com.cn/",
    "ok": true,
-   "got": 46,
+   "got": 47,
    "count": 40
   }
  ],
  "items": [
+  {
+   "t": "严格贯彻执行民主集中制",
+   "u": "https://www.qstheory.cn/20261105/4a5dcf0ad7a342c4bf57ed6ab05178ea/c.html",
+   "d": "2026-11-05",
+   "s": "qstheory"
+  },
+  {
+   "t": "坚持制度治党、依规治党",
+   "u": "https://www.qstheory.cn/20261105/7e88271b88dd49f3b8b0802bf0ae6add/c.html",
+   "d": "2026-11-05",
+   "s": "qstheory"
+  },
+  {
+   "t": "历史昭示未来，奋斗成就伟业",
+   "u": "https://www.qstheory.cn/20261105/0193094d6e0d4635b586fd6a9768dd7a/c.html",
+   "d": "2026-11-05",
+   "s": "qstheory"
+  },
+  {
+   "t": "黄河流域生态保护和高质量发展的科学内涵与战略意义",
+   "u": "https://www.qstheory.cn/20261105/bf13bf3b406148f6b70eb5c599090579/c.html",
+   "d": "2026-11-05",
+   "s": "qstheory"
+  },
+  {
+   "t": "多部门联合印发《实施全面节约战略行动方案》",
+   "u": "https://www.qstheory.cn/20261105/c6891c7d850740e7a22657303405b94b/c.html",
+   "d": "2026-11-05",
+   "s": "qstheory"
+  },
+  {
+   "t": "抢抓进博机遇 世界500强和龙头企业参展创新高",
+   "u": "https://www.qstheory.cn/20261105/2724efe661fa49afb2ab1a651071f823/c.html",
+   "d": "2026-11-05",
+   "s": "qstheory"
+  },
+  {
+   "t": "从两大经贸展会读懂“顺差在中国，利益在各方”",
+   "u": "https://www.qstheory.cn/20261105/ad473c5e622a41dd84905c871511d937/c.html",
+   "d": "2026-11-05",
+   "s": "qstheory"
+  },
+  {
+   "t": "丰收景象背后的“三个一”",
+   "u": "https://www.qstheory.cn/20261105/7c35d668c606480dada93bd750f2280b/c.html",
+   "d": "2026-11-05",
+   "s": "qstheory"
+  },
+  {
+   "t": "美国中期选举的四个“意外”",
+   "u": "https://www.qstheory.cn/20261105/a5889ed129324dbf90f7e3b9bb625842/c.html",
+   "d": "2026-11-05",
+   "s": "qstheory"
+  },
   {
    "t": "努力让这条母亲河越来越美",
    "u": "https://www.qstheory.cn/20261104/0c007aa32561438a8ebff9296087626c/c.html",
@@ -127,6 +181,18 @@
   {
    "t": "坚持以党的政治建设为统领",
    "u": "https://www.qstheory.cn/20261104/fc1d04b3066e416b8f9ea08804f2f432/c.html",
+   "d": "2026-11-04",
+   "s": "qstheory"
+  },
+  {
+   "t": "求是网评论员：携手构建全球人工智能开源生态",
+   "u": "https://www.qstheory.cn/20261104/3e2ff2b870694190a12cfd79e5bdbfbb/c.html",
+   "d": "2026-11-04",
+   "s": "qstheory"
+  },
+  {
+   "t": "以鲜明的问题导向推进全面从严治党",
+   "u": "https://www.qstheory.cn/20261104/6e6b73a563b64683bc4eb518565faf1e/c.html",
    "d": "2026-11-04",
    "s": "qstheory"
   },
@@ -217,72 +283,6 @@
   {
    "t": "坚持严的基调，激发全党积极性主动性创造性",
    "u": "https://www.qstheory.cn/20261102/9dfc179f3d7f4e95becda7505b3a10a5/c.html",
-   "d": "2026-11-02",
-   "s": "qstheory"
-  },
-  {
-   "t": "永葆生机活力 为中国式现代化提供根本保证",
-   "u": "https://www.qstheory.cn/20261102/c9bdf49525e84c21943fe65891b9fa92/c.html",
-   "d": "2026-11-02",
-   "s": "qstheory"
-  },
-  {
-   "t": "以民主集中制夯实全面从严治党根基",
-   "u": "https://www.qstheory.cn/20261102/96061d79e2354923b33c0cd9238e2dbb/c.html",
-   "d": "2026-11-02",
-   "s": "qstheory"
-  },
-  {
-   "t": "《求是》杂志发表习近平总书记重要文章《关于〈中共中央关于持之以恒推进全面从严治党若干重大问题的决定〉的说明》",
-   "u": "https://www.qstheory.cn/20261102/a4fd49da3a94469cb6f48f8675deaa8c/c.html",
-   "d": "2026-11-02",
-   "s": "qstheory"
-  },
-  {
-   "t": "习近平同阿曼苏丹海赛姆会谈",
-   "u": "https://www.qstheory.cn/20261102/d26595de677d4b0c9ef4fab335c2003a/c.html",
-   "d": "2026-11-02",
-   "s": "qstheory"
-  },
-  {
-   "t": "《求是》杂志编辑部：不断开创新时代管党治党、兴党强党新局面",
-   "u": "https://www.qstheory.cn/20261102/9bb23643eaf94b8cb5ee85f737cc0ede/c.html",
-   "d": "2026-11-02",
-   "s": "qstheory"
-  },
-  {
-   "t": "习近平对进一步做好黄河保护治理工作作出重要指示强调 持续完善大保护大协同格局 努力让这条母亲河越来越美",
-   "u": "https://www.qstheory.cn/20261102/da8e0a11975a46d99d8c87dad95a4996/c.html",
-   "d": "2026-11-02",
-   "s": "qstheory"
-  },
-  {
-   "t": "习近平同阿曼苏丹海赛姆共同出席合作文件签字仪式",
-   "u": "https://www.qstheory.cn/20261102/18395d5fe46e4e6b81df6f6abf062331/c.html",
-   "d": "2026-11-02",
-   "s": "qstheory"
-  },
-  {
-   "t": "习近平同秘鲁总统藤森庆子就中秘建交55周年互致贺电",
-   "u": "https://www.qstheory.cn/20261102/60003befc6bb4d70ac3f5e404a372121/c.html",
-   "d": "2026-11-02",
-   "s": "qstheory"
-  },
-  {
-   "t": "《求是》杂志评论员：推动学习贯彻习近平党建思想走深走实",
-   "u": "https://www.qstheory.cn/20261102/0aa3e7e738e74156854abf6ccedb6390/c.html",
-   "d": "2026-11-02",
-   "s": "qstheory"
-  },
-  {
-   "t": "银行净息差回升验证行业韧性",
-   "u": "https://www.qstheory.cn/20261102/93ca3fbc9a184e9281f1496a94fce1eb/c.html",
-   "d": "2026-11-02",
-   "s": "qstheory"
-  },
-  {
-   "t": "2026年“铸牢共同体 中华一家亲”主题宣传活动新疆集中采访启动",
-   "u": "https://www.qstheory.cn/20261102/5202a9c1c7b44a3ea9ec0a44b33bbcd6/c.html",
    "d": "2026-11-02",
    "s": "qstheory"
   },
@@ -527,6 +527,42 @@
    "s": "12371"
   },
   {
+   "t": "黄河流域生态保护和高质量发展的科学内涵与战略意义（人民要论）",
+   "u": "http://theory.people.com.cn/n1/2026/1105/c40531-40828229.html",
+   "d": "2026-11-05",
+   "s": "theory"
+  },
+  {
+   "t": "构建中国历史学自主知识体系（加快构建中国哲学社会科学自主知识体系）",
+   "u": "http://theory.people.com.cn/n1/2026/1105/c40531-40828227.html",
+   "d": "2026-11-05",
+   "s": "theory"
+  },
+  {
+   "t": "把握坚持党对经济工作全面领导的内在逻辑（论点撷萃）",
+   "u": "http://theory.people.com.cn/n1/2026/1105/c40531-40828226.html",
+   "d": "2026-11-05",
+   "s": "theory"
+  },
+  {
+   "t": "把全国重点马克思主义学院建成党的创新理论研究高地",
+   "u": "http://theory.people.com.cn/n1/2026/1105/c40531-40828163.html",
+   "d": "2026-11-05",
+   "s": "theory"
+  },
+  {
+   "t": "保障数据权益赋能AI创新",
+   "u": "http://theory.people.com.cn/n1/2026/1105/c40531-40828169.html",
+   "d": "2026-11-05",
+   "s": "theory"
+  },
+  {
+   "t": "加快推动科技创新和产业创新深度融合",
+   "u": "http://theory.people.com.cn/n1/2026/1105/c40531-40828164.html",
+   "d": "2026-11-05",
+   "s": "theory"
+  },
+  {
    "t": "不断实现党的自我净化、自我完善、自我革新、自我提高（深入学习贯彻习近平新时代中国特色社会主义思想）",
    "u": "http://theory.people.com.cn/n1/2026/1104/c40531-40827425.html",
    "d": "2026-11-04",
@@ -599,7 +635,19 @@
    "s": "theory"
   },
   {
-   "t": "深刻把握和落实新时代党的建设总要求（深入学习贯彻习近平新时代中国特色社会主义思想）",
+   "t": "牢牢把握持之以恒推进全面从严治党的重要原则",
+   "u": "http://theory.people.com.cn/n1/2026/1104/c40531-40827357.html",
+   "d": "2026-11-04",
+   "s": "theory"
+  },
+  {
+   "t": "把加强党性修养作为终身课题",
+   "u": "http://theory.people.com.cn/n1/2026/1104/c40531-40827350.html",
+   "d": "2026-11-04",
+   "s": "theory"
+  },
+  {
+   "t": "深刻把握和落实新时代党的建设总要求（…",
    "u": "http://theory.people.com.cn/n1/2026/1103/c40531-40826683.html",
    "d": "2026-11-03",
    "s": "theory"
@@ -719,52 +767,46 @@
    "s": "theory"
   },
   {
-   "t": "“党的创新理论大家读”丛书（第一辑）新书发布会在京举行",
-   "u": "http://theory.people.com.cn/n1/2026/1102/c40531-40825790.html",
-   "d": "2026-11-02",
-   "s": "theory"
+   "t": "不断开创新时代管党治党、兴党强党新局面",
+   "u": "http://dangjian.people.com.cn/n1/2026/1105/c117092-40828168.html",
+   "d": "2026-11-05",
+   "s": "dangjian"
   },
   {
-   "t": "以民主集中制夯实全面从严治党根基",
-   "u": "http://theory.people.com.cn/n1/2026/1102/c40531-40825766.html",
-   "d": "2026-11-02",
-   "s": "theory"
+   "t": "当前和今后一个时期全党的重大政治任务",
+   "u": "http://dangjian.people.com.cn/n1/2026/1105/c117092-40828152.html",
+   "d": "2026-11-05",
+   "s": "dangjian"
   },
   {
-   "t": "为新大众文艺人才厚植成长沃土",
-   "u": "http://theory.people.com.cn/n1/2026/1101/c40531-40825260.html",
-   "d": "2026-11-01",
-   "s": "theory"
+   "t": "青海平安：一张清单提升基层治理效能",
+   "u": "http://dangjian.people.com.cn/n1/2026/1105/c117092-40828151.html",
+   "d": "2026-11-05",
+   "s": "dangjian"
   },
   {
-   "t": "科技兴商重在惠及中小微",
-   "u": "http://theory.people.com.cn/n1/2026/1101/c40531-40825252.html",
-   "d": "2026-11-01",
-   "s": "theory"
+   "t": "历史昭示未来，奋斗成就伟业",
+   "u": "http://dangjian.people.com.cn/n1/2026/1105/c117092-40828180.html",
+   "d": "2026-11-05",
+   "s": "dangjian"
   },
   {
-   "t": "人民论坛每日推荐（5篇）",
-   "u": "http://theory.people.com.cn/n1/2026/1101/c40531-40825351.html",
-   "d": "2026-11-01",
-   "s": "theory"
+   "t": "驰而不息正风肃纪",
+   "u": "http://dangjian.people.com.cn/n1/2026/1105/c117092-40828173.html",
+   "d": "2026-11-05",
+   "s": "dangjian"
   },
   {
-   "t": "用好有利条件推动工业经济质效向好",
-   "u": "http://theory.people.com.cn/n1/2026/1031/c40531-40825067.html",
-   "d": "2026-10-31",
-   "s": "theory"
+   "t": "维护党中央权威，贯彻民主集中制",
+   "u": "http://dangjian.people.com.cn/n1/2026/1105/c117092-40828167.html",
+   "d": "2026-11-05",
+   "s": "dangjian"
   },
   {
-   "t": "人民论坛每日推荐（5篇）",
-   "u": "http://theory.people.com.cn/n1/2026/1031/c40531-40825109.html",
-   "d": "2026-10-31",
-   "s": "theory"
-  },
-  {
-   "t": "以党章为根本持之以恒推进全面从严治党…",
-   "u": "http://theory.people.com.cn/n1/2026/1030/c40531-40824477.html",
-   "d": "2026-10-30",
-   "s": "theory"
+   "t": "把加强党性修养作为终身课题",
+   "u": "http://dangjian.people.com.cn/n1/2026/1105/c117092-40828161.html",
+   "d": "2026-11-05",
+   "s": "dangjian"
   },
   {
    "t": "新时代全面从严治党开辟百年大党自我革命新境界",
@@ -965,46 +1007,70 @@
    "s": "dangjian"
   },
   {
-   "t": "中共二十届五中全会在京举行",
-   "u": "http://cpc.people.com.cn/n1/2026/1030/c64094-40824306.html",
-   "d": "2026-10-30",
-   "s": "dangjian"
+   "t": "生态家底因何越守越厚（现场评论）",
+   "u": "http://opinion.people.com.cn/n1/2026/1105/c461529-40827878.html",
+   "d": "2026-11-05",
+   "s": "opinion"
   },
   {
-   "t": "人民日报社论：把我们党建设得更好、更强",
-   "u": "http://cpc.people.com.cn/n1/2026/1030/c64387-40824380.html",
-   "d": "2026-10-30",
-   "s": "dangjian"
+   "t": "近来，上海的两个场所，深受普通群众乃至外国友人的欢迎。 先看社区食堂。静安区的蝴蝶食坊内，食客络绎不绝，有老人小孩，也有来打卡的中外游客。",
+   "u": "http://opinion.people.com.cn/n1/2026/1105/c461529-40827879.html",
+   "d": "2026-11-05",
+   "s": "opinion"
   },
   {
-   "t": "以党章为根本持之以恒推进全面从严治党",
-   "u": "http://theory.people.com.cn/n1/2026/1030/c40531-40824477.html",
-   "d": "2026-10-30",
-   "s": "dangjian"
+   "t": "以创新激活数据要素价值（人民时评）",
+   "u": "http://opinion.people.com.cn/n1/2026/1105/c461529-40827880.html",
+   "d": "2026-11-05",
+   "s": "opinion"
   },
   {
-   "t": "大家谈丨抓到点子上 干在关键处",
-   "u": "http://dangjian.people.com.cn/n1/2026/1030/c117092-40824723.html",
-   "d": "2026-10-30",
-   "s": "dangjian"
+   "t": "警惕日化产品“食品化”包装（人民锐评）",
+   "u": "http://opinion.people.com.cn/n1/2026/1105/c461529-40827881.html",
+   "d": "2026-11-05",
+   "s": "opinion"
   },
   {
-   "t": "黑龙江齐齐哈尔紧盯关键环节 织密干部选任监督网",
-   "u": "http://dangjian.people.com.cn/n1/2026/1030/c117092-40824602.html",
-   "d": "2026-10-30",
-   "s": "dangjian"
+   "t": "文创“进化”，路在何方？（金台随笔）",
+   "u": "http://opinion.people.com.cn/n1/2026/1105/c461529-40827882.html",
+   "d": "2026-11-05",
+   "s": "opinion"
   },
   {
-   "t": "把我们党建设得更好、更强（社论）",
-   "u": "http://dangjian.people.com.cn/n1/2026/1030/c117092-40824722.html",
-   "d": "2026-10-30",
-   "s": "dangjian"
+   "t": "环球时报社评：当“双十一”开始“囤Token”，时代转变了",
+   "u": "http://opinion.people.com.cn/n1/2026/1105/c462004-40828231.html",
+   "d": "2026-11-05",
+   "s": "opinion"
   },
   {
-   "t": "以党章为根本持之以恒推进全面从严治党（深入学习贯彻习…",
-   "u": "http://dangjian.people.com.cn/n1/2026/1030/c117092-40824725.html",
-   "d": "2026-10-30",
-   "s": "dangjian"
+   "t": "人民日报评论员：历史昭示未来，奋斗成就伟业",
+   "u": "http://opinion.people.com.cn/n1/2026/1105/c461529-40827856.html",
+   "d": "2026-11-05",
+   "s": "opinion"
+  },
+  {
+   "t": "黄河流域生态保护和高质量发展的科学内涵与战略意义（人民要论）",
+   "u": "http://opinion.people.com.cn/n1/2026/1105/c461530-40827904.html",
+   "d": "2026-11-05",
+   "s": "opinion"
+  },
+  {
+   "t": "构建中国历史学自主知识体系（加快构建中国哲学社会科学自主知识体系）",
+   "u": "http://opinion.people.com.cn/n1/2026/1105/c461530-40827905.html",
+   "d": "2026-11-05",
+   "s": "opinion"
+  },
+  {
+   "t": "把握坚持党对经济工作全面领导的内在逻辑（论点撷萃）",
+   "u": "http://opinion.people.com.cn/n1/2026/1105/c461530-40827906.html",
+   "d": "2026-11-05",
+   "s": "opinion"
+  },
+  {
+   "t": "人民锐评：“纯过日子”的“双11”是消费降级？没那么简单",
+   "u": "http://opinion.people.com.cn/n1/2026/1105/c436867-40828304.html",
+   "d": "2026-11-05",
+   "s": "opinion"
   },
   {
    "t": "人民锐评：“乌镇时间”，为人工智能立心",
@@ -1178,72 +1244,6 @@
    "t": "倾听自然，看见你我（金台随笔）",
    "u": "http://opinion.people.com.cn/n1/2026/1102/c461529-40825542.html",
    "d": "2026-11-02",
-   "s": "opinion"
-  },
-  {
-   "t": "“月月有瓜”里的市场尺度（微观）",
-   "u": "http://opinion.people.com.cn/n1/2026/1102/c461529-40825543.html",
-   "d": "2026-11-02",
-   "s": "opinion"
-  },
-  {
-   "t": "未来出行，一场未被定义的长跑（人民锐评）",
-   "u": "http://opinion.people.com.cn/n1/2026/1102/c461529-40825544.html",
-   "d": "2026-11-02",
-   "s": "opinion"
-  },
-  {
-   "t": "环球时报社评：“四方机制并非反华联盟”，美方应说到做到",
-   "u": "http://opinion.people.com.cn/n1/2026/1102/c462004-40825874.html",
-   "d": "2026-11-02",
-   "s": "opinion"
-  },
-  {
-   "t": "大党之治，为世界政治文明带来新启迪（和音）",
-   "u": "http://opinion.people.com.cn/n1/2026/1102/c461529-40825481.html",
-   "d": "2026-11-02",
-   "s": "opinion"
-  },
-  {
-   "t": "深刻领悟习近平党建思想蕴含的科学思想方法（深入学习贯彻习近平新时代中国特色社会主义思想）",
-   "u": "http://opinion.people.com.cn/n1/2026/1102/c461530-40825501.html",
-   "d": "2026-11-02",
-   "s": "opinion"
-  },
-  {
-   "t": "把阶段性工作与长期性目标结合起来（思想纵横）",
-   "u": "http://opinion.people.com.cn/n1/2026/1102/c461530-40825502.html",
-   "d": "2026-11-02",
-   "s": "opinion"
-  },
-  {
-   "t": "守护好群众身边的平安（专题深思）",
-   "u": "http://opinion.people.com.cn/n1/2026/1102/c461530-40825503.html",
-   "d": "2026-11-02",
-   "s": "opinion"
-  },
-  {
-   "t": "坚持严的基调，激发全党积极性主动性创造性",
-   "u": "http://opinion.people.com.cn/n1/2026/1102/c461529-40825480.html",
-   "d": "2026-11-02",
-   "s": "opinion"
-  },
-  {
-   "t": "凝聚合作信心 改革完善全球治理（国际论坛）",
-   "u": "http://opinion.people.com.cn/n1/2026/1101/c461529-40825189.html",
-   "d": "2026-11-01",
-   "s": "opinion"
-  },
-  {
-   "t": "从两场外交活动，看中欧互利共赢之道（和音）",
-   "u": "http://opinion.people.com.cn/n1/2026/1101/c461529-40825188.html",
-   "d": "2026-11-01",
-   "s": "opinion"
-  },
-  {
-   "t": "坚持服务党的使命任务",
-   "u": "http://opinion.people.com.cn/n1/2026/1101/c461529-40825179.html",
-   "d": "2026-11-01",
    "s": "opinion"
   }
  ]
