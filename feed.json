@@ -1,15 +1,15 @@
 {
  "app": "dangjian-study-feed",
  "ver": 1,
- "updated": "2026-11-06T02:31:41.472Z",
- "checked": "2026-11-06T02:31:41.472Z",
+ "updated": "2026-11-06T12:10:55.716Z",
+ "checked": "2026-11-06T12:10:55.716Z",
  "sources": [
   {
    "id": "qstheory",
    "name": "求是网",
    "home": "https://www.qstheory.cn/",
    "ok": true,
-   "got": 79,
+   "got": 76,
    "count": 40
   },
   {
@@ -17,7 +17,7 @@
    "name": "共产党员网",
    "home": "https://www.12371.cn/",
    "ok": true,
-   "got": 14,
+   "got": 13,
    "count": 40
   },
   {
@@ -41,7 +41,7 @@
    "name": "人民网·观点",
    "home": "http://opinion.people.com.cn/",
    "ok": true,
-   "got": 46,
+   "got": 47,
    "count": 40
   }
  ],
@@ -121,6 +121,78 @@
   {
    "t": "两个答案何以贯通",
    "u": "https://www.qstheory.cn/20261106/f866e01b33194343aa245f3ca3ef0a20/c.html",
+   "d": "2026-11-06",
+   "s": "qstheory"
+  },
+  {
+   "t": "李强赵乐际王沪宁蔡奇丁薛祥李希韩正胡锦涛在各自选区参加投票或委托他人投票",
+   "u": "https://www.qstheory.cn/20261106/3df34a9fe824435283050723660d0b33/c.html",
+   "d": "2026-11-06",
+   "s": "qstheory"
+  },
+  {
+   "t": "习近平同加蓬总统恩圭马会谈",
+   "u": "https://www.qstheory.cn/20261106/946579df0531419bbc976f4230782fa7/c.html",
+   "d": "2026-11-06",
+   "s": "qstheory"
+  },
+  {
+   "t": "习近平会见奥地利总理施托克尔",
+   "u": "https://www.qstheory.cn/20261106/186cbd395c3f44b8bdb1d8be60ccf75d/c.html",
+   "d": "2026-11-06",
+   "s": "qstheory"
+  },
+  {
+   "t": "中华人民共和国主席令（第九十一号）",
+   "u": "https://www.qstheory.cn/20261106/66edd7141ffd4ee58c6d497b328250ce/c.html",
+   "d": "2026-11-06",
+   "s": "qstheory"
+  },
+  {
+   "t": "中华人民共和国主席令（第九十号）",
+   "u": "https://www.qstheory.cn/20261106/ce205f1e3d91479bae042e3ec4917f18/c.html",
+   "d": "2026-11-06",
+   "s": "qstheory"
+  },
+  {
+   "t": "中华人民共和国主席令（第八十九号）",
+   "u": "https://www.qstheory.cn/20261106/8a43937cb5e249e98bc225b31b95d5e5/c.html",
+   "d": "2026-11-06",
+   "s": "qstheory"
+  },
+  {
+   "t": "中华人民共和国主席令（第八十八号）",
+   "u": "https://www.qstheory.cn/20261106/3f98df6f427241d49c2c1e1470e9c1ea/c.html",
+   "d": "2026-11-06",
+   "s": "qstheory"
+  },
+  {
+   "t": "中华人民共和国主席令（第八十七号）",
+   "u": "https://www.qstheory.cn/20261106/c764eba2ee3c40c5953fd94764b60213/c.html",
+   "d": "2026-11-06",
+   "s": "qstheory"
+  },
+  {
+   "t": "中华人民共和国主席令（第八十六号）",
+   "u": "https://www.qstheory.cn/20261106/1d7f85f4af5643aba661cbbb1ae61b73/c.html",
+   "d": "2026-11-06",
+   "s": "qstheory"
+  },
+  {
+   "t": "习近平复信澳大利亚青年学生",
+   "u": "https://www.qstheory.cn/20261106/1d2a58672e544b3aa903318ada85435d/c.html",
+   "d": "2026-11-06",
+   "s": "qstheory"
+  },
+  {
+   "t": "学习贯彻党的二十届五中全会精神座谈会在北京大学举行",
+   "u": "https://www.qstheory.cn/20261106/78df402f0d354b208b4b31c8b0503def/c.html",
+   "d": "2026-11-06",
+   "s": "qstheory"
+  },
+  {
+   "t": "深刻把握持之以恒推进全面从严治党的战略考量",
+   "u": "https://www.qstheory.cn/20261106/38ce087d834f4980b868531cb4bcd203/c.html",
    "d": "2026-11-06",
    "s": "qstheory"
   },
@@ -212,78 +284,6 @@
    "t": "以治理大协同推动黄河大保护",
    "u": "https://www.qstheory.cn/20261104/97e3a430e6d14a41aeb8976e2635dfd5/c.html",
    "d": "2026-11-04",
-   "s": "qstheory"
-  },
-  {
-   "t": "正风肃纪没有“休止符”",
-   "u": "https://www.qstheory.cn/20261104/f44720b1066441059186e90d359f7fea/c.html",
-   "d": "2026-11-04",
-   "s": "qstheory"
-  },
-  {
-   "t": "学习贯彻党的二十届五中全会精神中央宣讲团首场报告会在京举行",
-   "u": "https://www.qstheory.cn/20261104/7982bc5bcf864cb5ada2d4306928ed68/c.html",
-   "d": "2026-11-04",
-   "s": "qstheory"
-  },
-  {
-   "t": "国家发展改革委新闻发布会聚焦培育壮大新动能",
-   "u": "https://www.qstheory.cn/20261104/e414f4d8f3e84e0ebe320994bc2a0170/c.html",
-   "d": "2026-11-04",
-   "s": "qstheory"
-  },
-  {
-   "t": "共谋绿色发展 2026全球熊猫伙伴大会在成都举行",
-   "u": "https://www.qstheory.cn/20261104/39ef7b5c5248489b88f4adaa1c5363ce/c.html",
-   "d": "2026-11-04",
-   "s": "qstheory"
-  },
-  {
-   "t": "日本宪法公布80周年 国会前响起和平呼声",
-   "u": "https://www.qstheory.cn/20261104/3824a9c821fa47f0b66c8cd9cf956c5f/c.html",
-   "d": "2026-11-04",
-   "s": "qstheory"
-  },
-  {
-   "t": "美国举行中期选举投票 特朗普政府迎来“期中考试”",
-   "u": "https://www.qstheory.cn/20261104/1c754f14d2c24e9bad9b24496bc609c8/c.html",
-   "d": "2026-11-04",
-   "s": "qstheory"
-  },
-  {
-   "t": "养老服务消费补贴惠及243万失能老年人",
-   "u": "https://www.qstheory.cn/20261104/44b2d976036649e798fd9dc8c1a7e3c0/c.html",
-   "d": "2026-11-04",
-   "s": "qstheory"
-  },
-  {
-   "t": "增强党性是全面从严治党的根本性任务",
-   "u": "https://www.qstheory.cn/20261104/67206b37960546229d0409ea6b01c767/c.html",
-   "d": "2026-11-04",
-   "s": "qstheory"
-  },
-  {
-   "t": "坚持以党的政治建设为统领",
-   "u": "https://www.qstheory.cn/20261104/fc1d04b3066e416b8f9ea08804f2f432/c.html",
-   "d": "2026-11-04",
-   "s": "qstheory"
-  },
-  {
-   "t": "携手构建全球人工智能开源生态",
-   "u": "https://www.qstheory.cn/20261104/3e2ff2b870694190a12cfd79e5bdbfbb/c.html",
-   "d": "2026-11-04",
-   "s": "qstheory"
-  },
-  {
-   "t": "以鲜明的问题导向推进全面从严治党",
-   "u": "https://www.qstheory.cn/20261104/6e6b73a563b64683bc4eb518565faf1e/c.html",
-   "d": "2026-11-04",
-   "s": "qstheory"
-  },
-  {
-   "t": "习近平总书记的黄河牵挂",
-   "u": "https://www.qstheory.cn/20261103/67fbb782a91e4575a76de46951fd10f2/c.html",
-   "d": "2026-11-03",
    "s": "qstheory"
   },
   {
@@ -1067,6 +1067,12 @@
    "s": "opinion"
   },
   {
+   "t": "壹时评：把节约写进制度，把绿色变成习惯",
+   "u": "http://opinion.people.com.cn/n1/2026/1106/c223228-40829231.html",
+   "d": "2026-11-06",
+   "s": "opinion"
+  },
+  {
    "t": "生态家底因何越守越厚（现场评论）",
    "u": "http://opinion.people.com.cn/n1/2026/1105/c461529-40827878.html",
    "d": "2026-11-05",
@@ -1237,12 +1243,6 @@
   {
    "t": "深耕月壤赴星河（中国道路中国梦·青春为中国式现代化挺膺担当63）",
    "u": "http://opinion.people.com.cn/n1/2026/1104/c461529-40827094.html",
-   "d": "2026-11-04",
-   "s": "opinion"
-  },
-  {
-   "t": "人民锐评：不能放任“假赛事直播”收割流量",
-   "u": "http://opinion.people.com.cn/n1/2026/1104/c436867-40827789.html",
    "d": "2026-11-04",
    "s": "opinion"
   }
