@@ -1,8 +1,8 @@
 {
  "app": "dangjian-study-feed",
  "ver": 1,
- "updated": "2026-11-06T12:10:55.716Z",
- "checked": "2026-11-06T12:10:55.716Z",
+ "updated": "2026-11-07T01:58:45.374Z",
+ "checked": "2026-11-07T01:58:45.374Z",
  "sources": [
   {
    "id": "qstheory",
@@ -25,7 +25,7 @@
    "name": "人民网·理论",
    "home": "http://theory.people.com.cn/",
    "ok": true,
-   "got": 37,
+   "got": 34,
    "count": 40
   },
   {
@@ -33,7 +33,7 @@
    "name": "人民网·党建",
    "home": "http://dangjian.people.com.cn/",
    "ok": true,
-   "got": 42,
+   "got": 43,
    "count": 40
   },
   {
@@ -41,11 +41,17 @@
    "name": "人民网·观点",
    "home": "http://opinion.people.com.cn/",
    "ok": true,
-   "got": 47,
+   "got": 46,
    "count": 40
   }
  ],
  "items": [
+  {
+   "t": "准确把握持之以恒推进全面从严治党的总体要求和战略部署",
+   "u": "https://www.qstheory.cn/20261107/ca28ad7fd9b847788b5652ff5a423861/c.html",
+   "d": "2026-11-07",
+   "s": "qstheory"
+  },
   {
    "t": "全面从严治党关键在从严治吏",
    "u": "https://www.qstheory.cn/20261106/766fb9110a204dbdbd8405ba5d4ae083/c.html",
@@ -197,6 +203,18 @@
    "s": "qstheory"
   },
   {
+   "t": "怎么看美国中期选举折射民意反弹",
+   "u": "https://www.qstheory.cn/20261106/2ffb3872305343babf2e7fae5029383d/c.html",
+   "d": "2026-11-06",
+   "s": "qstheory"
+  },
+  {
+   "t": "中国促进贸易平衡发展的事实有目共睹",
+   "u": "https://www.qstheory.cn/20261106/e79a7418db8745dc997d442c2d3e564e/c.html",
+   "d": "2026-11-06",
+   "s": "qstheory"
+  },
+  {
    "t": "严格贯彻执行民主集中制",
    "u": "https://www.qstheory.cn/20261105/4a5dcf0ad7a342c4bf57ed6ab05178ea/c.html",
    "d": "2026-11-05",
@@ -265,24 +283,6 @@
   {
    "t": "强化系统观念，增强整体效能",
    "u": "https://www.qstheory.cn/20261104/fd0c6fb7ac38442094dc06b70ba1ec5a/c.html",
-   "d": "2026-11-04",
-   "s": "qstheory"
-  },
-  {
-   "t": "把习近平党建思想作为持之以恒推进全面从严治党的根本遵循",
-   "u": "https://www.qstheory.cn/20261104/b29fc90be7cc4e96aa3a572344f09fb8/c.html",
-   "d": "2026-11-04",
-   "s": "qstheory"
-  },
-  {
-   "t": "把加强党性修养作为终身课题",
-   "u": "https://www.qstheory.cn/20261104/e299ee44bca34a09a704514fbfcfdb35/c.html",
-   "d": "2026-11-04",
-   "s": "qstheory"
-  },
-  {
-   "t": "以治理大协同推动黄河大保护",
-   "u": "https://www.qstheory.cn/20261104/97e3a430e6d14a41aeb8976e2635dfd5/c.html",
    "d": "2026-11-04",
    "s": "qstheory"
   },
@@ -563,6 +563,12 @@
    "s": "theory"
   },
   {
+   "t": "人民论坛每日推荐（5篇）",
+   "u": "http://theory.people.com.cn/n1/2026/1106/c40531-40828864.html",
+   "d": "2026-11-06",
+   "s": "theory"
+  },
+  {
    "t": "黄河流域生态保护和高质量发展的科学内涵与战略意义（人民要论）",
    "u": "http://theory.people.com.cn/n1/2026/1105/c40531-40828229.html",
    "d": "2026-11-05",
@@ -761,10 +767,10 @@
    "s": "theory"
   },
   {
-   "t": "深刻领悟习近平党建思想蕴含的科学思想…",
-   "u": "http://theory.people.com.cn/n1/2026/1102/c40531-40825793.html",
-   "d": "2026-11-02",
-   "s": "theory"
+   "t": "切实增强管党治党兴党强党的责任感使命感",
+   "u": "http://dangjian.people.com.cn/n1/2026/1107/c117092-40829629.html",
+   "d": "2026-11-07",
+   "s": "dangjian"
   },
   {
    "t": "以扎实举措持之以恒推进全面从严治党",
@@ -1001,10 +1007,10 @@
    "s": "dangjian"
   },
   {
-   "t": "不断开创新时代管党治党、兴党强党新局面",
-   "u": "http://dangjian.people.com.cn/n1/2026/1103/c117092-40826947.html",
-   "d": "2026-11-03",
-   "s": "dangjian"
+   "t": "壹时评：“一把尺子”把裁量权关进制度笼子",
+   "u": "http://opinion.people.com.cn/n1/2026/1107/c223228-40829586.html",
+   "d": "2026-11-07",
+   "s": "opinion"
   },
   {
    "t": "壹时评：汲取榜样力量 以实干实绩守护万家灯火",
@@ -1043,7 +1049,7 @@
    "s": "opinion"
   },
   {
-   "t": "海洋孕育了生命、联通了世界、促进了发展。这片蔚蓝承载着全人类福祉，关乎每个人的未来。然而，占海洋面积2/3的公海，长期处于治理制度洼地，有效保护区域不足1%。",
+   "t": "寰宇平：共护蔚蓝底色 共促永续繁荣",
    "u": "http://opinion.people.com.cn/n1/2026/1106/c461529-40828562.html",
    "d": "2026-11-06",
    "s": "opinion"
@@ -1109,7 +1115,7 @@
    "s": "opinion"
   },
   {
-   "t": "人民日报评论员：历史昭示未来，奋斗成就伟业",
+   "t": "历史昭示未来，奋斗成就伟业",
    "u": "http://opinion.people.com.cn/n1/2026/1105/c461529-40827856.html",
    "d": "2026-11-05",
    "s": "opinion"
@@ -1237,12 +1243,6 @@
   {
    "t": "环球时报社评：西式民主“神话”，在西方也快讲不下去了",
    "u": "http://opinion.people.com.cn/n1/2026/1104/c462004-40827504.html",
-   "d": "2026-11-04",
-   "s": "opinion"
-  },
-  {
-   "t": "深耕月壤赴星河（中国道路中国梦·青春为中国式现代化挺膺担当63）",
-   "u": "http://opinion.people.com.cn/n1/2026/1104/c461529-40827094.html",
    "d": "2026-11-04",
    "s": "opinion"
   }
