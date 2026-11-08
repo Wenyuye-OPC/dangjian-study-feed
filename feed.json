@@ -1,15 +1,15 @@
 {
  "app": "dangjian-study-feed",
  "ver": 1,
- "updated": "2026-11-08T01:28:24.669Z",
- "checked": "2026-11-08T01:28:24.669Z",
+ "updated": "2026-11-08T11:19:57.886Z",
+ "checked": "2026-11-08T11:19:57.886Z",
  "sources": [
   {
    "id": "qstheory",
    "name": "求是网",
    "home": "https://www.qstheory.cn/",
    "ok": true,
-   "got": 77,
+   "got": 79,
    "count": 40
   },
   {
@@ -25,7 +25,7 @@
    "name": "人民网·理论",
    "home": "http://theory.people.com.cn/",
    "ok": true,
-   "got": 35,
+   "got": 36,
    "count": 40
   },
   {
@@ -47,8 +47,80 @@
  ],
  "items": [
   {
-   "t": "以责任到位推动全会精神贯彻落实到位",
+   "t": "求是网评论员：以责任到位推动全会精神贯彻落实到位",
    "u": "https://www.qstheory.cn/20261108/533e21977f4347719708e17a876a9cd4/c.html",
+   "d": "2026-11-08",
+   "s": "qstheory"
+  },
+  {
+   "t": "中央组织部负责人就党的二十一大代表选举工作答新华社记者问",
+   "u": "https://www.qstheory.cn/20261108/549ffd033890407f95978a2c56944d92/c.html",
+   "d": "2026-11-08",
+   "s": "qstheory"
+  },
+  {
+   "t": "学习贯彻党的二十届五中全会精神丨驰而不息正风肃纪",
+   "u": "https://www.qstheory.cn/20261108/68920f0e09ab44bb85328fc634169f09/c.html",
+   "d": "2026-11-08",
+   "s": "qstheory"
+  },
+  {
+   "t": "凝心聚力书写时代新气象——写在第27个记者节到来之际",
+   "u": "https://www.qstheory.cn/20261108/2d3fccc7ed5c47729dc225f13394b4fc/c.html",
+   "d": "2026-11-08",
+   "s": "qstheory"
+  },
+  {
+   "t": "扭住管党治党责任制“牛鼻子”",
+   "u": "https://www.qstheory.cn/20261108/67dde8173e5e4115ba2d4a37dd490b35/c.html",
+   "d": "2026-11-08",
+   "s": "qstheory"
+  },
+  {
+   "t": "学习贯彻党的二十届五中全会精神中央宣讲团在山东宣讲",
+   "u": "https://www.qstheory.cn/20261108/a30080ad23444df98416563933915813/c.html",
+   "d": "2026-11-08",
+   "s": "qstheory"
+  },
+  {
+   "t": "学习贯彻党的二十届五中全会精神中央宣讲团在青海宣讲",
+   "u": "https://www.qstheory.cn/20261108/4872054735ed41838fe767404a8d12b7/c.html",
+   "d": "2026-11-08",
+   "s": "qstheory"
+  },
+  {
+   "t": "第36届中国新闻奖、第19届长江韬奋奖评选结果揭晓",
+   "u": "https://www.qstheory.cn/20261108/96903d879ae541388e6384155f2e9fad/c.html",
+   "d": "2026-11-08",
+   "s": "qstheory"
+  },
+  {
+   "t": "国际主流媒体合作高端对话会在北京举行",
+   "u": "https://www.qstheory.cn/20261108/44e5c7826f724bbc92a50fc54083189f/c.html",
+   "d": "2026-11-08",
+   "s": "qstheory"
+  },
+  {
+   "t": "《“人工智能+媒体”全球发展年度蓝皮书（2026）》智库报告发布",
+   "u": "https://www.qstheory.cn/20261108/75cb514ebdaa44ed9100fc15105d717a/c.html",
+   "d": "2026-11-08",
+   "s": "qstheory"
+  },
+  {
+   "t": "前三季度 超800万人次接受补贴性培训",
+   "u": "https://www.qstheory.cn/20261108/e26229fe04144f4585f62c2b29447a90/c.html",
+   "d": "2026-11-08",
+   "s": "qstheory"
+  },
+  {
+   "t": "前三季度 累计完工改造城镇老旧小区1.6万个",
+   "u": "https://www.qstheory.cn/20261108/02fc79f8b7fa4fefb0ad0f299b5c767b/c.html",
+   "d": "2026-11-08",
+   "s": "qstheory"
+  },
+  {
+   "t": "文旅体商加速融合释放消费潜力——中国经济三季报亮点解析",
+   "u": "https://www.qstheory.cn/20261108/cf08812247874c99b68b24c424ee7ced/c.html",
    "d": "2026-11-08",
    "s": "qstheory"
   },
@@ -59,7 +131,7 @@
    "s": "qstheory"
   },
   {
-   "t": "党中央确定，二十一大代表名额共2360名，由全国38个选举单位选举产生",
+   "t": "二十一大代表名额共2360名，由全国38个选举单位选举产生",
    "u": "https://www.qstheory.cn/20261107/61d4420d62ab49238b025a84a4598434/c.html",
    "d": "2026-11-07",
    "s": "qstheory"
@@ -215,76 +287,10 @@
    "s": "qstheory"
   },
   {
-   "t": "习近平同加蓬总统恩圭马会谈",
-   "u": "https://www.qstheory.cn/20261106/946579df0531419bbc976f4230782fa7/c.html",
-   "d": "2026-11-06",
-   "s": "qstheory"
-  },
-  {
-   "t": "习近平会见奥地利总理施托克尔",
-   "u": "https://www.qstheory.cn/20261106/186cbd395c3f44b8bdb1d8be60ccf75d/c.html",
-   "d": "2026-11-06",
-   "s": "qstheory"
-  },
-  {
-   "t": "中华人民共和国主席令（第九十一号）",
-   "u": "https://www.qstheory.cn/20261106/66edd7141ffd4ee58c6d497b328250ce/c.html",
-   "d": "2026-11-06",
-   "s": "qstheory"
-  },
-  {
-   "t": "中华人民共和国主席令（第九十号）",
-   "u": "https://www.qstheory.cn/20261106/ce205f1e3d91479bae042e3ec4917f18/c.html",
-   "d": "2026-11-06",
-   "s": "qstheory"
-  },
-  {
-   "t": "中华人民共和国主席令（第八十九号）",
-   "u": "https://www.qstheory.cn/20261106/8a43937cb5e249e98bc225b31b95d5e5/c.html",
-   "d": "2026-11-06",
-   "s": "qstheory"
-  },
-  {
-   "t": "中华人民共和国主席令（第八十八号）",
-   "u": "https://www.qstheory.cn/20261106/3f98df6f427241d49c2c1e1470e9c1ea/c.html",
-   "d": "2026-11-06",
-   "s": "qstheory"
-  },
-  {
-   "t": "中华人民共和国主席令（第八十七号）",
-   "u": "https://www.qstheory.cn/20261106/c764eba2ee3c40c5953fd94764b60213/c.html",
-   "d": "2026-11-06",
-   "s": "qstheory"
-  },
-  {
-   "t": "中华人民共和国主席令（第八十六号）",
-   "u": "https://www.qstheory.cn/20261106/1d7f85f4af5643aba661cbbb1ae61b73/c.html",
-   "d": "2026-11-06",
-   "s": "qstheory"
-  },
-  {
-   "t": "习近平复信澳大利亚青年学生",
-   "u": "https://www.qstheory.cn/20261106/1d2a58672e544b3aa903318ada85435d/c.html",
-   "d": "2026-11-06",
-   "s": "qstheory"
-  },
-  {
-   "t": "学习贯彻党的二十届五中全会精神座谈会在北京大学举行",
-   "u": "https://www.qstheory.cn/20261106/78df402f0d354b208b4b31c8b0503def/c.html",
-   "d": "2026-11-06",
-   "s": "qstheory"
-  },
-  {
-   "t": "深刻把握持之以恒推进全面从严治党的战略考量",
-   "u": "https://www.qstheory.cn/20261106/38ce087d834f4980b868531cb4bcd203/c.html",
-   "d": "2026-11-06",
-   "s": "qstheory"
-  },
-  {
-   "t": "怎么看美国中期选举折射民意反弹",
-   "u": "https://www.qstheory.cn/20261106/2ffb3872305343babf2e7fae5029383d/c.html",
-   "d": "2026-11-06",
-   "s": "qstheory"
+   "t": "中央组织部负责人就党的二十一大代表选举工作答记者问",
+   "u": "https://www.12371.cn/2026/11/08/ARTI1794103358449651.shtml",
+   "d": "2026-11-08",
+   "s": "12371"
   },
   {
    "t": "中共中央发出通知 部署党的二十一大代表选举工作",
@@ -521,14 +527,14 @@
    "s": "12371"
   },
   {
-   "t": "山东五莲县抓好村两委“开门一件事”",
-   "u": "https://www.12371.cn/2026/10/13/ARTI1791853574901420.shtml",
-   "d": "2026-10-13",
-   "s": "12371"
-  },
-  {
    "t": "推动人工智能与消费深度融合",
    "u": "http://theory.people.com.cn/n1/2026/1108/c40531-40829884.html",
+   "d": "2026-11-08",
+   "s": "theory"
+  },
+  {
+   "t": "扭住管党治党责任制“牛鼻子”",
+   "u": "http://theory.people.com.cn/n1/2026/1108/c40531-40829881.html",
    "d": "2026-11-08",
    "s": "theory"
   },
@@ -757,12 +763,6 @@
   {
    "t": "创新机制，推进教育科技人才一体发展",
    "u": "http://theory.people.com.cn/n1/2026/1103/c40531-40826615.html",
-   "d": "2026-11-03",
-   "s": "theory"
-  },
-  {
-   "t": "智能时代高等教育核心素养的培育路径",
-   "u": "http://theory.people.com.cn/n1/2026/1103/c40531-40826606.html",
    "d": "2026-11-03",
    "s": "theory"
   },
