@@ -1,15 +1,15 @@
 {
  "app": "dangjian-study-feed",
  "ver": 1,
- "updated": "2026-11-14T11:33:24.151Z",
- "checked": "2026-11-14T11:33:24.151Z",
+ "updated": "2026-11-15T01:57:33.189Z",
+ "checked": "2026-11-15T01:57:33.189Z",
  "sources": [
   {
    "id": "qstheory",
    "name": "求是网",
    "home": "https://www.qstheory.cn/",
    "ok": true,
-   "got": 77,
+   "got": 78,
    "count": 40
   },
   {
@@ -25,7 +25,7 @@
    "name": "人民网·理论",
    "home": "http://theory.people.com.cn/",
    "ok": true,
-   "got": 37,
+   "got": 38,
    "count": 40
   },
   {
@@ -46,6 +46,30 @@
   }
  ],
  "items": [
+  {
+   "t": "习近平总书记重要讲话激励两岸同胞共创民族复兴美好未来",
+   "u": "https://www.qstheory.cn/20261115/3852b09f136d4f73abc9cd25672df3ad/c.html",
+   "d": "2026-11-15",
+   "s": "qstheory"
+  },
+  {
+   "t": "学习手记｜开放是亚太合作的生命线",
+   "u": "https://www.qstheory.cn/20261115/6deb73d2a8f0418c851f57da2df89951/c.html",
+   "d": "2026-11-15",
+   "s": "qstheory"
+  },
+  {
+   "t": "以高质量党建引领企业高质量发展",
+   "u": "https://www.qstheory.cn/20261115/325b9de3db6a4920a6dc5263fcf3f4f2/c.html",
+   "d": "2026-11-15",
+   "s": "qstheory"
+  },
+  {
+   "t": "如何锤炼坚强党性",
+   "u": "https://www.qstheory.cn/20261115/08d7f51e50724de086c84cc09f71eb4d/c.html",
+   "d": "2026-11-15",
+   "s": "qstheory"
+  },
   {
    "t": "习近平总书记在纪念孙中山先生诞辰160周年大会上的重要讲话引发强烈共鸣、凝聚奋进力量",
    "u": "https://www.qstheory.cn/20261114/b30ad45d79524ee0bbff1a318ebb8b47/c.html",
@@ -121,6 +145,18 @@
   {
    "t": "让人工智能技术潜力更好转化为生产率增长",
    "u": "https://www.qstheory.cn/20261114/3bbcd31f56d246ae8ccaffbed8ad1351/c.html",
+   "d": "2026-11-14",
+   "s": "qstheory"
+  },
+  {
+   "t": "“四大挑战”聚焦全面从严治党的新情况新问题，既内在联系又相互贯通，为持之以恒推进全面从严治党提供了精准的问题导向和发力方向",
+   "u": "https://www.qstheory.cn/20261114/d25e06be30a84df5a54d1332f29df4d8/c.html",
+   "d": "2026-11-14",
+   "s": "qstheory"
+  },
+  {
+   "t": "怎么看下阶段我国经济走势",
+   "u": "https://www.qstheory.cn/20261114/20c7350cb61d4997bfa714aebea03217/c.html",
    "d": "2026-11-14",
    "s": "qstheory"
   },
@@ -248,42 +284,6 @@
    "t": "一体推进不敢腐不能腐不想腐为什么难在“一体”",
    "u": "https://www.qstheory.cn/20261113/3b8f8b6c7aa949899c16b379d8513fb7/c.html",
    "d": "2026-11-13",
-   "s": "qstheory"
-  },
-  {
-   "t": "人工智能技术潜力不会自动转化为生产率增长",
-   "u": "https://www.qstheory.cn/20261113/d7d1aa25a5a44e9f83efa35ea6b2526e/c.html",
-   "d": "2026-11-13",
-   "s": "qstheory"
-  },
-  {
-   "t": "纪念孙中山先生诞辰160周年大会在京举行 习近平出席大会并发表重要讲话",
-   "u": "https://www.qstheory.cn/20261112/0ed65839102744a4a94f558aa82aac2c/c.html",
-   "d": "2026-11-12",
-   "s": "qstheory"
-  },
-  {
-   "t": "向着全面建成世界一流空军奋飞",
-   "u": "https://www.qstheory.cn/20261112/66dec900c44d4405966082b8893cfbae/c.html",
-   "d": "2026-11-12",
-   "s": "qstheory"
-  },
-  {
-   "t": "坚持用党的创新理论凝心铸魂",
-   "u": "https://www.qstheory.cn/20261112/f9401d259f5141adafd5b7ba2a10d4e4/c.html",
-   "d": "2026-11-12",
-   "s": "qstheory"
-  },
-  {
-   "t": "更加科学有效地把权力关进制度笼子",
-   "u": "https://www.qstheory.cn/20261112/84b50fb3222249b9919643630f7a90b7/c.html",
-   "d": "2026-11-12",
-   "s": "qstheory"
-  },
-  {
-   "t": "坚持制度治党、依规治党",
-   "u": "https://www.qstheory.cn/20261112/08976f61659e4bf4986e4cd983e31f50/c.html",
-   "d": "2026-11-12",
    "s": "qstheory"
   },
   {
@@ -527,6 +527,30 @@
    "s": "12371"
   },
   {
+   "t": "看清家底找准绿色发展方向",
+   "u": "http://theory.people.com.cn/n1/2026/1115/c40531-40833990.html",
+   "d": "2026-11-15",
+   "s": "theory"
+  },
+  {
+   "t": "共建亚太共同体：中国的担当与贡献",
+   "u": "http://theory.people.com.cn/n1/2026/1115/c40531-40833992.html",
+   "d": "2026-11-15",
+   "s": "theory"
+  },
+  {
+   "t": "从伟大长征精神中汲取强大力量",
+   "u": "http://theory.people.com.cn/n1/2026/1114/c40531-40833776.html",
+   "d": "2026-11-14",
+   "s": "theory"
+  },
+  {
+   "t": "人民论坛每日推荐（5篇）",
+   "u": "http://theory.people.com.cn/n1/2026/1114/c40531-40833713.html",
+   "d": "2026-11-14",
+   "s": "theory"
+  },
+  {
    "t": "奋力建设更具国际竞争力的现代化产业体系（调查与思考）",
    "u": "http://theory.people.com.cn/n1/2026/1113/c40531-40833193.html",
    "d": "2026-11-13",
@@ -671,7 +695,7 @@
    "s": "theory"
   },
   {
-   "t": "推进人工智能能力建设国际合作（治理之道）",
+   "t": "| 推进人工智能能力建设国际合作",
    "u": "http://theory.people.com.cn/n1/2026/1111/c40531-40831835.html",
    "d": "2026-11-11",
    "s": "theory"
@@ -739,30 +763,6 @@
   {
    "t": "党的优秀特质对中华优秀传统文化的传承转化（专题深思）",
    "u": "http://theory.people.com.cn/n1/2026/1110/c40531-40831113.html",
-   "d": "2026-11-10",
-   "s": "theory"
-  },
-  {
-   "t": "| 政治忠诚是扛起管党治党责任的思想根基",
-   "u": "http://theory.people.com.cn/n1/2026/1110/c40531-40831112.html",
-   "d": "2026-11-10",
-   "s": "theory"
-  },
-  {
-   "t": "习近平党建思想的中华优秀传统文化底蕴",
-   "u": "http://theory.people.com.cn/n1/2026/1110/c40531-40831017.html",
-   "d": "2026-11-10",
-   "s": "theory"
-  },
-  {
-   "t": "持续增强党的执政能力 聚力推进中国式现代化",
-   "u": "http://theory.people.com.cn/n1/2026/1110/c40531-40831016.html",
-   "d": "2026-11-10",
-   "s": "theory"
-  },
-  {
-   "t": "把长远之策根本之策落到实处",
-   "u": "http://theory.people.com.cn/n1/2026/1110/c40531-40831014.html",
    "d": "2026-11-10",
    "s": "theory"
   },
