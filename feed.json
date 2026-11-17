@@ -1,15 +1,15 @@
 {
  "app": "dangjian-study-feed",
  "ver": 1,
- "updated": "2026-11-17T04:33:37.028Z",
- "checked": "2026-11-17T04:33:37.028Z",
+ "updated": "2026-11-17T19:12:31.493Z",
+ "checked": "2026-11-17T19:12:31.493Z",
  "sources": [
   {
    "id": "qstheory",
    "name": "求是网",
    "home": "https://www.qstheory.cn/",
    "ok": true,
-   "got": 76,
+   "got": 73,
    "count": 40
   },
   {
@@ -25,7 +25,7 @@
    "name": "人民网·理论",
    "home": "http://theory.people.com.cn/",
    "ok": true,
-   "got": 38,
+   "got": 37,
    "count": 40
   },
   {
@@ -33,7 +33,7 @@
    "name": "人民网·党建",
    "home": "http://dangjian.people.com.cn/",
    "ok": true,
-   "got": 43,
+   "got": 42,
    "count": 40
   },
   {
@@ -109,6 +109,72 @@
   {
    "t": "三次主办APEC，中国为何总在关键时刻引领合作？",
    "u": "https://www.qstheory.cn/20261117/40b1c00fc6884519b42056445acb789c/c.html",
+   "d": "2026-11-17",
+   "s": "qstheory"
+  },
+  {
+   "t": "习近平会见智利总统卡斯特",
+   "u": "https://www.qstheory.cn/20261117/f5154e87ea9a4f6f9a59b69b7134f6bd/c.html",
+   "d": "2026-11-17",
+   "s": "qstheory"
+  },
+  {
+   "t": "习近平会见秘鲁总统藤森庆子",
+   "u": "https://www.qstheory.cn/20261117/60115a5bb4f64df4b6bbe8daa6ad6c15/c.html",
+   "d": "2026-11-17",
+   "s": "qstheory"
+  },
+  {
+   "t": "习近平会见墨西哥总统辛鲍姆",
+   "u": "https://www.qstheory.cn/20261117/ada7e8af12f8426ca98d53185a2fb3b4/c.html",
+   "d": "2026-11-17",
+   "s": "qstheory"
+  },
+  {
+   "t": "习近平会见越共中央总书记、国家主席苏林",
+   "u": "https://www.qstheory.cn/20261117/e02a01049b9f4937a2aae960ee390ae9/c.html",
+   "d": "2026-11-17",
+   "s": "qstheory"
+  },
+  {
+   "t": "习近平会见巴布亚新几内亚总理马拉佩",
+   "u": "https://www.qstheory.cn/20261117/762168ae001d407ca81511b721b0d42c/c.html",
+   "d": "2026-11-17",
+   "s": "qstheory"
+  },
+  {
+   "t": "习近平会见加拿大总理卡尼",
+   "u": "https://www.qstheory.cn/20261117/e27761be1a5c40529a2d11ec64317ecd/c.html",
+   "d": "2026-11-17",
+   "s": "qstheory"
+  },
+  {
+   "t": "《习近平法治思想干部读本》出版发行",
+   "u": "https://www.qstheory.cn/20261117/aa47526320e24d319c7cfc6d80f992d4/c.html",
+   "d": "2026-11-17",
+   "s": "qstheory"
+  },
+  {
+   "t": "新华社快讯：习近平会见越共中央总书记、国家主席苏林",
+   "u": "https://www.qstheory.cn/20261117/87cb1b7b4ef54c81a7a3d3584b3d11fd/c.html",
+   "d": "2026-11-17",
+   "s": "qstheory"
+  },
+  {
+   "t": "习近平对人民法院工作作出重要指示",
+   "u": "https://www.qstheory.cn/20261117/448c980fea0340d9950bbef2d608b136/c.html",
+   "d": "2026-11-17",
+   "s": "qstheory"
+  },
+  {
+   "t": "权威导读！2026年第22期《求是》重点文章来了",
+   "u": "https://www.qstheory.cn/20261117/19e7f82882b4412b96f32dda55a4d5b4/c.html",
+   "d": "2026-11-17",
+   "s": "qstheory"
+  },
+  {
+   "t": "APEC和你有关吗？从这些水果说起",
+   "u": "https://www.qstheory.cn/20261117/2043ca61fabb4d48bd83fbb4ed1d2f62/c.html",
    "d": "2026-11-17",
    "s": "qstheory"
   },
@@ -218,72 +284,6 @@
    "t": "学习手记｜开放是亚太合作的生命线",
    "u": "https://www.qstheory.cn/20261115/6deb73d2a8f0418c851f57da2df89951/c.html",
    "d": "2026-11-15",
-   "s": "qstheory"
-  },
-  {
-   "t": "以高质量党建引领企业高质量发展",
-   "u": "https://www.qstheory.cn/20261115/325b9de3db6a4920a6dc5263fcf3f4f2/c.html",
-   "d": "2026-11-15",
-   "s": "qstheory"
-  },
-  {
-   "t": "如何锤炼坚强党性",
-   "u": "https://www.qstheory.cn/20261115/08d7f51e50724de086c84cc09f71eb4d/c.html",
-   "d": "2026-11-15",
-   "s": "qstheory"
-  },
-  {
-   "t": "2026年第22期《求是》杂志发表习近平总书记重要文章",
-   "u": "https://www.qstheory.cn/20261115/0ba6e3b6a09d4de682db3a4b947ff530/c.html",
-   "d": "2026-11-15",
-   "s": "qstheory"
-  },
-  {
-   "t": "中美举行中美经贸磋商机制项下贸易理事会首次会议",
-   "u": "https://www.qstheory.cn/20261115/664d2c3496164076abf82b96edbef25c/c.html",
-   "d": "2026-11-15",
-   "s": "qstheory"
-  },
-  {
-   "t": "“药篮子”上新！2026年医保商保“双目录”发布",
-   "u": "https://www.qstheory.cn/20261115/f3116910c49741c9a2cd6ac1d57d23a9/c.html",
-   "d": "2026-11-15",
-   "s": "qstheory"
-  },
-  {
-   "t": "为中奥友好战略伙伴关系注入民生新内涵",
-   "u": "https://www.qstheory.cn/20261115/92b451835f22458d99299cf2ac1da851/c.html",
-   "d": "2026-11-15",
-   "s": "qstheory"
-  },
-  {
-   "t": "近六年我国颠覆性技术产业化指数累计增幅超五成",
-   "u": "https://www.qstheory.cn/20261115/605233ecb606439398800e64bad4e23c/c.html",
-   "d": "2026-11-15",
-   "s": "qstheory"
-  },
-  {
-   "t": "习近平总书记在纪念孙中山先生诞辰160周年大会上的重要讲话引发强烈共鸣、凝聚奋进力量",
-   "u": "https://www.qstheory.cn/20261114/b30ad45d79524ee0bbff1a318ebb8b47/c.html",
-   "d": "2026-11-14",
-   "s": "qstheory"
-  },
-  {
-   "t": "习近平主席引领亚太大家庭扬帆前行",
-   "u": "https://www.qstheory.cn/20261114/cab6df432e7e40619dc392a703e19557/c.html",
-   "d": "2026-11-14",
-   "s": "qstheory"
-  },
-  {
-   "t": "资金流向哪里，结构有何变化——透视10月金融数据",
-   "u": "https://www.qstheory.cn/20261114/927171e0adba4fc3be1143274387d0fa/c.html",
-   "d": "2026-11-14",
-   "s": "qstheory"
-  },
-  {
-   "t": "日本政府拟将未来五年防卫费总额提高至60万亿日元",
-   "u": "https://www.qstheory.cn/20261114/15bbefbaae174ebe8703bc76e50e431f/c.html",
-   "d": "2026-11-14",
    "s": "qstheory"
   },
   {
@@ -563,13 +563,49 @@
    "s": "theory"
   },
   {
+   "t": "中央党校（国家行政学院）召开学习贯彻党的二十届五中全会精神理论研讨会",
+   "u": "http://theory.people.com.cn/n1/2026/1117/c40531-40835697.html",
+   "d": "2026-11-17",
+   "s": "theory"
+  },
+  {
+   "t": "第七届全国史学高层论坛暨第十九届历史学前沿论坛召开",
+   "u": "http://theory.people.com.cn/n1/2026/1117/c40534-40835694.html",
+   "d": "2026-11-17",
+   "s": "theory"
+  },
+  {
+   "t": "坚持民生为大 提高社区治理水平",
+   "u": "http://theory.people.com.cn/n1/2026/1117/c40531-40835270.html",
+   "d": "2026-11-17",
+   "s": "theory"
+  },
+  {
+   "t": "2026年全国思想政治教育学术研讨会在江西赣州举办",
+   "u": "http://theory.people.com.cn/n1/2026/1117/c40531-40835411.html",
+   "d": "2026-11-17",
+   "s": "theory"
+  },
+  {
+   "t": "推动兴业、强县、富民一体发展",
+   "u": "http://theory.people.com.cn/n1/2026/1117/c40531-40835271.html",
+   "d": "2026-11-17",
+   "s": "theory"
+  },
+  {
+   "t": "人民论坛每日推荐（5篇）",
+   "u": "http://theory.people.com.cn/n1/2026/1117/c40531-40835335.html",
+   "d": "2026-11-17",
+   "s": "theory"
+  },
+  {
    "t": "深刻把握持之以恒推进全面从严治党的原则（深入学习贯彻习近平新时代中国特色社会主义思想）",
    "u": "http://theory.people.com.cn/n1/2026/1116/c40531-40834469.html",
    "d": "2026-11-16",
    "s": "theory"
   },
   {
-   "t": "以敏捷治理为智能体发展保驾护航（有的放矢）",
+   "t": "| 以敏捷治理为智能体发展保驾护航",
    "u": "http://theory.people.com.cn/n1/2026/1116/c40531-40834467.html",
    "d": "2026-11-16",
    "s": "theory"
@@ -731,42 +767,6 @@
    "s": "theory"
   },
   {
-   "t": "人工智能“技术自主性”的三重审思",
-   "u": "http://theory.people.com.cn/n1/2026/1113/c40531-40833103.html",
-   "d": "2026-11-13",
-   "s": "theory"
-  },
-  {
-   "t": "更加科学有效地把权力关进制度笼子（深…",
-   "u": "http://theory.people.com.cn/n1/2026/1112/c40531-40832608.html",
-   "d": "2026-11-12",
-   "s": "theory"
-  },
-  {
-   "t": "深刻把握高品质生活的科学内涵和实践路径",
-   "u": "http://theory.people.com.cn/n1/2026/1112/c40531-40832607.html",
-   "d": "2026-11-12",
-   "s": "theory"
-  },
-  {
-   "t": "人类命运共同体理念推动国际关系理论本体论和认识论创新（论点撷萃）",
-   "u": "http://theory.people.com.cn/n1/2026/1112/c40531-40832606.html",
-   "d": "2026-11-12",
-   "s": "theory"
-  },
-  {
-   "t": "持之以恒全面从严治党的科学方法",
-   "u": "http://theory.people.com.cn/n1/2026/1112/c40531-40832525.html",
-   "d": "2026-11-12",
-   "s": "theory"
-  },
-  {
-   "t": "坚持制度治党、依规治党",
-   "u": "http://theory.people.com.cn/n1/2026/1112/c40531-40832490.html",
-   "d": "2026-11-12",
-   "s": "theory"
-  },
-  {
    "t": "持续增强党的政治领导力（深入学习贯彻习近平新时代中国…",
    "u": "http://dangjian.people.com.cn/n1/2026/1117/c117092-40835250.html",
    "d": "2026-11-17",
@@ -787,6 +787,24 @@
   {
    "t": "坚持民生为大 提高社区治理水平",
    "u": "http://dangjian.people.com.cn/n1/2026/1117/c117092-40835216.html",
+   "d": "2026-11-17",
+   "s": "dangjian"
+  },
+  {
+   "t": "辽宁锦州纪检监察机关推动追查被挪用的小区公共收益",
+   "u": "http://dangjian.people.com.cn/n1/2026/1117/c117092-40835253.html",
+   "d": "2026-11-17",
+   "s": "dangjian"
+  },
+  {
+   "t": "党旗飘扬丨浙江金华把党建工作嵌入重大项目",
+   "u": "http://dangjian.people.com.cn/n1/2026/1117/c117092-40835256.html",
+   "d": "2026-11-17",
+   "s": "dangjian"
+  },
+  {
+   "t": "把加强党性修养作为终身课题",
+   "u": "http://dangjian.people.com.cn/n1/2026/1117/c117092-40835581.html",
    "d": "2026-11-17",
    "s": "dangjian"
   },
@@ -985,24 +1003,6 @@
   {
    "t": "坚持以党的政治建设为统领",
    "u": "http://dangjian.people.com.cn/n1/2026/1111/c117092-40831816.html",
-   "d": "2026-11-11",
-   "s": "dangjian"
-  },
-  {
-   "t": "持之以恒加强党性修养",
-   "u": "http://dangjian.people.com.cn/n1/2026/1111/c117092-40831807.html",
-   "d": "2026-11-11",
-   "s": "dangjian"
-  },
-  {
-   "t": "用严明的纪律管党治党",
-   "u": "http://dangjian.people.com.cn/n1/2026/1111/c117092-40831785.html",
-   "d": "2026-11-11",
-   "s": "dangjian"
-  },
-  {
-   "t": "善于依靠群众力量做好工作化解矛盾",
-   "u": "http://dangjian.people.com.cn/n1/2026/1111/c117092-40831784.html",
    "d": "2026-11-11",
    "s": "dangjian"
   },
