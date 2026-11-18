@@ -1,15 +1,15 @@
 {
  "app": "dangjian-study-feed",
  "ver": 1,
- "updated": "2026-11-18T03:43:37.403Z",
- "checked": "2026-11-18T03:43:37.403Z",
+ "updated": "2026-11-18T13:08:19.889Z",
+ "checked": "2026-11-18T13:08:19.889Z",
  "sources": [
   {
    "id": "qstheory",
    "name": "求是网",
    "home": "https://www.qstheory.cn/",
    "ok": true,
-   "got": 76,
+   "got": 73,
    "count": 40
   },
   {
@@ -33,7 +33,7 @@
    "name": "人民网·党建",
    "home": "http://dangjian.people.com.cn/",
    "ok": true,
-   "got": 43,
+   "got": 44,
    "count": 40
   },
   {
@@ -41,7 +41,7 @@
    "name": "人民网·观点",
    "home": "http://opinion.people.com.cn/",
    "ok": true,
-   "got": 46,
+   "got": 47,
    "count": 40
   }
  ],
@@ -133,6 +133,48 @@
   {
    "t": "3次东道主——中国这样与亚太同行",
    "u": "https://www.qstheory.cn/20261118/ab92b477535548308984d3945a124ebc/c.html",
+   "d": "2026-11-18",
+   "s": "qstheory"
+  },
+  {
+   "t": "习近平和彭丽媛为出席亚太经合组织第三十三次领导人非正式会议的来宾举行欢迎宴会",
+   "u": "https://www.qstheory.cn/20261118/f189203f72684fbcbfbb95513253a760/c.html",
+   "d": "2026-11-18",
+   "s": "qstheory"
+  },
+  {
+   "t": "习近平在亚太经合组织第三十三次领导人非正式会议欢迎晚宴上的祝酒辞（全文）",
+   "u": "https://www.qstheory.cn/20261118/c979511bb25142eb9c5280991af19720/c.html",
+   "d": "2026-11-18",
+   "s": "qstheory"
+  },
+  {
+   "t": "习近平迎接美国总统特朗普",
+   "u": "https://www.qstheory.cn/20261118/a7bd0807f1764ed48a591b0fc8ecd021/c.html",
+   "d": "2026-11-18",
+   "s": "qstheory"
+  },
+  {
+   "t": "习近平会见俄罗斯总统普京",
+   "u": "https://www.qstheory.cn/20261118/924beb85c3474d72aaaf615cc035a382/c.html",
+   "d": "2026-11-18",
+   "s": "qstheory"
+  },
+  {
+   "t": "习近平会见韩国总统李在明",
+   "u": "https://www.qstheory.cn/20261118/6ad7e8499f064e56b66a9131fdbb6a8d/c.html",
+   "d": "2026-11-18",
+   "s": "qstheory"
+  },
+  {
+   "t": "习近平在亚太经合组织工商领导人峰会上的主旨演讲（全文）",
+   "u": "https://www.qstheory.cn/20261118/3931651221eb4d058b93ab3fccd10ab0/c.html",
+   "d": "2026-11-18",
+   "s": "qstheory"
+  },
+  {
+   "t": "看深圳APEC，先看华强北的“7天速度”",
+   "u": "https://www.qstheory.cn/20261118/0ec0e346009b439d842eb5960dfc6698/c.html",
    "d": "2026-11-18",
    "s": "qstheory"
   },
@@ -242,48 +284,6 @@
    "t": "《习近平法治思想干部读本》出版发行",
    "u": "https://www.qstheory.cn/20261117/aa47526320e24d319c7cfc6d80f992d4/c.html",
    "d": "2026-11-17",
-   "s": "qstheory"
-  },
-  {
-   "t": "新华社快讯：习近平会见越共中央总书记、国家主席苏林",
-   "u": "https://www.qstheory.cn/20261117/87cb1b7b4ef54c81a7a3d3584b3d11fd/c.html",
-   "d": "2026-11-17",
-   "s": "qstheory"
-  },
-  {
-   "t": "习近平对人民法院工作作出重要指示",
-   "u": "https://www.qstheory.cn/20261117/448c980fea0340d9950bbef2d608b136/c.html",
-   "d": "2026-11-17",
-   "s": "qstheory"
-  },
-  {
-   "t": "权威导读！2026年第22期《求是》重点文章来了",
-   "u": "https://www.qstheory.cn/20261117/19e7f82882b4412b96f32dda55a4d5b4/c.html",
-   "d": "2026-11-17",
-   "s": "qstheory"
-  },
-  {
-   "t": "APEC和你有关吗？从这些水果说起",
-   "u": "https://www.qstheory.cn/20261117/2043ca61fabb4d48bd83fbb4ed1d2f62/c.html",
-   "d": "2026-11-17",
-   "s": "qstheory"
-  },
-  {
-   "t": "习近平将同俄罗斯总统普京、美国总统特朗普举行中俄美元首会晤",
-   "u": "https://www.qstheory.cn/20261116/403b1d62ef724fa69d20f6458ba584a3/c.html",
-   "d": "2026-11-16",
-   "s": "qstheory"
-  },
-  {
-   "t": "《习近平的文化情缘》（国际版）和《习主席的来信》（国际版）在APEC成员经济体主流媒体播出",
-   "u": "https://www.qstheory.cn/20261116/5eeeafb8d64d46e8823882b9fbf45a22/c.html",
-   "d": "2026-11-16",
-   "s": "qstheory"
-  },
-  {
-   "t": "察势而变向新行——习近平主席推动亚太创新发展的故事",
-   "u": "https://www.qstheory.cn/20261116/cb76a1bfb5db479bb7acf8adb3fced9e/c.html",
-   "d": "2026-11-16",
    "s": "qstheory"
   },
   {
@@ -785,6 +785,12 @@
    "s": "dangjian"
   },
   {
+   "t": "浙江衢州分级分类培训党员：自主点课 统筹送课",
+   "u": "http://dangjian.people.com.cn/n1/2026/1118/c117092-40836369.html",
+   "d": "2026-11-18",
+   "s": "dangjian"
+  },
+  {
    "t": "持续增强党的政治领导力（深入学习贯彻习近平新时代中国…",
    "u": "http://dangjian.people.com.cn/n1/2026/1117/c117092-40835250.html",
    "d": "2026-11-17",
@@ -905,6 +911,24 @@
    "s": "dangjian"
   },
   {
+   "t": "湖南全省国有企业基层党组织书记培训示范班在岳阳开班",
+   "u": "http://dangjian.people.com.cn/n1/2026/1116/c117092-40834861.html",
+   "d": "2026-11-16",
+   "s": "dangjian"
+  },
+  {
+   "t": "内蒙古新巴尔虎右旗：严把“四道关口”锻造高素质队伍",
+   "u": "http://dangjian.people.com.cn/n1/2026/1116/c117092-40834887.html",
+   "d": "2026-11-16",
+   "s": "dangjian"
+  },
+  {
+   "t": "江苏盐城经开区：以高质量党建引领非公企业高质量发展",
+   "u": "http://dangjian.people.com.cn/n1/2026/1116/c117092-40834890.html",
+   "d": "2026-11-16",
+   "s": "dangjian"
+  },
+  {
    "t": "从严抓“工程” 贵在持之以恒",
    "u": "http://dangjian.people.com.cn/n1/2026/1114/c117092-40833774.html",
    "d": "2026-11-14",
@@ -983,30 +1007,6 @@
    "s": "dangjian"
   },
   {
-   "t": "持之以恒全面从严治党的科学方法",
-   "u": "http://dangjian.people.com.cn/n1/2026/1112/c117092-40832485.html",
-   "d": "2026-11-12",
-   "s": "dangjian"
-  },
-  {
-   "t": "持之以恒推进全面从严治党",
-   "u": "http://dangjian.people.com.cn/n1/2026/1112/c117092-40832479.html",
-   "d": "2026-11-12",
-   "s": "dangjian"
-  },
-  {
-   "t": "保持惩治腐败高压态势",
-   "u": "http://dangjian.people.com.cn/n1/2026/1112/c117092-40832477.html",
-   "d": "2026-11-12",
-   "s": "dangjian"
-  },
-  {
-   "t": "强化党组织政治功能和组织功能",
-   "u": "http://dangjian.people.com.cn/n1/2026/1112/c117092-40832472.html",
-   "d": "2026-11-12",
-   "s": "dangjian"
-  },
-  {
    "t": "人民锐评：对乳山“低价看房团”来一场源头治理",
    "u": "http://opinion.people.com.cn/n1/2026/1118/c436867-40836086.html",
    "d": "2026-11-18",
@@ -1081,6 +1081,18 @@
   {
    "t": "一湖碧水映未来（金台随笔）",
    "u": "http://opinion.people.com.cn/n1/2026/1118/c461529-40835807.html",
+   "d": "2026-11-18",
+   "s": "opinion"
+  },
+  {
+   "t": "人民锐评：家庭教育没有特效药，收割焦虑是套路",
+   "u": "http://opinion.people.com.cn/n1/2026/1118/c436867-40836485.html",
+   "d": "2026-11-18",
+   "s": "opinion"
+  },
+  {
+   "t": "近日，北京大学一款羽绒外套刷屏社交平台，不仅上架即售罄，还掀起了一波“代购潮”。实际上，这并不是高校文创首次出圈。羽绒服、挎包、玩偶、月饼……一段时间以来，高校文创“爆款”不断。",
+   "u": "http://opinion.people.com.cn/n1/2026/1118/c223228-40836462.html",
    "d": "2026-11-18",
    "s": "opinion"
   },
@@ -1232,18 +1244,6 @@
    "t": "人民锐评：莫让摆拍流量消耗真善意",
    "u": "http://opinion.people.com.cn/n1/2026/1116/c436867-40834931.html",
    "d": "2026-11-16",
-   "s": "opinion"
-  },
-  {
-   "t": "人民锐评：老人的脸，不是牟利的筹码",
-   "u": "http://opinion.people.com.cn/n1/2026/1115/c436867-40834044.html",
-   "d": "2026-11-15",
-   "s": "opinion"
-  },
-  {
-   "t": "人民锐评：超级平台，须读懂“时间”的公共分量",
-   "u": "http://opinion.people.com.cn/n1/2026/1114/c436867-40833804.html",
-   "d": "2026-11-14",
    "s": "opinion"
   }
  ]
