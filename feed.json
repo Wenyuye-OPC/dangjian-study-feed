@@ -1,15 +1,15 @@
 {
  "app": "dangjian-study-feed",
  "ver": 1,
- "updated": "2026-11-20T13:00:01.250Z",
- "checked": "2026-11-20T13:00:01.250Z",
+ "updated": "2026-11-21T03:15:24.893Z",
+ "checked": "2026-11-21T03:15:24.893Z",
  "sources": [
   {
    "id": "qstheory",
    "name": "求是网",
    "home": "https://www.qstheory.cn/",
    "ok": true,
-   "got": 77,
+   "got": 81,
    "count": 40
   },
   {
@@ -41,11 +41,47 @@
    "name": "人民网·观点",
    "home": "http://opinion.people.com.cn/",
    "ok": true,
-   "got": 50,
+   "got": 51,
    "count": 40
   }
  ],
  "items": [
+  {
+   "t": "“像大鹏一样展翅高飞、鹏程万里”——习近平主席出席亚太经合组织深圳会议及相关活动纪实",
+   "u": "https://www.qstheory.cn/20261121/613f00b68f05474ba757c4c27b67f32c/c.html",
+   "d": "2026-11-21",
+   "s": "qstheory"
+  },
+  {
+   "t": "为共创亚太美好未来汇聚信心与力量——习近平主席APEC深圳会议期间系列重要讲话引发全球热烈反响",
+   "u": "https://www.qstheory.cn/20261121/4d2278d5969c443a900aa221982c8758/c.html",
+   "d": "2026-11-21",
+   "s": "qstheory"
+  },
+  {
+   "t": "中俄美三国最高领导人有史以来首次聚首",
+   "u": "https://www.qstheory.cn/20261121/6bcfb270eec643b781cc4fd6e47f2648/c.html",
+   "d": "2026-11-21",
+   "s": "qstheory"
+  },
+  {
+   "t": "特写：大国外交的“深圳时刻”",
+   "u": "https://www.qstheory.cn/20261121/e13303a48a0647d68682b5062a0f4925/c.html",
+   "d": "2026-11-21",
+   "s": "qstheory"
+  },
+  {
+   "t": "担当大国责任，共建美好世界",
+   "u": "https://www.qstheory.cn/20261121/458cd0e6d40049bd81e757ee1d1de780/c.html",
+   "d": "2026-11-21",
+   "s": "qstheory"
+  },
+  {
+   "t": "扛起大国责任，共同为世界和平托底",
+   "u": "https://www.qstheory.cn/20261121/ab2ff7049cc6494aa2cfc03801f09b2d/c.html",
+   "d": "2026-11-21",
+   "s": "qstheory"
+  },
   {
    "t": "为建设亚太共同体汇聚强大合力",
    "u": "https://www.qstheory.cn/20261120/d91a3d723d1246178336edb1f698c8bb/c.html",
@@ -155,6 +191,12 @@
    "s": "qstheory"
   },
   {
+   "t": "深入实施积极应对人口老龄化国家战略",
+   "u": "https://www.qstheory.cn/20261120/5585acc291754106aad8ac1c8bd246de/c.html",
+   "d": "2026-11-20",
+   "s": "qstheory"
+  },
+  {
    "t": "习近平在亚太经合组织第三十三次领导人非正式会议上的讲话（全文）",
    "u": "https://www.qstheory.cn/20261119/4b62a903f0ce4e89adfb9491cab342f7/c.html",
    "d": "2026-11-19",
@@ -241,48 +283,6 @@
   {
    "t": "习近平主持中俄美元首会晤",
    "u": "https://www.qstheory.cn/20261119/ce88cb7a5e2b4501a3f7057c5de9c3ff/c.html",
-   "d": "2026-11-19",
-   "s": "qstheory"
-  },
-  {
-   "t": "习近平：大国和，则世界安；大国斗，则世界乱",
-   "u": "https://www.qstheory.cn/20261119/5512a44a3f2b4601a02bf79af397d12c/c.html",
-   "d": "2026-11-19",
-   "s": "qstheory"
-  },
-  {
-   "t": "习近平就大国如何正确相处提出4点看法",
-   "u": "https://www.qstheory.cn/20261119/934010263ba84d91aad9a08f9451e56b/c.html",
-   "d": "2026-11-19",
-   "s": "qstheory"
-  },
-  {
-   "t": "习近平：三国会晤播下的种子必将生根发芽、开花结果",
-   "u": "https://www.qstheory.cn/20261119/1e58861abe314e109d841f06b962b8d3/c.html",
-   "d": "2026-11-19",
-   "s": "qstheory"
-  },
-  {
-   "t": "中俄美元首和平宣言",
-   "u": "https://www.qstheory.cn/20261119/abba118f5fb84115bd62a5d8ca9f2983/c.html",
-   "d": "2026-11-19",
-   "s": "qstheory"
-  },
-  {
-   "t": "习近平会见美国总统特朗普",
-   "u": "https://www.qstheory.cn/20261119/5432957dc03547e0bb9d9132f67c238d/c.html",
-   "d": "2026-11-19",
-   "s": "qstheory"
-  },
-  {
-   "t": "习近平对老龄工作作出重要指示",
-   "u": "https://www.qstheory.cn/20261119/1312aaa229244f998dc11ec4b2d485e7/c.html",
-   "d": "2026-11-19",
-   "s": "qstheory"
-  },
-  {
-   "t": "持续增强人民群众对司法公正的获得感",
-   "u": "https://www.qstheory.cn/20261119/228371bc6434499096c9addc546ce3e2/c.html",
    "d": "2026-11-19",
    "s": "qstheory"
   },
@@ -557,6 +557,36 @@
    "s": "theory"
   },
   {
+   "t": "走好我们这一代人的长征路",
+   "u": "http://theory.people.com.cn/n1/2026/1120/c40531-40837404.html",
+   "d": "2026-11-20",
+   "s": "theory"
+  },
+  {
+   "t": "人民论坛每日推荐（5篇）",
+   "u": "http://theory.people.com.cn/n1/2026/1120/c40531-40837543.html",
+   "d": "2026-11-20",
+   "s": "theory"
+  },
+  {
+   "t": "“投资于人”的价值意蕴",
+   "u": "http://theory.people.com.cn/n1/2026/1120/c40531-40837395.html",
+   "d": "2026-11-20",
+   "s": "theory"
+  },
+  {
+   "t": "深刻把握“坚持服务使命任务”的原则",
+   "u": "http://theory.people.com.cn/n1/2026/1120/c40531-40837390.html",
+   "d": "2026-11-20",
+   "s": "theory"
+  },
+  {
+   "t": "新时代重大文化课题的创造性回答",
+   "u": "http://theory.people.com.cn/n1/2026/1120/c40531-40837396.html",
+   "d": "2026-11-20",
+   "s": "theory"
+  },
+  {
    "t": "以党的政治建设为统领持之以恒推进全面从严治党（深入学习贯彻习近平新时代中国特色社会主义思想）",
    "u": "http://theory.people.com.cn/n1/2026/1119/c40531-40836853.html",
    "d": "2026-11-19",
@@ -569,7 +599,7 @@
    "s": "theory"
   },
   {
-   "t": "以数智技术助力加强权力监督（专题深思）",
+   "t": "| 以数智技术助力加强权力监督",
    "u": "http://theory.people.com.cn/n1/2026/1119/c40531-40836851.html",
    "d": "2026-11-19",
    "s": "theory"
@@ -734,36 +764,6 @@
    "t": "第七届全国史学高层论坛暨第十九届历史学前沿论坛召开",
    "u": "http://theory.people.com.cn/n1/2026/1117/c40534-40835694.html",
    "d": "2026-11-17",
-   "s": "theory"
-  },
-  {
-   "t": "坚持民生为大 提高社区治理水平",
-   "u": "http://theory.people.com.cn/n1/2026/1117/c40531-40835270.html",
-   "d": "2026-11-17",
-   "s": "theory"
-  },
-  {
-   "t": "2026年全国思想政治教育学术研讨会在江西赣州举办",
-   "u": "http://theory.people.com.cn/n1/2026/1117/c40531-40835411.html",
-   "d": "2026-11-17",
-   "s": "theory"
-  },
-  {
-   "t": "推动兴业、强县、富民一体发展",
-   "u": "http://theory.people.com.cn/n1/2026/1117/c40531-40835271.html",
-   "d": "2026-11-17",
-   "s": "theory"
-  },
-  {
-   "t": "人民论坛每日推荐（5篇）",
-   "u": "http://theory.people.com.cn/n1/2026/1117/c40531-40835335.html",
-   "d": "2026-11-17",
-   "s": "theory"
-  },
-  {
-   "t": "深刻把握持之以恒推进全面从严治党的原…",
-   "u": "http://theory.people.com.cn/n1/2026/1116/c40531-40834469.html",
-   "d": "2026-11-16",
    "s": "theory"
   },
   {
@@ -1079,6 +1079,12 @@
    "s": "opinion"
   },
   {
+   "t": "何以中国丨壹时评：长安回望诗千首，烟火人间续新篇",
+   "u": "http://opinion.people.com.cn/n1/2026/1120/c223228-40837889.html",
+   "d": "2026-11-20",
+   "s": "opinion"
+  },
+  {
    "t": "人民锐评：世界怎么了，我们怎么办？湾区联盟有答案",
    "u": "http://opinion.people.com.cn/n1/2026/1119/c436867-40836961.html",
    "d": "2026-11-19",
@@ -1237,12 +1243,6 @@
   {
    "t": "持续增强党的政治领导力（深入学习贯彻习近平新时代中国特色社会主义思想）",
    "u": "http://opinion.people.com.cn/n1/2026/1117/c461530-40835048.html",
-   "d": "2026-11-17",
-   "s": "opinion"
-  },
-  {
-   "t": "推动劳动教育提质增效（专题深思）",
-   "u": "http://opinion.people.com.cn/n1/2026/1117/c461530-40835049.html",
    "d": "2026-11-17",
    "s": "opinion"
   }
