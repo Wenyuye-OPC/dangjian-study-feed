@@ -1,15 +1,15 @@
 {
  "app": "dangjian-study-feed",
  "ver": 1,
- "updated": "2026-11-23T02:51:17.873Z",
- "checked": "2026-11-23T02:51:17.873Z",
+ "updated": "2026-11-23T14:46:21.814Z",
+ "checked": "2026-11-23T14:46:21.814Z",
  "sources": [
   {
    "id": "qstheory",
    "name": "求是网",
    "home": "https://www.qstheory.cn/",
    "ok": true,
-   "got": 81,
+   "got": 80,
    "count": 40
   },
   {
@@ -25,7 +25,7 @@
    "name": "人民网·理论",
    "home": "http://theory.people.com.cn/",
    "ok": true,
-   "got": 40,
+   "got": 38,
    "count": 40
   },
   {
@@ -41,7 +41,7 @@
    "name": "人民网·观点",
    "home": "http://opinion.people.com.cn/",
    "ok": true,
-   "got": 48,
+   "got": 45,
    "count": 40
   }
  ],
@@ -103,6 +103,30 @@
   {
    "t": "商务部新闻发言人就美国联邦通信委员会拟禁止中国电信运营商直接获取美国互联网电话号码资源答记者问",
    "u": "https://www.qstheory.cn/20261123/8f818ad4ad274553834981cbca7c5fe1/c.html",
+   "d": "2026-11-23",
+   "s": "qstheory"
+  },
+  {
+   "t": "习近平《在纪念孙中山先生诞辰160周年大会上的讲话》单行本出版",
+   "u": "https://www.qstheory.cn/20261123/135ccee6a2df4ea28948d58202408852/c.html",
+   "d": "2026-11-23",
+   "s": "qstheory"
+  },
+  {
+   "t": "如何树立正确用人导向？",
+   "u": "https://www.qstheory.cn/20261123/cbb794098d8240aca5b90948460aa2d6/c.html",
+   "d": "2026-11-23",
+   "s": "qstheory"
+  },
+  {
+   "t": "民主集中制有哪些优势？",
+   "u": "https://www.qstheory.cn/20261123/93f1ddc918684a64812b73a63297bdf9/c.html",
+   "d": "2026-11-23",
+   "s": "qstheory"
+  },
+  {
+   "t": "怎么看服务业占比高低问题",
+   "u": "https://www.qstheory.cn/20261123/6f4c95be48554a0897622e112ac1c148/c.html",
    "d": "2026-11-23",
    "s": "qstheory"
   },
@@ -259,30 +283,6 @@
   {
    "t": "习近平会见新加坡总理黄循财",
    "u": "https://www.qstheory.cn/20261120/e44ab9b2fd61486b9ee07e788dc333c8/c.html",
-   "d": "2026-11-20",
-   "s": "qstheory"
-  },
-  {
-   "t": "习近平会见澳大利亚总理阿尔巴尼斯",
-   "u": "https://www.qstheory.cn/20261120/dcb12b31484647468123d36268064233/c.html",
-   "d": "2026-11-20",
-   "s": "qstheory"
-  },
-  {
-   "t": "习近平会见印度尼西亚总统普拉博沃",
-   "u": "https://www.qstheory.cn/20261120/be91ed8b767047f2aae854907f7586fc/c.html",
-   "d": "2026-11-20",
-   "s": "qstheory"
-  },
-  {
-   "t": "王毅介绍亚太经合组织第三十三次领导人非正式会议及相关活动成果",
-   "u": "https://www.qstheory.cn/20261120/220db181954d41088da75ac4fb5eecb4/c.html",
-   "d": "2026-11-20",
-   "s": "qstheory"
-  },
-  {
-   "t": "亚太经合组织互联互通蓝图发布",
-   "u": "https://www.qstheory.cn/20261120/c20ba8c0afe64f36a1bc539049fa998a/c.html",
    "d": "2026-11-20",
    "s": "qstheory"
   },
@@ -857,6 +857,18 @@
    "s": "dangjian"
   },
   {
+   "t": "云南省普洱市思茅区：“候鸟社区”治理…",
+   "u": "http://dangjian.people.com.cn/n1/2026/1120/c117092-40837855.html",
+   "d": "2026-11-20",
+   "s": "dangjian"
+  },
+  {
+   "t": "新疆昌吉州呼图壁县：赋能“牛产业” …",
+   "u": "http://dangjian.people.com.cn/n1/2026/1120/c117092-40837849.html",
+   "d": "2026-11-20",
+   "s": "dangjian"
+  },
+  {
    "t": "以党的政治建设为统领持之以恒推进全面从严治党（深入学…",
    "u": "http://dangjian.people.com.cn/n1/2026/1119/c117092-40836825.html",
    "d": "2026-11-19",
@@ -995,18 +1007,6 @@
    "s": "dangjian"
   },
   {
-   "t": "火箭军某部提高党委理论学习中心组学习质量见闻与思考",
-   "u": "http://dangjian.people.com.cn/n1/2026/1117/c117092-40835224.html",
-   "d": "2026-11-17",
-   "s": "dangjian"
-  },
-  {
-   "t": "人民日报评论员：贯彻《条例》、守土尽责",
-   "u": "http://dangjian.people.com.cn/n1/2026/1116/c117092-40834407.html",
-   "d": "2026-11-16",
-   "s": "dangjian"
-  },
-  {
    "t": "以全面从严治党护航新的长征（连线评论员）",
    "u": "http://opinion.people.com.cn/n1/2026/1123/c461529-40838455.html",
    "d": "2026-11-23",
@@ -1057,6 +1057,12 @@
   {
    "t": "发挥党内政治生活锤炼党性的“大熔炉”作用（有的放矢）",
    "u": "http://opinion.people.com.cn/n1/2026/1123/c461530-40838446.html",
+   "d": "2026-11-23",
+   "s": "opinion"
+  },
+  {
+   "t": "环球时报社评：世界都在谈论深圳，他们谈论的是什么",
+   "u": "http://opinion.people.com.cn/n1/2026/1123/c462004-40838633.html",
    "d": "2026-11-23",
    "s": "opinion"
   },
@@ -1237,12 +1243,6 @@
   {
    "t": "人民锐评：对乳山“低价看房团”来一场源头治理",
    "u": "http://opinion.people.com.cn/n1/2026/1118/c436867-40836086.html",
-   "d": "2026-11-18",
-   "s": "opinion"
-  },
-  {
-   "t": "以公平正义护航奋进中国（今日谈）",
-   "u": "http://opinion.people.com.cn/n1/2026/1118/c461529-40835800.html",
    "d": "2026-11-18",
    "s": "opinion"
   }
