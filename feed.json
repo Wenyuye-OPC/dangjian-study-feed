@@ -1,8 +1,8 @@
 {
  "app": "dangjian-study-feed",
  "ver": 1,
- "updated": "2026-11-26T04:10:45.757Z",
- "checked": "2026-11-26T04:10:45.757Z",
+ "updated": "2026-11-26T13:57:38.716Z",
+ "checked": "2026-11-26T13:57:38.716Z",
  "sources": [
   {
    "id": "qstheory",
@@ -25,7 +25,7 @@
    "name": "人民网·理论",
    "home": "http://theory.people.com.cn/",
    "ok": true,
-   "got": 39,
+   "got": 34,
    "count": 40
   },
   {
@@ -41,7 +41,7 @@
    "name": "人民网·观点",
    "home": "http://opinion.people.com.cn/",
    "ok": true,
-   "got": 46,
+   "got": 45,
    "count": 40
   }
  ],
@@ -103,6 +103,18 @@
   {
    "t": "让文化遗产在数字空间焕发勃勃生机",
    "u": "https://www.qstheory.cn/20261126/3d54873bdeaf4c21843bb5508102c8a1/c.html",
+   "d": "2026-11-26",
+   "s": "qstheory"
+  },
+  {
+   "t": "提高党员、干部网上群众工作本领",
+   "u": "https://www.qstheory.cn/20261126/b3249f83ac7644cfa7c25740e61dde02/c.html",
+   "d": "2026-11-26",
+   "s": "qstheory"
+  },
+  {
+   "t": "推动服务业优质高效发展，关键在“融合”",
+   "u": "https://www.qstheory.cn/20261126/bd79b33adc184d5e8678686049985b76/c.html",
    "d": "2026-11-26",
    "s": "qstheory"
   },
@@ -271,18 +283,6 @@
   {
    "t": "守护“养老钱”“保命钱” 社保基金新规征求意见",
    "u": "https://www.qstheory.cn/20261124/04bff0788dca4ca0af01428f0cbd1a26/c.html",
-   "d": "2026-11-24",
-   "s": "qstheory"
-  },
-  {
-   "t": "“十五五”非遗传承人研培计划实施方案印发",
-   "u": "https://www.qstheory.cn/20261124/d5b30789a5574133a05e61cb55f30a1e/c.html",
-   "d": "2026-11-24",
-   "s": "qstheory"
-  },
-  {
-   "t": "人工智能，下一站是“科研”？",
-   "u": "https://www.qstheory.cn/20261124/e2b2a58fd2ce4e74befebcb7888c93a6/c.html",
    "d": "2026-11-24",
    "s": "qstheory"
   },
@@ -599,7 +599,7 @@
    "s": "theory"
   },
   {
-   "t": "新时代全面从严治党的伟大成就（学习贯彻党的二十届五中全会精神）",
+   "t": "新时代全面从严治党的伟大成就（学习贯…",
    "u": "http://theory.people.com.cn/n1/2026/1125/c40531-40840155.html",
    "d": "2026-11-25",
    "s": "theory"
@@ -611,7 +611,7 @@
    "s": "theory"
   },
   {
-   "t": "把握好作风建设的“常”与“长”（思想纵横）",
+   "t": "| 把握好作风建设的“常”与“长”",
    "u": "http://theory.people.com.cn/n1/2026/1125/c40531-40840153.html",
    "d": "2026-11-25",
    "s": "theory"
@@ -673,6 +673,12 @@
   {
    "t": "人民论坛每日推荐（5篇）",
    "u": "http://theory.people.com.cn/n1/2026/1125/c40531-40840150.html",
+   "d": "2026-11-25",
+   "s": "theory"
+  },
+  {
+   "t": "全国党校（行政学院）系统国家治理学科建设工作会议举办",
+   "u": "http://theory.people.com.cn/n1/2026/1125/c40531-40840285.html",
    "d": "2026-11-25",
    "s": "theory"
   },
@@ -758,12 +764,6 @@
    "t": "深刻把握“坚持全面从严”的原则",
    "u": "http://theory.people.com.cn/n1/2026/1124/c40531-40839394.html",
    "d": "2026-11-24",
-   "s": "theory"
-  },
-  {
-   "t": "贯彻执行民主集中制是全面从严治党的内在要求",
-   "u": "http://theory.people.com.cn/n1/2026/1123/c40531-40838734.html",
-   "d": "2026-11-23",
    "s": "theory"
   },
   {
