@@ -1,15 +1,15 @@
 {
  "app": "dangjian-study-feed",
  "ver": 1,
- "updated": "2026-11-27T04:17:37.623Z",
- "checked": "2026-11-27T04:17:37.623Z",
+ "updated": "2026-11-27T19:29:56.206Z",
+ "checked": "2026-11-27T19:29:56.206Z",
  "sources": [
   {
    "id": "qstheory",
    "name": "求是网",
    "home": "https://www.qstheory.cn/",
    "ok": true,
-   "got": 80,
+   "got": 84,
    "count": 40
   },
   {
@@ -41,7 +41,7 @@
    "name": "人民网·观点",
    "home": "http://opinion.people.com.cn/",
    "ok": true,
-   "got": 46,
+   "got": 45,
    "count": 40
   }
  ],
@@ -103,6 +103,48 @@
   {
    "t": "东风着陆场完成最后一次全系统演练 准备就绪迎神二十三飞船天外归来",
    "u": "https://www.qstheory.cn/20261127/2c0c07f7af8748a19f790c5df1e54d6a/c.html",
+   "d": "2026-11-27",
+   "s": "qstheory"
+  },
+  {
+   "t": "高举和平利用外层空间旗帜",
+   "u": "https://www.qstheory.cn/20261127/cee0e0a073cc4ee8b14604822763a648/c.html",
+   "d": "2026-11-27",
+   "s": "qstheory"
+  },
+  {
+   "t": "人工智能全球治理面临哪些现实挑战",
+   "u": "https://www.qstheory.cn/20261127/c0bcb963b27a46b598c1190ae5e2aa17/c.html",
+   "d": "2026-11-27",
+   "s": "qstheory"
+  },
+  {
+   "t": "全球人工智能治理体系存在哪些短板",
+   "u": "https://www.qstheory.cn/20261127/ff4ecedfd0914dc7849b5186da238f53/c.html",
+   "d": "2026-11-27",
+   "s": "qstheory"
+  },
+  {
+   "t": "携手构建公正合理的全球人工智能治理体系",
+   "u": "https://www.qstheory.cn/20261127/347e0de0635145899d157e5b9d6e91db/c.html",
+   "d": "2026-11-27",
+   "s": "qstheory"
+  },
+  {
+   "t": "文化走出去，是谁在走？",
+   "u": "https://www.qstheory.cn/20261127/70cf0213754b4d8e912f565452ca4242/c.html",
+   "d": "2026-11-27",
+   "s": "qstheory"
+  },
+  {
+   "t": "文化走出去，说到底是什么？",
+   "u": "https://www.qstheory.cn/20261127/b6e9be386e9e4067b14f71bd57218041/c.html",
+   "d": "2026-11-27",
+   "s": "qstheory"
+  },
+  {
+   "t": "家政服务大有可为",
+   "u": "https://www.qstheory.cn/20261127/92cc9a55916f462a999c7796d2824695/c.html",
    "d": "2026-11-27",
    "s": "qstheory"
   },
@@ -241,48 +283,6 @@
   {
    "t": "6G创新发展部省协同试点在上海启动",
    "u": "https://www.qstheory.cn/20261125/900484a0bad64752885d2480dced2264/c.html",
-   "d": "2026-11-25",
-   "s": "qstheory"
-  },
-  {
-   "t": "我国牵头制定78项人工智能国际标准",
-   "u": "https://www.qstheory.cn/20261125/e3989a22518740dea7ed4727f4a00057/c.html",
-   "d": "2026-11-25",
-   "s": "qstheory"
-  },
-  {
-   "t": "疾控“十五五”规划这样共绘健康蓝图",
-   "u": "https://www.qstheory.cn/20261125/c183bdcb3d604df488aff04afe574318/c.html",
-   "d": "2026-11-25",
-   "s": "qstheory"
-  },
-  {
-   "t": "数智时代，如何以科技之力有效应对人口老龄化",
-   "u": "https://www.qstheory.cn/20261125/5e02fe9cf17d41689dac766c20256897/c.html",
-   "d": "2026-11-25",
-   "s": "qstheory"
-  },
-  {
-   "t": "发展服务业，会拖累经济增长吗",
-   "u": "https://www.qstheory.cn/20261125/9dce8ed8854a4d79a4096d687ba0b9b7/c.html",
-   "d": "2026-11-25",
-   "s": "qstheory"
-  },
-  {
-   "t": "习近平对党内法规工作作出重要指示",
-   "u": "https://www.qstheory.cn/20261125/61d6487f3bfb46079d8b6d4fc596d323/c.html",
-   "d": "2026-11-25",
-   "s": "qstheory"
-  },
-  {
-   "t": "习近平同巴基斯坦总统扎尔达里就中巴航天员执行联合飞行任务互致贺电",
-   "u": "https://www.qstheory.cn/20261125/b8ba4c66c25f4c4c9979f8a43f9a469d/c.html",
-   "d": "2026-11-25",
-   "s": "qstheory"
-  },
-  {
-   "t": "气候谈判遇挫更需坚守多边主义正道",
-   "u": "https://www.qstheory.cn/20261125/440f2094d1e74715b0782db7731d68a8/c.html",
    "d": "2026-11-25",
    "s": "qstheory"
   },
@@ -1091,6 +1091,12 @@
    "s": "opinion"
   },
   {
+   "t": "壹时评：人工智能标准出海，让中国经验惠及全球",
+   "u": "http://opinion.people.com.cn/n1/2026/1127/c223228-40841771.html",
+   "d": "2026-11-27",
+   "s": "opinion"
+  },
+  {
    "t": "方寸间何以惠全球（评论员观察）",
    "u": "http://opinion.people.com.cn/n1/2026/1126/c461529-40840536.html",
    "d": "2026-11-26",
@@ -1237,12 +1243,6 @@
   {
    "t": "中国新能源汽车是给世界“做蛋糕”（人民时评）",
    "u": "http://opinion.people.com.cn/n1/2026/1124/c461529-40839202.html",
-   "d": "2026-11-24",
-   "s": "opinion"
-  },
-  {
-   "t": "密织疾控网 静水不停桨（微观）",
-   "u": "http://opinion.people.com.cn/n1/2026/1124/c461529-40839199.html",
    "d": "2026-11-24",
    "s": "opinion"
   }
